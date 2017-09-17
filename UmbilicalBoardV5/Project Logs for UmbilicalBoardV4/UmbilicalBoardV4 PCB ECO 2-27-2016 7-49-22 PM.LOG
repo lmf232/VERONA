@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=DC-DC regulator_StructureClass Member=DC-DC regulator
+Change Class Name : Old Net Name=DC-DC regulator New Net Name=BoostConverter
+Change Class Name : Old Net Name=DC-DC regulator_StructureClass New Net Name=BoostConverter_StructureClass
+Added Member To Structure Class: ClassName=BoostConverter_StructureClass Member=BoostConverter
+Change Room Name: Old Name=DC-DC regulator New Name=BoostConverter
+Change Room Scope: Old Scope=InComponentClass('DC-DC regulator') New Scope=InComponentClass('BoostConverter')

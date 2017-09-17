@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=V_BAT_1_JUMP5 Pin=Docking-A14
+Removed Pin From Net: NetName=V_BAT_1_JUMP5 Pin=Docking-A15
+Removed Pin From Net: NetName=V_BAT_1 Pin=JUMP5-1
+Removed Pin From Net: NetName=V_BAT_1_JUMP5 Pin=JUMP5-2
+Removed Pin From Net: NetName=V_BAT_1 Pin=PC-104-H2_45
+Removed Pin From Net: NetName=V_BAT_1 Pin=PC-104-H2_46
+Added Pin To Net: NetName=V_BAT_1 Pin=Docking-A14
+Added Pin To Net: NetName=V_BAT_1 Pin=Docking-A15
+Added Pin To Net: NetName=V_BAT_1_JUMP5 Pin=JUMP5-1
+Added Pin To Net: NetName=V_BAT_1 Pin=JUMP5-2
+Added Pin To Net: NetName=V_BAT_1_JUMP5 Pin=PC-104-H2_45
+Added Pin To Net: NetName=V_BAT_1_JUMP5 Pin=PC-104-H2_46
+Change Net Name : Old Net Name=V_BAT_1 New Net Name=V_BAT_1_JUMP5
+Change Net Name : Old Net Name=V_BAT_1_JUMP5 New Net Name=V_BAT_1

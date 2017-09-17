@@ -1,0 +1,5 @@
+Change Component Comment : Designator=XACT Old Comment=XACT New Comment=XACT_J1 Connector
+Added Pin To Net: NetName=+5V Pin=XACT-9
+Added Pin To Net: NetName=GPS-3V3 Pin=XACT-13
+Added Pin To Net: NetName=+12V Pin=XACT-15
+Added Pin To Net: NetName=+5V Pin=XACT-25

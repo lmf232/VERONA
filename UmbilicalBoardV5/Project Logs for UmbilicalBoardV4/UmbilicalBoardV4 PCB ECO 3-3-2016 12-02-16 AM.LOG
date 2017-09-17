@@ -1,0 +1,2 @@
+Added Component: Designator=SolenoidConnector(Solenoid)
+Added Member To Class: ClassName=SolSwitch Member=Component SolenoidConnector

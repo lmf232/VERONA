@@ -1,0 +1,10 @@
+Added Component: Designator=C_Supply(1210)
+Added Pin To Net: NetName=V_BAT_1 Pin=C_Supply-1
+Added Pin To Net: NetName=NetC_Supply_2 Pin=C_Supply-2
+Added Pin To Net: NetName=NetC_Supply_2 Pin=Cvin-1
+Added Pin To Net: NetName=NetC_Supply_2 Pin=R13-1
+Added Pin To Net: NetName=NetC_Supply_2 Pin=Rsns1-2
+Added Pin To Net: NetName=NetC_Supply_2 Pin=Rsns2-2
+Added Pin To Net: NetName=NetC_Supply_2 Pin=U1-7
+Added Net: Name=NetC_Supply_2
+Added Member To Class: ClassName=U_6Amp_DCDC Member=Component C_Supply C3225X6S1C226M

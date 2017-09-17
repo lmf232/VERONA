@@ -1,0 +1,4 @@
+Added Component: Designator=PIKSI_UARTA(Molex Picoblade 5 Pin)
+Added Class: Name=PIKSI_UARTA
+Added Class: Name=PIKSI_UARTA_StructureClass
+Added Member To Structure Class: ClassName=TopV4_StructureClass Member=PIKSI_UARTA_StructureClass

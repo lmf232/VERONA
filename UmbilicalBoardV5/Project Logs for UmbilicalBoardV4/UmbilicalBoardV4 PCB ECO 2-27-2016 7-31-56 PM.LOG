@@ -1,0 +1,137 @@
+Added Component: Designator=Cbst(1005)
+Added Component: Designator=Ccomp2(01005)
+Added Component: Designator=Ccomp(0201)
+Added Component: Designator=Cin2(0402)
+Added Component: Designator=Cin_2(0603)
+Added Component: Designator=Cin(0603)
+Added Component: Designator=Cout(1206)
+Added Component: Designator=Css(0402)
+Added Component: Designator=Cvcc(1608)
+Added Component: Designator=L1(XAL4020)
+Added Component: Designator=Rcomp(0402)
+Added Component: Designator=Rfbb(0603)
+Added Component: Designator=Rfbt(0402)
+Added Component: Designator=Rlim(1206)
+Added Component: Designator=Rt(1206)
+Added Component: Designator=U1(RHL0020A)
+Added Pin To Net: NetName=+12V Pin=Cout-1
+Added Pin To Net: NetName=+12V Pin=Rfbt-1
+Added Pin To Net: NetName=+12V Pin=U1-14
+Added Pin To Net: NetName=+12V Pin=U1-15
+Added Pin To Net: NetName=+12V Pin=U1-16
+Added Net: Name=+12V
+Added Pin To Net: NetName=BAT_GOM Pin=Cin2-1
+Added Pin To Net: NetName=BAT_GOM Pin=Cin-1
+Added Pin To Net: NetName=BAT_GOM Pin=Cin_2-1
+Added Pin To Net: NetName=BAT_GOM Pin=L1-1
+Added Pin To Net: NetName=BAT_GOM Pin=U1-9
+Added Net: Name=BAT_GOM
+Added Pin To Net: NetName=NetCbst_1 Pin=Cbst-1
+Added Pin To Net: NetName=NetCbst_1 Pin=L1-2
+Added Pin To Net: NetName=NetCbst_1 Pin=Rt-1
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-4
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-5
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-6
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-7
+Added Net: Name=NetCbst_1
+Added Pin To Net: NetName=NetCbst_2 Pin=Cbst-2
+Added Pin To Net: NetName=NetCbst_2 Pin=U1-8
+Added Net: Name=NetCbst_2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Ccomp2-2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rcomp-1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=U1-18
+Added Net: Name=NetCcomp2_2
+Added Pin To Net: NetName=NetCcomp_1 Pin=Ccomp-1
+Added Pin To Net: NetName=NetCcomp_1 Pin=Rcomp-2
+Added Net: Name=NetCcomp_1
+Added Pin To Net: NetName=NetCss_2 Pin=Css-2
+Added Pin To Net: NetName=NetCss_2 Pin=U1-10
+Added Net: Name=NetCss_2
+Added Pin To Net: NetName=NetCvcc_2 Pin=Cvcc-2
+Added Pin To Net: NetName=NetCvcc_2 Pin=U1-1
+Added Pin To Net: NetName=NetCvcc_2 Pin=U1-2
+Added Net: Name=NetCvcc_2
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbb-1
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbt-2
+Added Pin To Net: NetName=NetRfbb_1 Pin=U1-17
+Added Net: Name=NetRfbb_1
+Added Pin To Net: NetName=NetRlim_1 Pin=Rlim-1
+Added Pin To Net: NetName=NetRlim_1 Pin=U1-19
+Added Net: Name=NetRlim_1
+Added Pin To Net: NetName=NetRt_2 Pin=Rt-2
+Added Pin To Net: NetName=NetRt_2 Pin=U1-3
+Added Net: Name=NetRt_2
+Added Pin To Net: NetName=POWER_GND Pin=Ccomp2-1
+Added Pin To Net: NetName=POWER_GND Pin=Ccomp-2
+Added Pin To Net: NetName=POWER_GND Pin=Cin2-2
+Added Pin To Net: NetName=POWER_GND Pin=Cin-2
+Added Pin To Net: NetName=POWER_GND Pin=Cin_2-2
+Added Pin To Net: NetName=POWER_GND Pin=Cout-2
+Added Pin To Net: NetName=POWER_GND Pin=Css-1
+Added Pin To Net: NetName=POWER_GND Pin=Cvcc-1
+Added Pin To Net: NetName=POWER_GND Pin=Rfbb-2
+Added Pin To Net: NetName=POWER_GND Pin=Rlim-2
+Added Pin To Net: NetName=POWER_GND Pin=U1-11
+Added Pin To Net: NetName=POWER_GND Pin=U1-12
+Added Pin To Net: NetName=POWER_GND Pin=U1-13
+Added Pin To Net: NetName=POWER_GND Pin=U1-20
+Added Pin To Net: NetName=POWER_GND Pin=U1-21
+Added Net: Name=POWER_GND
+Added Member To Class: ClassName=DC-DC regulator Member=Component Cbst C1005X5R1A104K
+Added Member To Class: ClassName=DC-DC regulator Member=Component Ccomp2 CL02C100JO2ANNC
+Added Member To Class: ClassName=DC-DC regulator Member=Component Ccomp 02013A220GAT2A
+Added Member To Class: ClassName=DC-DC regulator Member=Component Cin2 GRM155R61C104KA8
+Added Member To Class: ClassName=DC-DC regulator Member=Component Cin_2 GRM188R61C106MA7
+Added Member To Class: ClassName=DC-DC regulator Member=Component Cin GRM188R61C106MA7
+Added Member To Class: ClassName=DC-DC regulator Member=Component Cout C3216X5R1E226M
+Added Member To Class: ClassName=DC-DC regulator Member=Component Css GRM155R71C822KA0
+Added Member To Class: ClassName=DC-DC regulator Member=Component Cvcc C1608X5R1A105K
+Added Member To Class: ClassName=DC-DC regulator Member=Component L1 XAL4020-601MEB
+Added Member To Class: ClassName=DC-DC regulator Member=Component Rcomp CRCW040249K9FKED
+Added Member To Class: ClassName=DC-DC regulator Member=Component Rfbb RC0603FR-0782KL
+Added Member To Class: ClassName=DC-DC regulator Member=Component Rfbt CRCW0402732KFKED
+Added Member To Class: ClassName=DC-DC regulator Member=Component Rlim ERJ-8ENF1133V
+Added Member To Class: ClassName=DC-DC regulator Member=Component Rt RC1206FR-0782KL
+Added Member To Class: ClassName=DC-DC regulator Member=Component U1 TPS61088RHLR
+Added Member To Class: ClassName=Cout_Nets Member=Wire +12V
+Added Member To Class: ClassName=Rfbt_Nets Member=Wire +12V
+Added Member To Class: ClassName=U1_Nets Member=Wire +12V
+Added Member To Class: ClassName=Cin2_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=Cin_2_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=Cin_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=L1_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=U1_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=Cbst_Nets Member=Wire NetCbst_1
+Added Member To Class: ClassName=L1_Nets Member=Wire NetCbst_1
+Added Member To Class: ClassName=Rt_Nets Member=Wire NetCbst_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCbst_1
+Added Member To Class: ClassName=Cbst_Nets Member=Wire NetCbst_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCbst_2
+Added Member To Class: ClassName=Ccomp2_Nets Member=Wire NetCcomp2_2
+Added Member To Class: ClassName=Rcomp_Nets Member=Wire NetCcomp2_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCcomp2_2
+Added Member To Class: ClassName=Ccomp_Nets Member=Wire NetCcomp_1
+Added Member To Class: ClassName=Rcomp_Nets Member=Wire NetCcomp_1
+Added Member To Class: ClassName=Css_Nets Member=Wire NetCss_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCss_2
+Added Member To Class: ClassName=Cvcc_Nets Member=Wire NetCvcc_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCvcc_2
+Added Member To Class: ClassName=Rfbb_Nets Member=Wire NetRfbb_1
+Added Member To Class: ClassName=Rfbt_Nets Member=Wire NetRfbb_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetRfbb_1
+Added Member To Class: ClassName=Rlim_Nets Member=Wire NetRlim_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetRlim_1
+Added Member To Class: ClassName=Rt_Nets Member=Wire NetRt_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetRt_2
+Added Member To Class: ClassName=Ccomp2_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Ccomp_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cin2_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cin_2_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cin_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cout_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Css_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cvcc_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Rfbb_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Rlim_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=U1_Nets Member=Wire POWER_GND
+Added Room: Name=DC-DC regulator

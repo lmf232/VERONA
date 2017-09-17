@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetIOconnector_1 Pin=IOconnector-1
+Removed Pin From Net: NetName=NetIOconnector_2 Pin=IOconnector-2
+Removed Member From Class: ClassName=U_IOconnector Member=IOconnector
+Change Component Description : Designator=R12 Old Description=- 696-1552-ND New Description=Resistor- 696-1552-ND
+Change Component Description : Designator=Docking Old Description=501571-3007 (uses 24 Pins) New Description=24 Pin Connector
+Change Component Description : Designator=R7 Old Description=CF14JT10K0CT-ND New Description=Imported
+Change Component Description : Designator=R8 Old Description=CF14JT10K0CT-ND New Description=Imported
+Change Component Description : Designator=R9 Old Description=CF14JT10K0CT-ND New Description=Imported
+Change Component Description : Designator=R10 Old Description=CF14JT10K0CT-ND New Description=Imported
+Change Component Description : Designator=R1 Old Description=CF14JT100RCT-ND New Description=Imported
+Change Component Description : Designator=R2 Old Description=CF14JT100RCT-ND New Description=Imported
+Change Component Description : Designator=R3 Old Description=CF14JT100RCT-ND New Description=Imported
+Change Component Description : Designator=R4 Old Description=CF14JT100RCT-ND New Description=Imported
+Change Component Description : Designator=Barrel Jack Old Description=Low (KLD-0202-B) New Description=Low Voltage Power Supply Connector
+Change Component Description : Designator=XACT Old Description=Molex 501571-4007 New Description=31 Pin Airborn Nano Connector
+Change Component Description : Designator=PIKSI_UARTA Old Description=Molex Picoblade Header, SMT, Right Angle  53261-0571 New Description=Molex Picoblade 5 Pin
+Change Component Description : Designator=RPOT Old Description=Potentiometer- 3352T-104LF-ND New Description=Potentiometer
+Change Component Description : Designator=JUMP1 Old Description=S1012E-02-ND (Pin), 3M9580-ND (Jumper) New Description=
+Change Component Description : Designator=JUMP2 Old Description=S1012E-02-ND (Pin), 3M9580-ND (Jumper) New Description=
+Change Component Description : Designator=JUMP3 Old Description=S1012E-02-ND (Pin), 3M9580-ND (Jumper) New Description=
+Change Component Description : Designator=JUMP4 Old Description=S1012E-02-ND (Pin), 3M9580-ND (Jumper) New Description=
+Change Component Description : Designator=JUMP5 Old Description=S1012E-02-ND (Pin), 3M9580-ND (Jumper) New Description=
+Change Component Description : Designator=D1 Old Description=SMCJ51AFSCT-ND New Description=Default Diode
+Change Component Description : Designator=D2 Old Description=SMCJ51AFSCT-ND New Description=Default Diode
+Change Component Description : Designator=D3 Old Description=SMCJ51AFSCT-ND New Description=Default Diode
+Change Component Description : Designator=D4 Old Description=SMCJ51AFSCT-ND New Description=Default Diode
+Change Component Description : Designator=OpAmp Old Description=UA741CD (SOIC Package) New Description=
+Added Component: Designator=IOconn_rev2(IOConn_Rev2)
+Added Pin To Net: NetName=NetIOconnector_1 Pin=IOconn_rev2-1
+Added Pin To Net: NetName=NetIOconnector_2 Pin=IOconn_rev2-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=IOconn_rev2-3
+Added Pin To Net: NetName=NetPC-104_H2_27 Pin=IOconn_rev2-4
+Change Net Name : Old Net Name=NetIOconnector_1 New Net Name=NetIOconn_rev2_1
+Change Net Name : Old Net Name=NetIOconnector_2 New Net Name=NetIOconn_rev2_2
+Change Net Name : Old Net Name=NetPC-104_H2_27 New Net Name=3V3_1

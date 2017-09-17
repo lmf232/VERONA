@@ -1,0 +1,28 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:05:02 PM On 7/28/2016
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [UmbilicalBoardV4.PcbDoc]
+   Generated File[UmbilicalBoardV4.GTL]
+   Generated File[UmbilicalBoardV4.GP1]
+   Generated File[UmbilicalBoardV4.GP2]
+   Generated File[UmbilicalBoardV4.GBL]
+   Generated File[UmbilicalBoardV4.GTO]
+   Generated File[UmbilicalBoardV4.GTP]
+   Generated File[UmbilicalBoardV4.GTS]
+   Generated File[UmbilicalBoardV4.GBS]
+   Generated File[UmbilicalBoardV4.GBP]
+   Generated File[UmbilicalBoardV4.GBO]
+   Generated File[UmbilicalBoardV4.GD1]
+   Generated File[UmbilicalBoardV4.GG1]
+   Generated File[UmbilicalBoardV4.RUL]
+   Generated File[UmbilicalBoardV4.EXTREP]
+   Generated File[UmbilicalBoardV4.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 2:05:09 PM On 7/28/2016

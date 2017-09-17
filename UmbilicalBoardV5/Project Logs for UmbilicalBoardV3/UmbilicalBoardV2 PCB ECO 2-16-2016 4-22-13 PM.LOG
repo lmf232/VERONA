@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=NetCout_1 Pin=R5-2
+Removed Pin From Net: NetName=NetCout_1 Pin=R6-2
+Removed Pin From Net: NetName=NetCout_1 Pin=R7-2
+Removed Pin From Net: NetName=NetCout_1 Pin=R8-2
+Removed Member From Class: ClassName=Solenoid Switching Member=R2
+Removed Member From Class: ClassName=Solenoid Switching Member=R3
+Removed Member From Class: ClassName=Solenoid Switching Member=R4
+Removed Member From Class: ClassName=Solenoid Switching Member=R5
+Removed Member From Class: ClassName=Solenoid Switching Member=R6
+Removed Member From Class: ClassName=Solenoid Switching Member=R7
+Removed Member From Class: ClassName=Solenoid Switching Member=R8
+Change Component Comment : Designator=J2 Old Comment=Umbilical PWR New Comment=PWR2.5
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q1_Solenoid Switching
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q2_Solenoid Switching
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q3_Solenoid Switching
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q4_Solenoid Switching
+Change Component Designator: OldDesignator=R1 NewDesignator=R1_Solenoid Switching
+Added Component: Designator=*(Molex Picoblade 5 Pin)
+Added Component: Designator=*(Airborn Nano)
+Added Component: Designator=*(Docking Connector)
+Added Component: Designator=*(Solenoids 8Pin Right Angle)
+Added Component: Designator=Q1_USB OTG Micro-B(TO-92)
+Added Component: Designator=Q2_USB OTG Micro-B(TO-92)
+Added Component: Designator=Q3_USB OTG Micro-B(TO-92)
+Added Component: Designator=Q4_USB OTG Micro-B(TO-92)
+Added Component: Designator=R1_USB OTG Micro-B(0402)
+Added Component: Designator=R2_Solenoid Switching(0402)
+Added Component: Designator=R2_USB OTG Micro-B(0402)
+Added Component: Designator=R3_Solenoid Switching(0402)
+Added Component: Designator=R3_USB OTG Micro-B(0402)
+Added Component: Designator=R4_Solenoid Switching(0402)
+Added Component: Designator=R4_USB OTG Micro-B(0402)
+Added Pin To Net: NetName=GND Pin=Q1_USB OTG Micro-B-3
+Added Pin To Net: NetName=GND Pin=Q2_USB OTG Micro-B-3
+Added Pin To Net: NetName=GND Pin=Q3_USB OTG Micro-B-3
+Added Pin To Net: NetName=GND Pin=Q4_USB OTG Micro-B-3
+Change Net Name : Old Net Name=GND New Net Name=DGND
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetQ1_Solenoid Switching_2
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR1_Solenoid Switching_2
+Added Pin To Net: NetName=NetQ1_Solenoid Switching_1 Pin=Q1_Solenoid Switching-1
+Added Net: Name=NetQ1_Solenoid Switching_1
+Added Pin To Net: NetName=NetQ1_USB OTG Micro-B_1 Pin=Q1_USB OTG Micro-B-1
+Added Net: Name=NetQ1_USB OTG Micro-B_1
+Added Pin To Net: NetName=NetQ1_USB OTG Micro-B_2 Pin=Q1_USB OTG Micro-B-2
+Added Pin To Net: NetName=NetQ1_USB OTG Micro-B_2 Pin=R1_USB OTG Micro-B-1
+Added Net: Name=NetQ1_USB OTG Micro-B_2
+Added Pin To Net: NetName=NetQ2_Solenoid Switching_1 Pin=Q2_Solenoid Switching-1
+Added Net: Name=NetQ2_Solenoid Switching_1
+Added Pin To Net: NetName=NetQ2_Solenoid Switching_2 Pin=Q2_Solenoid Switching-2
+Added Pin To Net: NetName=NetQ2_Solenoid Switching_2 Pin=R2_Solenoid Switching-2
+Added Net: Name=NetQ2_Solenoid Switching_2
+Added Pin To Net: NetName=NetQ2_USB OTG Micro-B_1 Pin=Q2_USB OTG Micro-B-1
+Added Net: Name=NetQ2_USB OTG Micro-B_1
+Added Pin To Net: NetName=NetQ2_USB OTG Micro-B_2 Pin=Q2_USB OTG Micro-B-2
+Added Pin To Net: NetName=NetQ2_USB OTG Micro-B_2 Pin=R2_USB OTG Micro-B-2
+Added Net: Name=NetQ2_USB OTG Micro-B_2
+Added Pin To Net: NetName=NetQ3_Solenoid Switching_1 Pin=Q3_Solenoid Switching-1
+Added Net: Name=NetQ3_Solenoid Switching_1
+Added Pin To Net: NetName=NetQ3_Solenoid Switching_2 Pin=Q3_Solenoid Switching-2
+Added Pin To Net: NetName=NetQ3_Solenoid Switching_2 Pin=R3_Solenoid Switching-2
+Added Net: Name=NetQ3_Solenoid Switching_2
+Added Pin To Net: NetName=NetQ3_USB OTG Micro-B_1 Pin=Q3_USB OTG Micro-B-1
+Added Net: Name=NetQ3_USB OTG Micro-B_1
+Added Pin To Net: NetName=NetQ3_USB OTG Micro-B_2 Pin=Q3_USB OTG Micro-B-2
+Added Pin To Net: NetName=NetQ3_USB OTG Micro-B_2 Pin=R3_USB OTG Micro-B-2
+Added Net: Name=NetQ3_USB OTG Micro-B_2
+Added Pin To Net: NetName=NetQ4_Solenoid Switching_1 Pin=Q4_Solenoid Switching-1
+Added Net: Name=NetQ4_Solenoid Switching_1
+Added Pin To Net: NetName=NetQ4_Solenoid Switching_2 Pin=Q4_Solenoid Switching-2
+Added Pin To Net: NetName=NetQ4_Solenoid Switching_2 Pin=R4_Solenoid Switching-2
+Added Net: Name=NetQ4_Solenoid Switching_2
+Added Pin To Net: NetName=NetQ4_USB OTG Micro-B_1 Pin=Q4_USB OTG Micro-B-1
+Added Net: Name=NetQ4_USB OTG Micro-B_1
+Added Pin To Net: NetName=NetQ4_USB OTG Micro-B_2 Pin=Q4_USB OTG Micro-B-2
+Added Pin To Net: NetName=NetQ4_USB OTG Micro-B_2 Pin=R4_USB OTG Micro-B-2
+Added Net: Name=NetQ4_USB OTG Micro-B_2
+Added Pin To Net: NetName=NetR1_USB OTG Micro-B_2 Pin=R1_USB OTG Micro-B-2
+Added Net: Name=NetR1_USB OTG Micro-B_2
+Added Pin To Net: NetName=NetR2_Solenoid Switching_1 Pin=R2_Solenoid Switching-1
+Added Net: Name=NetR2_Solenoid Switching_1
+Added Pin To Net: NetName=NetR2_USB OTG Micro-B_1 Pin=R2_USB OTG Micro-B-1
+Added Net: Name=NetR2_USB OTG Micro-B_1
+Added Pin To Net: NetName=NetR3_Solenoid Switching_1 Pin=R3_Solenoid Switching-1
+Added Net: Name=NetR3_Solenoid Switching_1
+Added Pin To Net: NetName=NetR3_USB OTG Micro-B_1 Pin=R3_USB OTG Micro-B-1
+Added Net: Name=NetR3_USB OTG Micro-B_1
+Added Pin To Net: NetName=NetR4_Solenoid Switching_1 Pin=R4_Solenoid Switching-1
+Added Net: Name=NetR4_Solenoid Switching_1
+Added Pin To Net: NetName=NetR4_USB OTG Micro-B_1 Pin=R4_USB OTG Micro-B-1
+Added Net: Name=NetR4_USB OTG Micro-B_1
+Added Class: Name=USB OTG Micro-B
+Added Class: Name=SolenoidSwitching
+Added Member To Class: ClassName=TopSheet Member=Component * PIKSI_UART Connector
+Added Member To Class: ClassName=Solenoid Switching Member=Component R2_Solenoid Switching (R2) Res1
+Added Member To Class: ClassName=Solenoid Switching Member=Component R3_Solenoid Switching (R3) Res1
+Added Member To Class: ClassName=Solenoid Switching Member=Component R4_Solenoid Switching (R4) Res1
+Added Room: Name=TopSheet
+Added Room: Name=USB OTG Micro-B

@@ -1,0 +1,71 @@
+Net Status Report
+Filename     : C:\Users\CADPUTER002\Documents\GitHub\OAANPower\Cornell\UmbilicalBoardV4\UmbilicalBoardV4.PcbDoc
+Date         : 2/27/2016
+Time         : 7:23:36 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +12V, Signal Layers Only, 0mm
+    +5V, Signal Layers Only, 0mm
+    BAT_CHARGE, Signal Layers Only, 0mm
+    BAT_GOM, Signal Layers Only, 0mm
+    C0, Signal Layers Only, 0mm
+    C1, Signal Layers Only, 0mm
+    C2, Signal Layers Only, 0mm
+    C3, Signal Layers Only, 0mm
+    D1_SOL1, Signal Layers Only, 0mm
+    D3_SOL3, Signal Layers Only, 0mm
+    D5_SOL5, Signal Layers Only, 0mm
+    D7_SOL7, Signal Layers Only, 0mm
+    DGND, Signal Layers Only, 0mm
+    GND, Signal Layers Only, 0mm
+    GND_STM, Signal Layers Only, 0mm
+    GOM_GND, Signal Layers Only, 0mm
+    GPIO1, Signal Layers Only, 0mm
+    GPIO2, Signal Layers Only, 0mm
+    GPIO3, Signal Layers Only, 0mm
+    GPIO_ANALOG, Signal Layers Only, 0mm
+    GPS-3V3, Signal Layers Only, 0mm
+    I2C_SCL, Signal Layers Only, 0mm
+    I2C_SDA, Signal Layers Only, 0mm
+    NetCbst_1, Signal Layers Only, 0mm
+    NetCbst_2, Signal Layers Only, 0mm
+    NetCcomp2_2, Signal Layers Only, 0mm
+    NetCcomp_1, Signal Layers Only, 0mm
+    NetCss_2, Signal Layers Only, 0mm
+    NetCurrentSource_1, Signal Layers Only, 0mm
+    NetCvcc_2, Signal Layers Only, 0mm
+    NetD5_2, Signal Layers Only, 0mm
+    NetD6_2, Signal Layers Only, 0mm
+    NetD7_2, Signal Layers Only, 0mm
+    NetD8_2, Signal Layers Only, 0mm
+    NetQ1_2, Signal Layers Only, 0mm
+    NetQ2_2, Signal Layers Only, 0mm
+    NetQ3_2, Signal Layers Only, 0mm
+    NetQ4_2, Signal Layers Only, 0mm
+    NetRfbb_1, Signal Layers Only, 0mm
+    NetRlim_1, Signal Layers Only, 0mm
+    NetRt_2, Signal Layers Only, 0mm
+    PCON_1, Signal Layers Only, 0mm
+    PCON_3, Signal Layers Only, 0mm
+    PCON_4, Signal Layers Only, 0mm
+    PCON_5, Signal Layers Only, 0mm
+    PCON_6, Signal Layers Only, 0mm
+    POWER_GND, Signal Layers Only, 0mm
+    Q1_SOL2, Signal Layers Only, 0mm
+    Q2_SOL4, Signal Layers Only, 0mm
+    Q3_SOL6, Signal Layers Only, 0mm
+    Q4_SOL8, Signal Layers Only, 0mm
+    SPI_MISO, Signal Layers Only, 0mm
+    SPI_MOSI, Signal Layers Only, 0mm
+    SPI_SCLK, Signal Layers Only, 0mm
+    SPI_SS, Signal Layers Only, 0mm
+    SWITCH_NO, Signal Layers Only, 0mm
+    UART4_RX, Signal Layers Only, 0mm
+    UART4_TX, Signal Layers Only, 0mm
+    UART5_RX, Signal Layers Only, 0mm
+    UART5_TX, Signal Layers Only, 0mm
+    USART3_RX, Signal Layers Only, 0mm
+    USART3_TX, Signal Layers Only, 0mm
+    V-, Signal Layers Only, 0mm
+count : 63

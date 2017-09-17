@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=3V3_2 Pin=JUMP4-1
+Removed Pin From Net: NetName=3V3_2_JUMP4 Pin=JUMP4-2
+Removed Pin From Net: NetName=GOM_GND_1 Pin=RFrame-1
+Change Component DesignItemId : Designator=R_voltdiv_1 Old DesignItemId=PMR100HZPFU6L00 New DesignItemId=CRCW040210R0FKED
+Change Component DesignItemId : Designator=R_voltdiv_2 Old DesignItemId=PMR100HZPFU6L00 New DesignItemId=CRCW040210R0FKED
+Change Component Footprint: Designator=R_voltdiv_1 Old Footprint=2512 New Footprint=0402
+Change Component Footprint: Designator=R_voltdiv_2 Old Footprint=2512 New Footprint=0402
+Change Component Comment : Designator=R_voltdiv_1 Old Comment= New Comment=3K
+Change Component Comment : Designator=R_voltdiv_2 Old Comment= New Comment=1090
+Change Component Description : Designator=PressureCon Old Description=Molex 70553-0005 New Description=Molex 53261-0671
+Added Component: Designator=JUMP6(Jumper(DIP2))
+Added Pin To Net: NetName=3V3_2 Pin=JUMP4-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=R_voltdiv_1-1
+Change Net Name : Old Net Name=3V3_2_JUMP4 New Net Name=3V3_2_JUMP6
+Added Pin To Net: NetName=+5V_4_JUMP4 Pin=JUMP4-2
+Added Pin To Net: NetName=+5V_4_JUMP4 Pin=PressCon_2-4
+Added Net: Name=+5V_4_JUMP4
+Added Pin To Net: NetName=+5V_4 Pin=JUMP4-1
+Added Pin To Net: NetName=+5V_4 Pin=PC-104-H1_48
+Added Net: Name=+5V_4
+Added Pin To Net: NetName=3V3_2_JUMP4 Pin=JUMP4-2
+Added Net: Name=3V3_2_JUMP4
+Added Pin To Net: NetName=FLIGHTTOGOM_I2C_SCL Pin=PC-104-H1_1
+Added Pin To Net: NetName=FLIGHTTOGOM_I2C_SCL Pin=PC-104-H2_43
+Added Net: Name=FLIGHTTOGOM_I2C_SCL
+Added Pin To Net: NetName=FLIGHTTOGOM_I2C_SDA Pin=PC-104-H1_3
+Added Pin To Net: NetName=FLIGHTTOGOM_I2C_SDA Pin=PC-104-H2_41
+Added Net: Name=FLIGHTTOGOM_I2C_SDA
+Added Pin To Net: NetName=GPIO_ADC Pin=PC-104-H2_17
+Added Pin To Net: NetName=GPIO_ADC Pin=R_voltdiv_1-2
+Added Pin To Net: NetName=GPIO_ADC Pin=R_voltdiv_2-2
+Added Net: Name=GPIO_ADC
+Added Pin To Net: NetName=NetPressCon_2_2 Pin=PressCon_2-2
+Added Pin To Net: NetName=NetPressCon_2_2 Pin=R_voltdiv_2-1
+Added Net: Name=NetPressCon_2_2

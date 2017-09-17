@@ -1,0 +1,79 @@
+Added Component: Designator=D1(SMC)
+Added Component: Designator=D2(SMC)
+Added Component: Designator=D3(SMC)
+Added Component: Designator=D4(SMC)
+Added Component: Designator=Q1(TO-226-AA)
+Added Component: Designator=Q2(TO-226-AA)
+Added Component: Designator=Q3(TO-226-AA)
+Added Component: Designator=Q4(TO-226-AA)
+Added Component: Designator=R1(0402)
+Added Component: Designator=R2(0402)
+Added Component: Designator=R3(0402)
+Added Component: Designator=R4(0402)
+Added Component: Designator=R7(AXIAL-0.3)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Component: Designator=R9(AXIAL-0.3)
+Added Component: Designator=R10(AXIAL-0.3)
+Added Component: Designator=SolenoidConnector(Solenoid_Samtech)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=+12V Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=+12V Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=+12V Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=+12V Pin=D4-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=GOM_GND_2 Pin=Q1-3
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=GOM_GND_2 Pin=Q2-3
+Added Pin To Net: NetName=NetD3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=GOM_GND_2 Pin=Q3-3
+Added Pin To Net: NetName=NetD4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=GOM_GND_2 Pin=Q4-3
+Added Pin To Net: NetName=C0 Pin=R1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-2
+Added Pin To Net: NetName=C1 Pin=R2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R2-2
+Added Pin To Net: NetName=C2 Pin=R3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=R4-2
+Added Pin To Net: NetName=C0 Pin=R7-1
+Added Pin To Net: NetName=GOM_GND_2 Pin=R7-2
+Added Pin To Net: NetName=C1 Pin=R8-1
+Added Pin To Net: NetName=GOM_GND_2 Pin=R8-2
+Added Pin To Net: NetName=C2 Pin=R9-1
+Added Pin To Net: NetName=GOM_GND_2 Pin=R9-2
+Added Pin To Net: NetName=NetR4_1 Pin=R10-1
+Added Pin To Net: NetName=GOM_GND_2 Pin=R10-2
+Added Pin To Net: NetName=+12V Pin=SolenoidConnector-A1
+Added Pin To Net: NetName=NetD1_1 Pin=SolenoidConnector-A2
+Added Pin To Net: NetName=+12V Pin=SolenoidConnector-A3
+Added Pin To Net: NetName=NetD2_1 Pin=SolenoidConnector-A4
+Added Pin To Net: NetName=+12V Pin=SolenoidConnector-A5
+Added Pin To Net: NetName=NetD3_1 Pin=SolenoidConnector-A6
+Added Pin To Net: NetName=+12V Pin=SolenoidConnector-A7
+Added Pin To Net: NetName=NetD4_1 Pin=SolenoidConnector-A8
+Added Member To Class: ClassName=SolSwitch Member=Component D1 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D2 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D3 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D4 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component Q1 MOSFET
+Added Member To Class: ClassName=SolSwitch Member=Component Q2 MOSFET
+Added Member To Class: ClassName=SolSwitch Member=Component Q3 MOSFET
+Added Member To Class: ClassName=SolSwitch Member=Component Q4 MOSFET
+Added Member To Class: ClassName=SolSwitch Member=Component R1 CRCW040249K9FKED
+Added Member To Class: ClassName=SolSwitch Member=Component R2 CRCW040249K9FKED
+Added Member To Class: ClassName=SolSwitch Member=Component R3 CRCW040249K9FKED
+Added Member To Class: ClassName=SolSwitch Member=Component R4 CRCW040249K9FKED
+Added Member To Class: ClassName=SolSwitch Member=Component R7 10k
+Added Member To Class: ClassName=SolSwitch Member=Component R8 10k
+Added Member To Class: ClassName=SolSwitch Member=Component R9 10k
+Added Member To Class: ClassName=SolSwitch Member=Component R10 10k
+Added Member To Class: ClassName=SolSwitch Member=Component SolenoidConnector Solenoid_Samtech
+Added Room: Name=SolSwitch

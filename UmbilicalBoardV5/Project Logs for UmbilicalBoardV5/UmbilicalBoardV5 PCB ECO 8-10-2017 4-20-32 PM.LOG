@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=+12V_1_JUMP10 Pin=D1-2
+Removed Pin From Net: NetName=+12V_1_JUMP10 Pin=D2-2
+Removed Pin From Net: NetName=+12V_1_JUMP10 Pin=D3-2
+Removed Pin From Net: NetName=+12V_1_JUMP10 Pin=D4-2
+Removed Pin From Net: NetName=GOM_GND_1 Pin=Q1-1
+Removed Pin From Net: NetName=GOM_GND_1 Pin=Q2-1
+Removed Pin From Net: NetName=GOM_GND_1 Pin=Q3-1
+Removed Pin From Net: NetName=GOM_GND_1 Pin=Q4-1
+Removed Pin From Net: NetName=GOM_GND_1 Pin=R7-1
+Removed Pin From Net: NetName=GOM_GND_1 Pin=R8-1
+Removed Pin From Net: NetName=GOM_GND_1 Pin=R9-1
+Removed Pin From Net: NetName=GOM_GND_1 Pin=R10-1
+Removed Pin From Net: NetName=+12V_1_JUMP10 Pin=SolenoidConnector-1
+Removed Pin From Net: NetName=+12V_1_JUMP10 Pin=SolenoidConnector-3
+Removed Pin From Net: NetName=+12V_1_JUMP10 Pin=SolenoidConnector-5
+Removed Pin From Net: NetName=+12V_1_JUMP10 Pin=SolenoidConnector-7
+Removed Member From Class: ClassName=TopV5_StructureClass Member=SolSwitch_StructureClass
+Added Pin To Net: NetName=NetPC-104_H2_13 Pin=PC-104-H2_13
+Added Net: Name=NetPC-104_H2_13
+Added Pin To Net: NetName=NetPC-104_H2_14 Pin=PC-104-H2_14
+Added Net: Name=NetPC-104_H2_14
+Added Pin To Net: NetName=NetPC-104_H2_15 Pin=PC-104-H2_15
+Added Net: Name=NetPC-104_H2_15
+Added Pin To Net: NetName=NetPC-104_H2_16 Pin=PC-104-H2_16
+Added Net: Name=NetPC-104_H2_16

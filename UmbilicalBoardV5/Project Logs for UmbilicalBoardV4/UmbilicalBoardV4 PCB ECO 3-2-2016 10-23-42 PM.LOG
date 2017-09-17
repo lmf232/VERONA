@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=Docking Old Footprint=New_Docking New Footprint=Docking Connector
+Change Component Comment : Designator=Docking Old Comment= New Comment=Docking Connector
+Added Pin To Net: NetName=NetDocking_0 Pin=Docking-0
+Added Pin To Net: NetName=NetDocking_1 Pin=Docking-1
+Added Pin To Net: NetName=NetDocking_2 Pin=Docking-2
+Added Pin To Net: NetName=+12V Pin=Docking-3
+Added Pin To Net: NetName=+12V Pin=Docking-4
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Docking-5
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Docking-6
+Added Pin To Net: NetName=+5V Pin=Docking-7
+Added Pin To Net: NetName=+5V Pin=Docking-8
+Added Pin To Net: NetName=NetBarrel Jack_2 Pin=Docking-9
+Added Pin To Net: NetName=NetBarrel Jack_2 Pin=Docking-10
+Added Pin To Net: NetName=NetBarrel Jack_2 Pin=Docking-11
+Added Pin To Net: NetName=NetBarrel Jack_2 Pin=Docking-12
+Added Pin To Net: NetName=BAT_GOM Pin=Docking-13
+Added Pin To Net: NetName=BAT_GOM Pin=Docking-14
+Added Pin To Net: NetName=NetDocking_15 Pin=Docking-15
+Added Pin To Net: NetName=NetDocking_16 Pin=Docking-16
+Added Pin To Net: NetName=NetDocking_17 Pin=Docking-17
+Added Pin To Net: NetName=NetDocking_18 Pin=Docking-18
+Added Pin To Net: NetName=NetDocking_19 Pin=Docking-19
+Added Pin To Net: NetName=NetDocking_20 Pin=Docking-20
+Added Pin To Net: NetName=NetDocking_21 Pin=Docking-21
+Added Pin To Net: NetName=NetDocking_22 Pin=Docking-22
+Added Pin To Net: NetName=NetDocking_23 Pin=Docking-23
+Added Member To Class: ClassName=Docking Member=Component Docking Docking Connector

@@ -1,0 +1,7 @@
+Added Component: Designator=JUMP6(Jumper(DIP2))
+Added Pin To Net: NetName=3V3_2 Pin=JUMP4-1
+Added Pin To Net: NetName=3V3_2_JUMP6 Pin=JUMP4-2
+Change Net Name : Old Net Name=3V3_2_JUMP6 New Net Name=3V3_2_JUMP4
+Added Pin To Net: NetName=+5V_4_JUMP6 Pin=JUMP4-2
+Added Pin To Net: NetName=+5V_4_JUMP6 Pin=PressCon_2-4
+Added Net: Name=+5V_4_JUMP6

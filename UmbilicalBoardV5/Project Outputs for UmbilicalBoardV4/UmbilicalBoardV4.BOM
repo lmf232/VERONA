@@ -1,0 +1,50 @@
+Bill of Material for 
+On 5/23/2016 at 3:31:59 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 06035A101JAT2A      0603             1    C12                          Imported             
+ 08053C104KAT2A      0805             2    Cboot, Cvin                  Imported             
+ 100                 AXIAL-0.3        4    R1, R2, R3, R4               Imported             
+ 1000                AXIAL-0.3        3    R11, R12, R15                Resistor- 696-1552-ND 
+ 100K                VR5              1    RPOT                         Potentiometer        
+ 1090                0402             1    R_voltdiv_2                  Imported             
+ 10k                 AXIAL-0.3        4    R7, R8, R9, R10              Imported             
+ 2N3906              TO-92A           1    Q5                           PNP General Purpose Amplifier 
+ 3K                  0402             1    R_voltdiv_1                  Imported             
+ AD627ARZ            R_8              1    PresAmp                      Imported             
+ Barrel_Jack         Barrel_Jack      1    B1                                                
+ C3216X5R1E476M16    1206_190         3    Cout_1, Cout_2, Cout_3       Imported             
+ C3225X6S1C226M      1210             3    Cin_1, Cin_2, Cin_3          Imported             
+ CC0805JRNPO9BN22    0805             1    Ccomp2                       Imported             
+ CC0805KRX7R9BB47    0805             1    Ccomp                        Imported             
+ CRCW0402100KFKED    0402             1    Rpg                          Imported             
+ CRCW0402107KFKED    0402             1    Rt                           Imported             
+ CRCW040210R0FKED    0402             2    R13, R14                     Imported             
+ CRCW040211K0FKED    0402             1    Rfbb                         Imported             
+ CRCW040297K6FKED    0402             1    Rfbt                         Imported             
+ CRCW04029K53FKED    0402             1    Rcomp                        Imported             
+ CSD16323Q3          TRANS_NexFET_Q3    1    M1                           Imported             
+ CSD16340Q3          TRANS_NexFET_Q3    1    M2                           Imported             
+ Diode               SMC              4    D1, D2, D3, D4               Default Diode        
+ Docking_Molex_30Pin DOCKING_MOLEX_30PIN    1    Docking                      24 Pin Connector     
+ GRM188R61C106MA7    0603             1    Cvcc                         Imported             
+ GRM188R71E472KA0    0603             1    Css                          Imported             
+ IOconn_rev2         IOCONN_REV2      1    IOconn_rev2                  Part Number: 53261-0471 
+ Jumper(DIP2)        JUMPER(DIP2)    10    JUMP1, JUMP2, JUMP3, JUMP4                        
+                                           JUMP5, JUMP6, JUMP7, JUMP8
+                                           JUMP9, JUMP10
+ MicroSwitch         MICROSWITCH_3PIN    1    Microswitch                  Omron Electronics Inc-EMC Div D2FS-FL-N-A1 
+ MLC1255-122MLB      MLC1255          1    L1                           Imported             
+ MOSFET              TO-226-AA        4    Q1, Q2, Q3, Q4               N-Channel MOSFET     
+ PC-104              PC-104FOOTPRINT    1    PC-104                       ESQ-126-14-G-D (2 total needed) 
+ PIKSI_UART Connector MOLEX PICOBLADE 5 PIN    1    PIKSI_UARTA                  Molex Picoblade 5 Pin 
+ PMR100HZPFU6L00     2512             2    Rsns1, Rsns2                 Imported             
+ PressureConn_2      PRESSCON_2       1    PressCon_2                                        
+ PressureConnector   PRESSURE CONNECTOR    1    PressureCon                  Molex 53261-0671     
+ RemoverBeforeFlightSwitch REMOVERBEFOREFLIGHT SWITCH    1    FlightSwitch                 53048-0210 Molex Picoblade 
+ Rframe              AXIAL-0.3        1    RFrame1                      Resistor -  CF14JT1M00CT-ND 
+ T2M-105-01-X-D-RA-WT T2M-105-01-X-D-RA-WT    1    SolenoidConnector            2MM PITCH SHROUDED RIGHT ANGLE TERMINAL STRIP. 
+ TPS43061RTER        S-PVQFN-N16      1    U1                           Imported             
+ UA741               UA741            1    OpAmp                                             
+ XACT_Molex_40Pin    XACT_MOLEX_40PIN    1    XACT                         31 Pin Airborn Nano Connector 

@@ -1,0 +1,73 @@
+Added Component: Designator=Docking(Docking Connector)
+Change Net Name : Old Net Name=+5V New Net Name=NetPC-104_H2_26
+Change Net Name : Old Net Name=+12V New Net Name=NetCout_1
+Change Net Name : Old Net Name=BAT_CHARGE New Net Name=NetPC-104_H1_32
+Change Net Name : Old Net Name=BAT_GOM New Net Name=NetCin2_1
+Change Net Name : Old Net Name=C0 New Net Name=NetD5_1
+Change Net Name : Old Net Name=C1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=C2 New Net Name=NetD7_1
+Change Net Name : Old Net Name=C3 New Net Name=NetD8_1
+Change Net Name : Old Net Name=GND New Net Name=NetPC-104_H2_30
+Change Net Name : Old Net Name=GND_STM New Net Name=NetPC-104_H2_1
+Change Net Name : Old Net Name=GOM_GND New Net Name=NetFlightSwitch_1
+Change Net Name : Old Net Name=GPIO1 New Net Name=NetPC-104_H1_20
+Change Net Name : Old Net Name=GPIO2 New Net Name=NetPC-104_H1_24
+Change Net Name : Old Net Name=GPIO3 New Net Name=NetPC-104_H1_26
+Change Net Name : Old Net Name=GPIO_ANALOG New Net Name=NetPC-104_H1_39
+Change Net Name : Old Net Name=GPS-3V3 New Net Name=NetPC-104_H2_27
+Change Net Name : Old Net Name=I2C_SCL New Net Name=NetPC-104_H1_1
+Change Net Name : Old Net Name=I2C_SDA New Net Name=NetPC-104_H1_3
+Change Net Name : Old Net Name=POWER_GND New Net Name=NetCcomp2_1
+Change Net Name : Old Net Name=SPI_MISO New Net Name=NetPC-104_H1_9
+Change Net Name : Old Net Name=SPI_MOSI New Net Name=NetPC-104_H1_11
+Change Net Name : Old Net Name=SPI_SCLK New Net Name=NetPC-104_H1_7
+Change Net Name : Old Net Name=SPI_SS New Net Name=NetPC-104_H1_5
+Change Net Name : Old Net Name=UART4_RX New Net Name=NetPC-104_H1_13
+Change Net Name : Old Net Name=UART4_TX New Net Name=NetPC-104_H1_15
+Change Net Name : Old Net Name=UART5_RX New Net Name=NetPC-104_H1_19
+Change Net Name : Old Net Name=UART5_TX New Net Name=NetPC-104_H1_17
+Change Net Name : Old Net Name=USART3_RX New Net Name=NetPC-104_H1_25
+Change Net Name : Old Net Name=USART3_TX New Net Name=NetPC-104_H1_27
+Added Pin To Net: NetName=NetDocking_0 Pin=Docking-0
+Added Net: Name=NetDocking_0
+Added Pin To Net: NetName=NetDocking_1 Pin=Docking-1
+Added Net: Name=NetDocking_1
+Added Pin To Net: NetName=NetDocking_2 Pin=Docking-2
+Added Net: Name=NetDocking_2
+Added Pin To Net: NetName=NetDocking_3 Pin=Docking-3
+Added Pin To Net: NetName=NetDocking_3 Pin=Docking-4
+Added Net: Name=NetDocking_3
+Added Pin To Net: NetName=NetDocking_5 Pin=Docking-5
+Added Pin To Net: NetName=NetDocking_5 Pin=Docking-6
+Added Net: Name=NetDocking_5
+Added Pin To Net: NetName=NetDocking_7 Pin=Docking-7
+Added Pin To Net: NetName=NetDocking_7 Pin=Docking-8
+Added Net: Name=NetDocking_7
+Added Pin To Net: NetName=NetDocking_9 Pin=Docking-9
+Added Pin To Net: NetName=NetDocking_9 Pin=Docking-10
+Added Pin To Net: NetName=NetDocking_9 Pin=Docking-11
+Added Pin To Net: NetName=NetDocking_9 Pin=Docking-12
+Added Net: Name=NetDocking_9
+Added Pin To Net: NetName=NetDocking_13 Pin=Docking-13
+Added Pin To Net: NetName=NetDocking_13 Pin=Docking-14
+Added Net: Name=NetDocking_13
+Added Pin To Net: NetName=NetDocking_15 Pin=Docking-15
+Added Net: Name=NetDocking_15
+Added Pin To Net: NetName=NetDocking_16 Pin=Docking-16
+Added Net: Name=NetDocking_16
+Added Pin To Net: NetName=NetDocking_17 Pin=Docking-17
+Added Net: Name=NetDocking_17
+Added Pin To Net: NetName=NetDocking_18 Pin=Docking-18
+Added Net: Name=NetDocking_18
+Added Pin To Net: NetName=NetDocking_19 Pin=Docking-19
+Added Net: Name=NetDocking_19
+Added Pin To Net: NetName=NetDocking_20 Pin=Docking-20
+Added Net: Name=NetDocking_20
+Added Pin To Net: NetName=NetDocking_21 Pin=Docking-21
+Added Net: Name=NetDocking_21
+Added Pin To Net: NetName=NetDocking_22 Pin=Docking-22
+Added Net: Name=NetDocking_22
+Added Pin To Net: NetName=NetDocking_23 Pin=Docking-23
+Added Net: Name=NetDocking_23
+Added Class: Name=Docking
+Added Room: Name=Docking

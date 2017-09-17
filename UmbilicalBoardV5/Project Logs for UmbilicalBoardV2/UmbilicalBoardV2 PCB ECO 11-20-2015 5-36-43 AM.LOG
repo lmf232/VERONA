@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetQ2_2 Pin=R2-1
+Removed Pin From Net: NetName=NetQ3_2 Pin=R3-1
+Removed Pin From Net: NetName=NetQ4_2 Pin=R4-1
+Change Component Footprint: Designator=R1 Old Footprint=6-0805_L New Footprint=0402
+Change Component Footprint: Designator=R2 Old Footprint=6-0805_L New Footprint=0402
+Change Component Footprint: Designator=R3 Old Footprint=6-0805_L New Footprint=0402
+Change Component Footprint: Designator=R4 Old Footprint=6-0805_L New Footprint=0402
+Change Component Footprint: Designator=Q1 Old Footprint=TO-226-AA New Footprint=TO-92
+Change Component Footprint: Designator=Q2 Old Footprint=TO-226-AA New Footprint=TO-92
+Change Component Footprint: Designator=Q3 Old Footprint=TO-226-AA New Footprint=TO-92
+Change Component Footprint: Designator=Q4 Old Footprint=TO-226-AA New Footprint=TO-92
+Added Pin To Net: NetName=NetQ2_2 Pin=R2-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R3-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=Solenoid Switching Member=Component R1 Res1
+Added Member To Class: ClassName=Solenoid Switching Member=Component R2 Res1
+Added Member To Class: ClassName=Solenoid Switching Member=Component R3 Res1
+Added Member To Class: ClassName=Solenoid Switching Member=Component R4 Res1
+Added Member To Class: ClassName=BoostConverter Member=Component Rfbb RC0603FR-0782KL

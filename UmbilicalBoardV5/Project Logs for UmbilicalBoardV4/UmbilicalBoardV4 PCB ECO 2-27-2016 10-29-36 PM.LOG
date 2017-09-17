@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetDocking_9 Pin=FlightSwitch-1
+Added Pin To Net: NetName=NetDocking_23 Pin=PC-104-H1_1
+Added Pin To Net: NetName=NetDocking_22 Pin=PC-104-H1_3
+Added Pin To Net: NetName=NetDocking_21 Pin=PC-104-H1_5
+Added Pin To Net: NetName=NetDocking_20 Pin=PC-104-H1_7
+Added Pin To Net: NetName=NetDocking_18 Pin=PC-104-H1_9
+Added Pin To Net: NetName=NetDocking_19 Pin=PC-104-H1_11
+Added Pin To Net: NetName=NetDocking_9 Pin=PC-104-H2_29

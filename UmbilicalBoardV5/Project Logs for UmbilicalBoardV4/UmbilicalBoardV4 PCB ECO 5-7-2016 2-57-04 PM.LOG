@@ -1,0 +1,6 @@
+Added Component: Designator=PressCon_2(PressCon_2)
+Added Component: Designator=R_voltdiv_1(2512)
+Added Component: Designator=R_voltdiv_2(2512)
+Added Pin To Net: NetName=NetPressCon_2_1 Pin=PressCon_2-1
+Added Net: Name=NetPressCon_2_1
+Added Member To Class: ClassName=U_IOconnector Member=Component IOconn_rev2

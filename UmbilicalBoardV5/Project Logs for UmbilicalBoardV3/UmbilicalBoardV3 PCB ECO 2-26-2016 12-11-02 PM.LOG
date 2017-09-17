@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=V- Pin=CurrentSource-0
+Removed Pin From Net: NetName=V- Pin=CurrentSource-1
+Removed Member From Class: ClassName=Cout_Nets Member=+V BUS VOLTAGE
+Removed Member From Class: ClassName=D1_Nets Member=+V BUS VOLTAGE
+Removed Member From Class: ClassName=D2_Nets Member=+V BUS VOLTAGE
+Removed Member From Class: ClassName=D3_Nets Member=+V BUS VOLTAGE
+Removed Member From Class: ClassName=D4_Nets Member=+V BUS VOLTAGE
+Removed Member From Class: ClassName=Q1_Nets Member=+V BUS VOLTAGE
+Removed Member From Class: ClassName=Q2_Nets Member=+V BUS VOLTAGE
+Removed Member From Class: ClassName=Q3_Nets Member=+V BUS VOLTAGE
+Removed Member From Class: ClassName=Q4_Nets Member=+V BUS VOLTAGE
+Removed Member From Class: ClassName=Rfbt_Nets Member=+V BUS VOLTAGE
+Removed Member From Class: ClassName=U1_Nets Member=+V BUS VOLTAGE
+Removed Member From Class: ClassName=CurrentSource_Nets Member=V-
+Removed Member From Class: ClassName=D5_Nets Member=V-
+Removed Member From Class: ClassName=R5_Nets Member=V-
+Added Pin To Net: NetName=+3.3V Pin=CurrentSource-0
+Added Pin To Net: NetName=NetCurrentSource_1 Pin=CurrentSource-1
+Change Net Name : Old Net Name=+V BUS VOLTAGE New Net Name=NetCout_1
+Change Net Name : Old Net Name=V- New Net Name=NetCurrentSource_2
+Added Member To Class: ClassName=Cout_Nets Member=Wire NetCout_1
+Added Member To Class: ClassName=D1_Nets Member=Wire NetCout_1
+Added Member To Class: ClassName=D2_Nets Member=Wire NetCout_1
+Added Member To Class: ClassName=D3_Nets Member=Wire NetCout_1
+Added Member To Class: ClassName=D4_Nets Member=Wire NetCout_1
+Added Member To Class: ClassName=Q1_Nets Member=Wire NetCout_1
+Added Member To Class: ClassName=Q2_Nets Member=Wire NetCout_1
+Added Member To Class: ClassName=Q3_Nets Member=Wire NetCout_1
+Added Member To Class: ClassName=Q4_Nets Member=Wire NetCout_1
+Added Member To Class: ClassName=Rfbt_Nets Member=Wire NetCout_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCout_1
+Added Member To Class: ClassName=CurrentSource_Nets Member=Wire NetCurrentSource_2
+Added Member To Class: ClassName=D5_Nets Member=Wire NetCurrentSource_2
+Added Member To Class: ClassName=R5_Nets Member=Wire NetCurrentSource_2

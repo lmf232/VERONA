@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=SolSwitch Member=Q5
+Removed Member From Class: ClassName=SolSwitch Member=R11
+Added Member To Class: ClassName=SolSwitch Member=Component Q4 MOSFET

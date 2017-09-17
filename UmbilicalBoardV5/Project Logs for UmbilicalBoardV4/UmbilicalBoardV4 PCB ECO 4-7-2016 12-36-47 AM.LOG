@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+12V_1_J7 Pin=SolenoidConnector-A1
+Removed Pin From Net: NetName=NetD1_1 Pin=SolenoidConnector-A2
+Removed Pin From Net: NetName=+12V_1_J7 Pin=SolenoidConnector-A3
+Removed Pin From Net: NetName=NetD2_1 Pin=SolenoidConnector-A4
+Removed Pin From Net: NetName=+12V_1_J7 Pin=SolenoidConnector-A5
+Removed Pin From Net: NetName=NetD3_1 Pin=SolenoidConnector-A6
+Removed Pin From Net: NetName=+12V_1_J7 Pin=SolenoidConnector-A7
+Removed Pin From Net: NetName=NetD4_1 Pin=SolenoidConnector-A8
+Change Component DesignItemId : Designator=SolenoidConnector Old DesignItemId=Solenoid_Samtech New DesignItemId=T2M-105-01-X-D-RA-WT
+Change Component Footprint: Designator=SolenoidConnector Old Footprint=SOLENOID_SAMTECH New Footprint=T2M-105-01-X-D-RA-WT
+Change Component Comment : Designator=SolenoidConnector Old Comment=Solenoid_Samtech New Comment=T2M-105-01-X-D-RA-WT
+Added Pin To Net: NetName=+12V_1_J7 Pin=SolenoidConnector-1
+Added Pin To Net: NetName=NetD1_1 Pin=SolenoidConnector-2
+Added Pin To Net: NetName=+12V_1_J7 Pin=SolenoidConnector-3
+Added Pin To Net: NetName=NetD2_1 Pin=SolenoidConnector-4
+Added Pin To Net: NetName=+12V_1_J7 Pin=SolenoidConnector-5
+Added Pin To Net: NetName=NetD3_1 Pin=SolenoidConnector-6
+Added Pin To Net: NetName=+12V_1_J7 Pin=SolenoidConnector-7
+Added Pin To Net: NetName=NetD4_1 Pin=SolenoidConnector-8

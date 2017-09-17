@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=SPI_MISO Pin=Docking-A19
+Added Pin To Net: NetName=SPI_MOSI Pin=Docking-A20
+Added Pin To Net: NetName=SPI_SCK Pin=Docking-A21
+Added Pin To Net: NetName=SPI_SS Pin=Docking-A22
+Added Pin To Net: NetName=SPI_SS Pin=PC-104-H1_5
+Added Pin To Net: NetName=SPI_SCK Pin=PC-104-H1_7
+Added Pin To Net: NetName=SPI_MISO Pin=PC-104-H1_9
+Added Pin To Net: NetName=SPI_MOSI Pin=PC-104-H1_11

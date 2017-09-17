@@ -1,0 +1,262 @@
+Added Component: Designator=H1-1(MHDR2X13)
+Added Component: Designator=H1-2(MHDR2X13)
+Added Component: Designator=H2-1(MHDR2X13)
+Added Component: Designator=H2-2(MHDR2X13)
+Added Component: Designator=P?(HDR2X25)
+Added Component: Designator=P?(HDR2X25)
+Added Pin To Net: NetName=GND Pin=H2-1-21
+Added Pin To Net: NetName=GND Pin=H2-1-22
+Added Pin To Net: NetName=GND Pin=H2-1-24
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-23
+Added Pin To Net: NetName=GND Pin=P?-49
+Added Pin To Net: NetName=GND Pin=P?-49
+Added Pin To Net: NetName=GND Pin=P?-50
+Added Pin To Net: NetName=GND Pin=P?-50
+Added Net: Name=GND
+Added Pin To Net: NetName=NetH1-1_7 Pin=H1-1-7
+Added Pin To Net: NetName=NetH1-1_7 Pin=P?-5
+Added Net: Name=NetH1-1_7
+Added Pin To Net: NetName=NetH1-1_8 Pin=H1-1-8
+Added Pin To Net: NetName=NetH1-1_8 Pin=P?-6
+Added Net: Name=NetH1-1_8
+Added Pin To Net: NetName=NetH1-1_9 Pin=H1-1-9
+Added Pin To Net: NetName=NetH1-1_9 Pin=P?-7
+Added Net: Name=NetH1-1_9
+Added Pin To Net: NetName=NetH1-1_11 Pin=H1-1-11
+Added Pin To Net: NetName=NetH1-1_11 Pin=P?-8
+Added Net: Name=NetH1-1_11
+Added Pin To Net: NetName=NetH1-1_13 Pin=H1-1-13
+Added Pin To Net: NetName=NetH1-1_13 Pin=P?-9
+Added Net: Name=NetH1-1_13
+Added Pin To Net: NetName=NetH1-1_14 Pin=H1-1-14
+Added Pin To Net: NetName=NetH1-1_14 Pin=P?-10
+Added Net: Name=NetH1-1_14
+Added Pin To Net: NetName=NetH1-1_15 Pin=H1-1-15
+Added Pin To Net: NetName=NetH1-1_15 Pin=P?-11
+Added Net: Name=NetH1-1_15
+Added Pin To Net: NetName=NetH1-1_16 Pin=H1-1-16
+Added Pin To Net: NetName=NetH1-1_16 Pin=P?-12
+Added Net: Name=NetH1-1_16
+Added Pin To Net: NetName=NetH1-1_17 Pin=H1-1-17
+Added Pin To Net: NetName=NetH1-1_17 Pin=P?-36
+Added Net: Name=NetH1-1_17
+Added Pin To Net: NetName=NetH1-1_18 Pin=H1-1-18
+Added Pin To Net: NetName=NetH1-1_18 Pin=P?-14
+Added Net: Name=NetH1-1_18
+Added Pin To Net: NetName=NetH1-1_19 Pin=H1-1-19
+Added Pin To Net: NetName=NetH1-1_19 Pin=P?-34
+Added Net: Name=NetH1-1_19
+Added Pin To Net: NetName=NetH1-1_20 Pin=H1-1-20
+Added Pin To Net: NetName=NetH1-1_20 Pin=P?-16
+Added Net: Name=NetH1-1_20
+Added Pin To Net: NetName=NetH1-1_22 Pin=H1-1-22
+Added Pin To Net: NetName=NetH1-1_22 Pin=P?-17
+Added Net: Name=NetH1-1_22
+Added Pin To Net: NetName=NetH1-1_23 Pin=H1-1-23
+Added Pin To Net: NetName=NetH1-1_23 Pin=P?-18
+Added Net: Name=NetH1-1_23
+Added Pin To Net: NetName=NetH1-1_24 Pin=H1-1-24
+Added Pin To Net: NetName=NetH1-1_24 Pin=P?-20
+Added Net: Name=NetH1-1_24
+Added Pin To Net: NetName=NetH1-1_25 Pin=H1-1-25
+Added Pin To Net: NetName=NetH1-1_25 Pin=P?-19
+Added Net: Name=NetH1-1_25
+Added Pin To Net: NetName=NetH1-1_26 Pin=H1-1-26
+Added Pin To Net: NetName=NetH1-1_26 Pin=P?-21
+Added Net: Name=NetH1-1_26
+Added Pin To Net: NetName=NetH1-2_1 Pin=H1-2-1
+Added Pin To Net: NetName=NetH1-2_1 Pin=P?-22
+Added Net: Name=NetH1-2_1
+Added Pin To Net: NetName=NetH1-2_2 Pin=H1-2-2
+Added Pin To Net: NetName=NetH1-2_2 Pin=P?-23
+Added Net: Name=NetH1-2_2
+Added Pin To Net: NetName=NetH1-2_3 Pin=H1-2-3
+Added Pin To Net: NetName=NetH1-2_3 Pin=P?-25
+Added Net: Name=NetH1-2_3
+Added Pin To Net: NetName=NetH1-2_4 Pin=H1-2-4
+Added Pin To Net: NetName=NetH1-2_4 Pin=P?-24
+Added Net: Name=NetH1-2_4
+Added Pin To Net: NetName=NetH1-2_5 Pin=H1-2-5
+Added Pin To Net: NetName=NetH1-2_5 Pin=P?-30
+Added Net: Name=NetH1-2_5
+Added Pin To Net: NetName=NetH1-2_6 Pin=H1-2-6
+Added Pin To Net: NetName=NetH1-2_6 Pin=P?-26
+Added Net: Name=NetH1-2_6
+Added Pin To Net: NetName=NetH1-2_7 Pin=H1-2-7
+Added Pin To Net: NetName=NetH1-2_7 Pin=P?-28
+Added Net: Name=NetH1-2_7
+Added Pin To Net: NetName=NetH1-2_8 Pin=H1-2-8
+Added Pin To Net: NetName=NetH1-2_8 Pin=P?-38
+Added Net: Name=NetH1-2_8
+Added Pin To Net: NetName=NetH1-2_9 Pin=H1-2-9
+Added Pin To Net: NetName=NetH1-2_9 Pin=P?-29
+Added Net: Name=NetH1-2_9
+Added Pin To Net: NetName=NetH1-2_10 Pin=H1-2-10
+Added Pin To Net: NetName=NetH1-2_10 Pin=P?-40
+Added Net: Name=NetH1-2_10
+Added Pin To Net: NetName=NetH1-2_11 Pin=H1-2-11
+Added Pin To Net: NetName=NetH1-2_11 Pin=P?-47
+Added Net: Name=NetH1-2_11
+Added Pin To Net: NetName=NetH1-2_12 Pin=H1-2-12
+Added Pin To Net: NetName=NetH1-2_12 Pin=P?-42
+Added Net: Name=NetH1-2_12
+Added Pin To Net: NetName=NetH1-2_13 Pin=H1-2-13
+Added Pin To Net: NetName=NetH1-2_13 Pin=P?-32
+Added Net: Name=NetH1-2_13
+Added Pin To Net: NetName=NetH1-2_14 Pin=H1-2-14
+Added Pin To Net: NetName=NetH1-2_14 Pin=P?-44
+Added Net: Name=NetH1-2_14
+Added Pin To Net: NetName=NetH1-2_15 Pin=H1-2-15
+Added Pin To Net: NetName=NetH1-2_15 Pin=P?-35
+Added Net: Name=NetH1-2_15
+Added Pin To Net: NetName=NetH1-2_16 Pin=H1-2-16
+Added Pin To Net: NetName=NetH1-2_16 Pin=P?-46
+Added Net: Name=NetH1-2_16
+Added Pin To Net: NetName=NetH1-2_17 Pin=H1-2-17
+Added Pin To Net: NetName=NetH1-2_17 Pin=P?-37
+Added Net: Name=NetH1-2_17
+Added Pin To Net: NetName=NetH1-2_18 Pin=H1-2-18
+Added Pin To Net: NetName=NetH1-2_18 Pin=P?-48
+Added Net: Name=NetH1-2_18
+Added Pin To Net: NetName=NetH1-2_19 Pin=H1-2-19
+Added Pin To Net: NetName=NetH1-2_19 Pin=P?-39
+Added Net: Name=NetH1-2_19
+Added Pin To Net: NetName=NetH1-2_21 Pin=H1-2-21
+Added Pin To Net: NetName=NetH1-2_21 Pin=P?-41
+Added Net: Name=NetH1-2_21
+Added Pin To Net: NetName=NetH1-2_23 Pin=H1-2-23
+Added Pin To Net: NetName=NetH1-2_23 Pin=P?-43
+Added Net: Name=NetH1-2_23
+Added Pin To Net: NetName=NetH1-2_25 Pin=H1-2-25
+Added Pin To Net: NetName=NetH1-2_25 Pin=P?-45
+Added Net: Name=NetH1-2_25
+Added Pin To Net: NetName=NetH2-1_1 Pin=H2-1-1
+Added Pin To Net: NetName=NetH2-1_1 Pin=P?-7
+Added Net: Name=NetH2-1_1
+Added Pin To Net: NetName=NetH2-1_2 Pin=H2-1-2
+Added Pin To Net: NetName=NetH2-1_2 Pin=P?-13
+Added Net: Name=NetH2-1_2
+Added Pin To Net: NetName=NetH2-1_3 Pin=H2-1-3
+Added Pin To Net: NetName=NetH2-1_3 Pin=P?-9
+Added Net: Name=NetH2-1_3
+Added Pin To Net: NetName=NetH2-1_4 Pin=H2-1-4
+Added Pin To Net: NetName=NetH2-1_4 Pin=P?-15
+Added Net: Name=NetH2-1_4
+Added Pin To Net: NetName=NetH2-1_5 Pin=H2-1-5
+Added Pin To Net: NetName=NetH2-1_5 Pin=P?-11
+Added Net: Name=NetH2-1_5
+Added Pin To Net: NetName=NetH2-1_6 Pin=H2-1-6
+Added Pin To Net: NetName=NetH2-1_6 Pin=P?-17
+Added Net: Name=NetH2-1_6
+Added Pin To Net: NetName=NetH2-1_9 Pin=H2-1-9
+Added Pin To Net: NetName=NetH2-1_9 Pin=P?-8
+Added Net: Name=NetH2-1_9
+Added Pin To Net: NetName=NetH2-1_10 Pin=H2-1-10
+Added Pin To Net: NetName=NetH2-1_10 Pin=P?-19
+Added Net: Name=NetH2-1_10
+Added Pin To Net: NetName=NetH2-1_11 Pin=H2-1-11
+Added Pin To Net: NetName=NetH2-1_11 Pin=P?-10
+Added Net: Name=NetH2-1_11
+Added Pin To Net: NetName=NetH2-1_12 Pin=H2-1-12
+Added Pin To Net: NetName=NetH2-1_12 Pin=P?-21
+Added Net: Name=NetH2-1_12
+Added Pin To Net: NetName=NetH2-1_13 Pin=H2-1-13
+Added Pin To Net: NetName=NetH2-1_13 Pin=P?-12
+Added Net: Name=NetH2-1_13
+Added Pin To Net: NetName=NetH2-1_14 Pin=H2-1-14
+Added Pin To Net: NetName=NetH2-1_14 Pin=P?-14
+Added Net: Name=NetH2-1_14
+Added Pin To Net: NetName=NetH2-1_16 Pin=H2-1-16
+Added Pin To Net: NetName=NetH2-1_16 Pin=H2-2-14
+Added Pin To Net: NetName=NetH2-1_16 Pin=P?-16
+Added Pin To Net: NetName=NetH2-1_16 Pin=P?-33
+Added Net: Name=NetH2-1_16
+Added Pin To Net: NetName=NetH2-1_18 Pin=H2-1-18
+Added Pin To Net: NetName=NetH2-1_18 Pin=P?-18
+Added Net: Name=NetH2-1_18
+Added Pin To Net: NetName=NetH2-1_19 Pin=H2-1-19
+Added Pin To Net: NetName=NetH2-1_19 Pin=P?-22
+Added Net: Name=NetH2-1_19
+Added Pin To Net: NetName=NetH2-1_20 Pin=H2-1-20
+Added Pin To Net: NetName=NetH2-1_20 Pin=P?-20
+Added Net: Name=NetH2-1_20
+Added Pin To Net: NetName=NetH2-2_1 Pin=H2-2-1
+Added Pin To Net: NetName=NetH2-2_1 Pin=H2-2-3
+Added Pin To Net: NetName=NetH2-2_1 Pin=P?-3
+Added Pin To Net: NetName=NetH2-2_1 Pin=P?-3
+Added Net: Name=NetH2-2_1
+Added Pin To Net: NetName=NetH2-2_2 Pin=H2-2-2
+Added Pin To Net: NetName=NetH2-2_2 Pin=H2-2-17
+Added Pin To Net: NetName=NetH2-2_2 Pin=P?-4
+Added Pin To Net: NetName=NetH2-2_2 Pin=P?-32
+Added Net: Name=NetH2-2_2
+Added Pin To Net: NetName=NetH2-2_4 Pin=H2-2-4
+Added Pin To Net: NetName=NetH2-2_4 Pin=P?-47
+Added Net: Name=NetH2-2_4
+Added Pin To Net: NetName=NetH2-2_5 Pin=H2-2-5
+Added Pin To Net: NetName=NetH2-2_5 Pin=P?-4
+Added Net: Name=NetH2-2_5
+Added Pin To Net: NetName=NetH2-2_6 Pin=H2-2-6
+Added Pin To Net: NetName=NetH2-2_6 Pin=P?-46
+Added Net: Name=NetH2-2_6
+Added Pin To Net: NetName=NetH2-2_7 Pin=H2-2-7
+Added Pin To Net: NetName=NetH2-2_7 Pin=P?-6
+Added Net: Name=NetH2-2_7
+Added Pin To Net: NetName=NetH2-2_8 Pin=H2-2-8
+Added Pin To Net: NetName=NetH2-2_8 Pin=P?-27
+Added Net: Name=NetH2-2_8
+Added Pin To Net: NetName=NetH2-2_9 Pin=H2-2-9
+Added Pin To Net: NetName=NetH2-2_9 Pin=P?-24
+Added Net: Name=NetH2-2_9
+Added Pin To Net: NetName=NetH2-2_10 Pin=H2-2-10
+Added Pin To Net: NetName=NetH2-2_10 Pin=P?-29
+Added Net: Name=NetH2-2_10
+Added Pin To Net: NetName=NetH2-2_11 Pin=H2-2-11
+Added Pin To Net: NetName=NetH2-2_11 Pin=P?-26
+Added Net: Name=NetH2-2_11
+Added Pin To Net: NetName=NetH2-2_12 Pin=H2-2-12
+Added Pin To Net: NetName=NetH2-2_12 Pin=P?-31
+Added Net: Name=NetH2-2_12
+Added Pin To Net: NetName=NetH2-2_13 Pin=H2-2-13
+Added Pin To Net: NetName=NetH2-2_13 Pin=P?-28
+Added Net: Name=NetH2-2_13
+Added Pin To Net: NetName=NetH2-2_15 Pin=H2-2-15
+Added Pin To Net: NetName=NetH2-2_15 Pin=P?-30
+Added Net: Name=NetH2-2_15
+Added Pin To Net: NetName=NetH2-2_16 Pin=H2-2-16
+Added Pin To Net: NetName=NetH2-2_16 Pin=P?-35
+Added Net: Name=NetH2-2_16
+Added Pin To Net: NetName=NetH2-2_18 Pin=H2-2-18
+Added Pin To Net: NetName=NetH2-2_18 Pin=P?-37
+Added Net: Name=NetH2-2_18
+Added Pin To Net: NetName=NetH2-2_19 Pin=H2-2-19
+Added Pin To Net: NetName=NetH2-2_19 Pin=P?-34
+Added Net: Name=NetH2-2_19
+Added Pin To Net: NetName=NetH2-2_20 Pin=H2-2-20
+Added Pin To Net: NetName=NetH2-2_20 Pin=P?-39
+Added Net: Name=NetH2-2_20
+Added Pin To Net: NetName=NetH2-2_21 Pin=H2-2-21
+Added Pin To Net: NetName=NetH2-2_21 Pin=P?-48
+Added Net: Name=NetH2-2_21
+Added Pin To Net: NetName=NetH2-2_22 Pin=H2-2-22
+Added Pin To Net: NetName=NetH2-2_22 Pin=P?-41
+Added Net: Name=NetH2-2_22
+Added Pin To Net: NetName=NetH2-2_23 Pin=H2-2-23
+Added Pin To Net: NetName=NetH2-2_23 Pin=P?-38
+Added Net: Name=NetH2-2_23
+Added Pin To Net: NetName=NetH2-2_24 Pin=H2-2-24
+Added Pin To Net: NetName=NetH2-2_24 Pin=P?-44
+Added Net: Name=NetH2-2_24
+Added Pin To Net: NetName=NetH2-2_25 Pin=H2-2-25
+Added Pin To Net: NetName=NetH2-2_25 Pin=P?-40
+Added Net: Name=NetH2-2_25
+Added Pin To Net: NetName=NetH2-2_26 Pin=H2-2-26
+Added Pin To Net: NetName=NetH2-2_26 Pin=P?-45
+Added Net: Name=NetH2-2_26
+Added Class: Name=AdapterBoard
+Added Room: Name=AdapterBoard

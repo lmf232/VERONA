@@ -1,0 +1,28 @@
+Added Component: Designator=*(PC-104FOOTPRINT)
+Added Component: Designator=P1(HDR2X25)
+Added Component: Designator=P2(HDR2X25)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-23
+Added Pin To Net: NetName=GND Pin=P1-49
+Added Pin To Net: NetName=GND Pin=P1-50
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=5V Pin=P2-3
+Added Pin To Net: NetName=5V Pin=P2-4
+Added Pin To Net: NetName=Net*_1 Pin=P2-6
+Added Pin To Net: NetName=Net*_2 Pin=P2-8
+Added Pin To Net: NetName=Net*_8 Pin=P2-10
+Added Pin To Net: NetName=Net*_9 Pin=P2-14
+Added Pin To Net: NetName=Net*_10 Pin=P2-16
+Added Pin To Net: NetName=GND Pin=P2-49
+Added Pin To Net: NetName=GND Pin=P2-50
+Added Member To Class: ClassName=AdapterBoard Member=Component * PC-104
+Added Member To Class: ClassName=AdapterBoard Member=Component P1 Header 25X2
+Added Member To Class: ClassName=AdapterBoard Member=Component P2 Header 25X2

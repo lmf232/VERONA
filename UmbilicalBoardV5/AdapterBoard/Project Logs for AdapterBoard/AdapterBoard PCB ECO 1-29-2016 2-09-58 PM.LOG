@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=AdapterBoard Member=PC-104
+Added Component: Designator=*(PC-104FOOTPRINT)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=P2-6
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=P2-8
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=P2-10
+Added Net: Name=Net*_3
+Added Member To Class: ClassName=AdapterBoard Member=Component * PC-104

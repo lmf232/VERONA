@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=SolSwitch Member=Q5
+Removed Member From Class: ClassName=PressureSensor Member=R7
+Change Component Designator: OldDesignator=R5 NewDesignator=R12
+Change Component Designator: OldDesignator=R6 NewDesignator=R13
+Change Component Designator: OldDesignator=R7 NewDesignator=R11
+Added Member To Class: ClassName=PressureSensor Member=Component R11 1000

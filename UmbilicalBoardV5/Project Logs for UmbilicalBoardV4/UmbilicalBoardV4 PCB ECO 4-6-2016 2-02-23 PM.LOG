@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+12V_1 Pin=XACT-A15
+Removed Pin From Net: NetName=+12V_1 Pin=XACT-A31
+Added Component: Designator=JUMP(Jumper(DIP18))
+Added Pin To Net: NetName=+12V_1 Pin=JUMP-18
+Added Pin To Net: NetName=+12V_1_J1 Pin=JUMP-1
+Added Pin To Net: NetName=+12V_1_J1 Pin=XACT-A15
+Added Net: Name=+12V_1_J1
+Added Class: Name=Jumper
+Added Room: Name=Jumper
+Added Room: Name=Switch

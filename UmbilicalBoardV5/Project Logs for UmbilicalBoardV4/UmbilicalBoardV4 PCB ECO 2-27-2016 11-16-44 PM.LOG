@@ -1,0 +1,282 @@
+Added Component: Designator=Cbst(1005)
+Added Component: Designator=Ccomp2(01005)
+Added Component: Designator=Ccomp(0201)
+Added Component: Designator=Cin2(0402)
+Added Component: Designator=Cin_2(0603)
+Added Component: Designator=Cin(0603)
+Added Component: Designator=Cout(1206)
+Added Component: Designator=Css(0402)
+Added Component: Designator=Cvcc(1608)
+Added Component: Designator=D1(SMC)
+Added Component: Designator=D2(SMC)
+Added Component: Designator=D3(SMC)
+Added Component: Designator=D4(SMC)
+Added Component: Designator=D5(SMC)
+Added Component: Designator=D6(SMC)
+Added Component: Designator=D7(SMC)
+Added Component: Designator=D8(SMC)
+Added Component: Designator=Docking(Docking Connector)
+Added Component: Designator=Dsub(MicroDSub)
+Added Component: Designator=FlightSwitch(RemoverBeforeFlight Switch)
+Added Component: Designator=L1(XAL4020)
+Added Component: Designator=Microswitch(MicroSwitch_3pin)
+Added Component: Designator=PC-104(PC-104FOOTPRINT)
+Added Component: Designator=PIKSI_UARTA(Molex Picoblade 5 Pin)
+Added Component: Designator=Q1(TO-226-AA)
+Added Component: Designator=Q2(TO-226-AA)
+Added Component: Designator=Q3(TO-226-AA)
+Added Component: Designator=Q4(TO-226-AA)
+Added Component: Designator=R1(0402)
+Added Component: Designator=R2(0402)
+Added Component: Designator=R3(0402)
+Added Component: Designator=R4(0402)
+Added Component: Designator=Rcomp(0402)
+Added Component: Designator=Rfbb(0603)
+Added Component: Designator=Rfbt(0402)
+Added Component: Designator=Rlim(1206)
+Added Component: Designator=Rt(1206)
+Added Component: Designator=SolenoidConnector(Solenoid)
+Added Component: Designator=U2(RHL0020A)
+Added Component: Designator=XACT(Airborn Nano)
+Added Pin To Net: NetName=+5V Pin=Docking-7
+Added Pin To Net: NetName=+5V Pin=Docking-8
+Added Pin To Net: NetName=+5V Pin=PC-104-H2_26
+Added Pin To Net: NetName=+5V Pin=XACT-9
+Added Pin To Net: NetName=+5V Pin=XACT-25
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V Pin=Cout-1
+Added Pin To Net: NetName=+12V Pin=D1-2
+Added Pin To Net: NetName=+12V Pin=D2-2
+Added Pin To Net: NetName=+12V Pin=D3-2
+Added Pin To Net: NetName=+12V Pin=D4-2
+Added Pin To Net: NetName=+12V Pin=Docking-3
+Added Pin To Net: NetName=+12V Pin=Docking-4
+Added Pin To Net: NetName=+12V Pin=Rfbt-1
+Added Pin To Net: NetName=+12V Pin=U2-14
+Added Pin To Net: NetName=+12V Pin=U2-15
+Added Pin To Net: NetName=+12V Pin=U2-16
+Added Pin To Net: NetName=+12V Pin=XACT-15
+Added Net: Name=+12V
+Added Pin To Net: NetName=BAT_GOM Pin=Cin2-1
+Added Pin To Net: NetName=BAT_GOM Pin=Cin-1
+Added Pin To Net: NetName=BAT_GOM Pin=Cin_2-1
+Added Pin To Net: NetName=BAT_GOM Pin=Docking-13
+Added Pin To Net: NetName=BAT_GOM Pin=Docking-14
+Added Pin To Net: NetName=BAT_GOM Pin=L1-1
+Added Pin To Net: NetName=BAT_GOM Pin=PC-104-H2_46
+Added Pin To Net: NetName=BAT_GOM Pin=U2-9
+Added Net: Name=BAT_GOM
+Added Pin To Net: NetName=DGND Pin=Q1-3
+Added Pin To Net: NetName=DGND Pin=Q2-3
+Added Pin To Net: NetName=DGND Pin=Q3-3
+Added Pin To Net: NetName=DGND Pin=Q4-3
+Added Net: Name=DGND
+Added Pin To Net: NetName=GPS-3V3 Pin=PC-104-H2_27
+Added Pin To Net: NetName=GPS-3V3 Pin=XACT-13
+Added Net: Name=GPS-3V3
+Added Pin To Net: NetName=NetCbst_1 Pin=Cbst-1
+Added Pin To Net: NetName=NetCbst_1 Pin=L1-2
+Added Pin To Net: NetName=NetCbst_1 Pin=Rt-1
+Added Pin To Net: NetName=NetCbst_1 Pin=U2-4
+Added Pin To Net: NetName=NetCbst_1 Pin=U2-5
+Added Pin To Net: NetName=NetCbst_1 Pin=U2-6
+Added Pin To Net: NetName=NetCbst_1 Pin=U2-7
+Added Net: Name=NetCbst_1
+Added Pin To Net: NetName=NetCbst_2 Pin=Cbst-2
+Added Pin To Net: NetName=NetCbst_2 Pin=U2-8
+Added Net: Name=NetCbst_2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Ccomp2-1
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Ccomp-2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Cin2-2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Cin-2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Cin_2-2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Cout-2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Css-1
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Cvcc-1
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Docking-5
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Docking-6
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Rfbb-2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Rlim-2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=U2-11
+Added Pin To Net: NetName=NetCcomp2_1 Pin=U2-12
+Added Pin To Net: NetName=NetCcomp2_1 Pin=U2-13
+Added Pin To Net: NetName=NetCcomp2_1 Pin=U2-20
+Added Pin To Net: NetName=NetCcomp2_1 Pin=U2-21
+Added Net: Name=NetCcomp2_1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Ccomp2-2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rcomp-1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=U2-18
+Added Net: Name=NetCcomp2_2
+Added Pin To Net: NetName=NetCcomp_1 Pin=Ccomp-1
+Added Pin To Net: NetName=NetCcomp_1 Pin=Rcomp-2
+Added Net: Name=NetCcomp_1
+Added Pin To Net: NetName=NetCss_2 Pin=Css-2
+Added Pin To Net: NetName=NetCss_2 Pin=U2-10
+Added Net: Name=NetCss_2
+Added Pin To Net: NetName=NetCvcc_2 Pin=Cvcc-2
+Added Pin To Net: NetName=NetCvcc_2 Pin=U2-1
+Added Pin To Net: NetName=NetCvcc_2 Pin=U2-2
+Added Net: Name=NetCvcc_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=Q3-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=Q4-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=PC-104-H2_13
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R1-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=PC-104-H2_14
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R2-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=PC-104-H2_15
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R3-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=PC-104-H2_16
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R4-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetDocking_0 Pin=Docking-0
+Added Pin To Net: NetName=NetDocking_0 Pin=PC-104-H1_20
+Added Net: Name=NetDocking_0
+Added Pin To Net: NetName=NetDocking_1 Pin=Docking-1
+Added Pin To Net: NetName=NetDocking_1 Pin=PC-104-H1_24
+Added Net: Name=NetDocking_1
+Added Pin To Net: NetName=NetDocking_2 Pin=Docking-2
+Added Pin To Net: NetName=NetDocking_2 Pin=PC-104-H1_26
+Added Net: Name=NetDocking_2
+Added Pin To Net: NetName=NetDocking_9 Pin=Docking-9
+Added Pin To Net: NetName=NetDocking_9 Pin=Docking-10
+Added Pin To Net: NetName=NetDocking_9 Pin=Docking-11
+Added Pin To Net: NetName=NetDocking_9 Pin=Docking-12
+Added Pin To Net: NetName=NetDocking_9 Pin=FlightSwitch-1
+Added Pin To Net: NetName=NetDocking_9 Pin=PC-104-H2_29
+Added Net: Name=NetDocking_9
+Added Pin To Net: NetName=NetDocking_15 Pin=Docking-15
+Added Pin To Net: NetName=NetDocking_15 Pin=PC-104-H1_27
+Added Net: Name=NetDocking_15
+Added Pin To Net: NetName=NetDocking_16 Pin=Docking-16
+Added Pin To Net: NetName=NetDocking_16 Pin=PC-104-H1_25
+Added Net: Name=NetDocking_16
+Added Pin To Net: NetName=NetDocking_17 Pin=Docking-17
+Added Pin To Net: NetName=NetDocking_17 Pin=PC-104-H2_1
+Added Net: Name=NetDocking_17
+Added Pin To Net: NetName=NetDocking_18 Pin=Docking-18
+Added Pin To Net: NetName=NetDocking_18 Pin=PC-104-H1_9
+Added Net: Name=NetDocking_18
+Added Pin To Net: NetName=NetDocking_19 Pin=Docking-19
+Added Pin To Net: NetName=NetDocking_19 Pin=PC-104-H1_11
+Added Net: Name=NetDocking_19
+Added Pin To Net: NetName=NetDocking_20 Pin=Docking-20
+Added Pin To Net: NetName=NetDocking_20 Pin=PC-104-H1_7
+Added Net: Name=NetDocking_20
+Added Pin To Net: NetName=NetDocking_21 Pin=Docking-21
+Added Pin To Net: NetName=NetDocking_21 Pin=PC-104-H1_5
+Added Net: Name=NetDocking_21
+Added Pin To Net: NetName=NetDocking_22 Pin=Docking-22
+Added Pin To Net: NetName=NetDocking_22 Pin=PC-104-H1_3
+Added Net: Name=NetDocking_22
+Added Pin To Net: NetName=NetDocking_23 Pin=Docking-23
+Added Pin To Net: NetName=NetDocking_23 Pin=PC-104-H1_1
+Added Net: Name=NetDocking_23
+Added Pin To Net: NetName=NetDsub_1 Pin=Dsub-1
+Added Net: Name=NetDsub_1
+Added Pin To Net: NetName=NetDsub_2 Pin=Dsub-2
+Added Net: Name=NetDsub_2
+Added Pin To Net: NetName=NetPC-104_H1_13 Pin=PC-104-H1_13
+Added Net: Name=NetPC-104_H1_13
+Added Pin To Net: NetName=NetPC-104_H1_15 Pin=PC-104-H1_15
+Added Net: Name=NetPC-104_H1_15
+Added Pin To Net: NetName=NetPC-104_H1_17 Pin=PC-104-H1_17
+Added Net: Name=NetPC-104_H1_17
+Added Pin To Net: NetName=NetPC-104_H1_19 Pin=PC-104-H1_19
+Added Net: Name=NetPC-104_H1_19
+Added Pin To Net: NetName=NetPC-104_H1_32 Pin=PC-104-H1_32
+Added Net: Name=NetPC-104_H1_32
+Added Pin To Net: NetName=NetPC-104_H1_39 Pin=PC-104-H1_39
+Added Net: Name=NetPC-104_H1_39
+Added Pin To Net: NetName=NetPC-104_H2_30 Pin=PC-104-H2_30
+Added Net: Name=NetPC-104_H2_30
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R2-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R3-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R4-2
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbb-1
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbt-2
+Added Pin To Net: NetName=NetRfbb_1 Pin=U2-17
+Added Net: Name=NetRfbb_1
+Added Pin To Net: NetName=NetRlim_1 Pin=Rlim-1
+Added Pin To Net: NetName=NetRlim_1 Pin=U2-19
+Added Net: Name=NetRlim_1
+Added Pin To Net: NetName=NetRt_2 Pin=Rt-2
+Added Pin To Net: NetName=NetRt_2 Pin=U2-3
+Added Net: Name=NetRt_2
+Added Class: Name=PIKSI_UARTA_StructureClass
+Added Member To Class: ClassName=BoostConverter Member=Component Cbst C1005X5R1A104K
+Added Member To Class: ClassName=BoostConverter Member=Component Ccomp2 CL02C100JO2ANNC
+Added Member To Class: ClassName=BoostConverter Member=Component Ccomp 02013A220GAT2A
+Added Member To Class: ClassName=BoostConverter Member=Component Cin2 GRM155R61C104KA8
+Added Member To Class: ClassName=BoostConverter Member=Component Cin_2 GRM188R61C106MA7
+Added Member To Class: ClassName=BoostConverter Member=Component Cin GRM188R61C106MA7
+Added Member To Class: ClassName=BoostConverter Member=Component Cout C3216X5R1E226M
+Added Member To Class: ClassName=BoostConverter Member=Component Css GRM155R71C822KA0
+Added Member To Class: ClassName=BoostConverter Member=Component Cvcc C1608X5R1A105K
+Added Member To Class: ClassName=SolSwitch Member=Component D1 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D2 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D3 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D4 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D5 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D6 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D7 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D8 Diode
+Added Member To Class: ClassName=Docking Member=Component Docking Docking Connector
+Added Member To Class: ClassName=Dsub Member=Component Dsub MicroDSub
+Added Member To Class: ClassName=Switches Member=Component FlightSwitch RemoverBeforeFlightSwitch
+Added Member To Class: ClassName=BoostConverter Member=Component L1 XAL4020-601MEB
+Added Member To Class: ClassName=Switches Member=Component Microswitch
+Added Member To Class: ClassName=Umbilical104 Member=Component PC-104
+Added Member To Class: ClassName=PIKSI_UARTA Member=Component PIKSI_UARTA PIKSI_UARTA Connector
+Added Member To Class: ClassName=SolSwitch Member=Component Q1 NPN
+Added Member To Class: ClassName=SolSwitch Member=Component Q2 NPN
+Added Member To Class: ClassName=SolSwitch Member=Component Q3 NPN
+Added Member To Class: ClassName=SolSwitch Member=Component Q4 NPN
+Added Member To Class: ClassName=SolSwitch Member=Component R1 CRCW040249K9FKED
+Added Member To Class: ClassName=SolSwitch Member=Component R2 CRCW040249K9FKED
+Added Member To Class: ClassName=SolSwitch Member=Component R3 CRCW040249K9FKED
+Added Member To Class: ClassName=SolSwitch Member=Component R4 CRCW040249K9FKED
+Added Member To Class: ClassName=BoostConverter Member=Component Rcomp CRCW040249K9FKED
+Added Member To Class: ClassName=BoostConverter Member=Component Rfbb RC0603FR-0782KL
+Added Member To Class: ClassName=BoostConverter Member=Component Rfbt CRCW0402732KFKED
+Added Member To Class: ClassName=BoostConverter Member=Component Rlim ERJ-8ENF1133V
+Added Member To Class: ClassName=BoostConverter Member=Component Rt RC1206FR-0782KL
+Added Member To Class: ClassName=SolSwitch Member=Component SolenoidConnector
+Added Member To Class: ClassName=BoostConverter Member=Component U2 TPS61088RHLR
+Added Member To Class: ClassName=XACT Member=Component XACT XACT_J1 Connector
+Added Member To Structure Class: ClassName=TopV4_StructureClass Member=PIKSI_UARTA_StructureClass
+Added Room: Name=BoostConverter
+Added Room: Name=SolSwitch

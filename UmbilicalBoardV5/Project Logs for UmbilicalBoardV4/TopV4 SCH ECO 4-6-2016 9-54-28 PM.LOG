@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=R1 Old Footprint=2512 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R2 Old Footprint=2512 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R3 Old Footprint=2512 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R4 Old Footprint=2512 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R7 Old Footprint=2512 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R8 Old Footprint=2512 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R9 Old Footprint=2512 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R10 Old Footprint=2512 New Footprint=AXIAL-0.3
+Change Component Comment: Designator=R7 Old Comment=100 New Comment=10k
+Change Component Comment: Designator=R8 Old Comment=100 New Comment=10k
+Change Component Comment: Designator=R9 Old Comment=100 New Comment=10k
+Change Component Comment: Designator=R10 Old Comment=100 New Comment=10k

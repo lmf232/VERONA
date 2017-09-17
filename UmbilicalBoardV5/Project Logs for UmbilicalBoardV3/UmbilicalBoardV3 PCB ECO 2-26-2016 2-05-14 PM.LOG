@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetCurrentSource_2 Pin=CurrentSource-0
+Removed Pin From Net: NetName=NetCurrentSource_2 Pin=CurrentSource-1
+Removed Pin From Net: NetName=B9 Pin=Docking-21
+Removed Pin From Net: NetName=B9 Pin=Docking-23
+Removed Pin From Net: NetName=B9 Pin=Docking-24
+Removed Pin From Net: NetName=B9 Pin=Docking-25
+Removed Pin From Net: NetName=NetPInstrAmp_RG2 Pin=PressureCon-1
+Removed Pin From Net: NetName=NetPInstrAmp_RG2 Pin=PressureCon-2
+Removed Pin From Net: NetName=NetPInstrAmp_RG2 Pin=PressureCon-3
+Removed Pin From Net: NetName=NetPInstrAmp_RG2 Pin=PressureCon-4
+Removed Pin From Net: NetName=NetPInstrAmp_RG2 Pin=PressureCon-6
+Removed Member From Class: ClassName=Cout_Nets Member=NetCout_1
+Removed Member From Class: ClassName=D1_Nets Member=NetCout_1
+Removed Member From Class: ClassName=D2_Nets Member=NetCout_1
+Removed Member From Class: ClassName=D3_Nets Member=NetCout_1
+Removed Member From Class: ClassName=D4_Nets Member=NetCout_1
+Removed Member From Class: ClassName=Docking_Nets Member=NetCout_1
+Removed Member From Class: ClassName=Rfbt_Nets Member=NetCout_1
+Removed Member From Class: ClassName=U1_Nets Member=NetCout_1
+Removed Member From Class: ClassName=CurrentSource_Nets Member=NetCurrentSource_2
+Removed Member From Class: ClassName=D9_Nets Member=NetCurrentSource_2
+Removed Member From Class: ClassName=R5_Nets Member=NetCurrentSource_2
+Added Pin To Net: NetName=+3.3V Pin=CurrentSource-0
+Added Pin To Net: NetName=NetCurrentSource_1 Pin=CurrentSource-1
+Added Pin To Net: NetName=A4 Pin=Docking-21
+Added Pin To Net: NetName=B6 Pin=Docking-23
+Added Pin To Net: NetName=NetPInstrAmp_-IN Pin=PressureCon-1
+Added Pin To Net: NetName=+3.3V Pin=PressureCon-2
+Added Pin To Net: NetName=NetD9_2 Pin=PressureCon-3
+Added Pin To Net: NetName=NetPInstrAmp_+IN Pin=PressureCon-4
+Added Pin To Net: NetName=NetPInstrAmp_RG1 Pin=PressureCon-6
+Change Net Name : Old Net Name=NetCout_1 New Net Name=+V BUS VOLTAGE
+Change Net Name : Old Net Name=NetCurrentSource_2 New Net Name=V-
+Added Member To Class: ClassName=Cout_Nets Member=Wire +V BUS VOLTAGE
+Added Member To Class: ClassName=D1_Nets Member=Wire +V BUS VOLTAGE
+Added Member To Class: ClassName=D2_Nets Member=Wire +V BUS VOLTAGE
+Added Member To Class: ClassName=D3_Nets Member=Wire +V BUS VOLTAGE
+Added Member To Class: ClassName=D4_Nets Member=Wire +V BUS VOLTAGE
+Added Member To Class: ClassName=Docking_Nets Member=Wire +V BUS VOLTAGE
+Added Member To Class: ClassName=Rfbt_Nets Member=Wire +V BUS VOLTAGE
+Added Member To Class: ClassName=U1_Nets Member=Wire +V BUS VOLTAGE
+Added Member To Class: ClassName=CurrentSource_Nets Member=Wire V-
+Added Member To Class: ClassName=D9_Nets Member=Wire V-
+Added Member To Class: ClassName=R5_Nets Member=Wire V-

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=+5V_4 Pin=JUMP6-1
+Added Pin To Net: NetName=+5V_4_JUMP6 Pin=JUMP6-2
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP6 Jumper(DIP2)

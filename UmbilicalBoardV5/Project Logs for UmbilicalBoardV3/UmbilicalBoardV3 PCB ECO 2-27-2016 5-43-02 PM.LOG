@@ -1,0 +1,382 @@
+Change Component Comment : Designator=Solenoid Old Comment=53048-0210 Molex Picoblade New Comment=Solenoid
+Added Pin To Net: NetName=+5V Pin=Docking-7
+Added Pin To Net: NetName=+5V Pin=Docking-8
+Added Pin To Net: NetName=+5V Pin=PC-104-H2_26
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V Pin=Cout-1
+Added Pin To Net: NetName=+12V Pin=D1-1
+Added Pin To Net: NetName=+12V Pin=D2-1
+Added Pin To Net: NetName=+12V Pin=D3-1
+Added Pin To Net: NetName=+12V Pin=D4-1
+Added Pin To Net: NetName=+12V Pin=Docking-3
+Added Pin To Net: NetName=+12V Pin=Docking-4
+Added Pin To Net: NetName=+12V Pin=Rfbt-1
+Added Pin To Net: NetName=+12V Pin=U1-14
+Added Pin To Net: NetName=+12V Pin=U1-15
+Added Pin To Net: NetName=+12V Pin=U1-16
+Added Net: Name=+12V
+Added Pin To Net: NetName=BAT_CHARGE Pin=Barrel Jack-1
+Added Pin To Net: NetName=BAT_CHARGE Pin=Barrel Jack-1A
+Added Pin To Net: NetName=BAT_CHARGE Pin=Barrel Jack-1B
+Added Pin To Net: NetName=BAT_CHARGE Pin=PC-104-H1_32
+Added Net: Name=BAT_CHARGE
+Added Pin To Net: NetName=BAT_GOM Pin=Cin2-1
+Added Pin To Net: NetName=BAT_GOM Pin=Cin-1
+Added Pin To Net: NetName=BAT_GOM Pin=Cin_2-1
+Added Pin To Net: NetName=BAT_GOM Pin=Docking-13
+Added Pin To Net: NetName=BAT_GOM Pin=Docking-14
+Added Pin To Net: NetName=BAT_GOM Pin=L1-1
+Added Pin To Net: NetName=BAT_GOM Pin=PC-104-H2_46
+Added Pin To Net: NetName=BAT_GOM Pin=U1-9
+Added Net: Name=BAT_GOM
+Added Pin To Net: NetName=C0 Pin=D5-1
+Added Pin To Net: NetName=C0 Pin=PC-104-H2_13
+Added Net: Name=C0
+Added Pin To Net: NetName=C1 Pin=D6-1
+Added Pin To Net: NetName=C1 Pin=PC-104-H2_14
+Added Net: Name=C1
+Added Pin To Net: NetName=C2 Pin=D7-1
+Added Pin To Net: NetName=C2 Pin=PC-104-H2_15
+Added Net: Name=C2
+Added Pin To Net: NetName=C3 Pin=D8-1
+Added Pin To Net: NetName=C3 Pin=PC-104-H2_16
+Added Net: Name=C3
+Added Pin To Net: NetName=D1_SOL1 Pin=D1-2
+Added Net: Name=D1_SOL1
+Added Pin To Net: NetName=D2_SOL2 Pin=Q1-1
+Added Net: Name=D2_SOL2
+Added Pin To Net: NetName=D3_SOL3 Pin=D2-2
+Added Net: Name=D3_SOL3
+Added Pin To Net: NetName=D4_SOL4 Pin=Q2-1
+Added Net: Name=D4_SOL4
+Added Pin To Net: NetName=D5_SOL5 Pin=D3-2
+Added Net: Name=D5_SOL5
+Added Pin To Net: NetName=D6_SOL6 Pin=Q3-1
+Added Net: Name=D6_SOL6
+Added Pin To Net: NetName=D7_SOL7 Pin=D4-2
+Added Net: Name=D7_SOL7
+Added Pin To Net: NetName=D8_SOL8 Pin=Q4-1
+Added Net: Name=D8_SOL8
+Added Pin To Net: NetName=DGND Pin=Q1-3
+Added Pin To Net: NetName=DGND Pin=Q2-3
+Added Pin To Net: NetName=DGND Pin=Q3-3
+Added Pin To Net: NetName=DGND Pin=Q4-3
+Added Net: Name=DGND
+Added Pin To Net: NetName=GND_STM Pin=Docking-17
+Added Pin To Net: NetName=GND_STM Pin=PC-104-H2_1
+Added Net: Name=GND_STM
+Added Pin To Net: NetName=GND Pin=PC-104-H2_30
+Added Net: Name=GND
+Added Pin To Net: NetName=GOM_GND Pin=Barrel Jack-2
+Added Pin To Net: NetName=GOM_GND Pin=Barrel Jack-2A
+Added Pin To Net: NetName=GOM_GND Pin=Barrel Jack-2B
+Added Pin To Net: NetName=GOM_GND Pin=Barrel Jack-3
+Added Pin To Net: NetName=GOM_GND Pin=Barrel Jack-3A
+Added Pin To Net: NetName=GOM_GND Pin=Barrel Jack-3B
+Added Pin To Net: NetName=GOM_GND Pin=Docking-9
+Added Pin To Net: NetName=GOM_GND Pin=Docking-10
+Added Pin To Net: NetName=GOM_GND Pin=Docking-11
+Added Pin To Net: NetName=GOM_GND Pin=Docking-12
+Added Pin To Net: NetName=GOM_GND Pin=FlightSwitch-1
+Added Pin To Net: NetName=GOM_GND Pin=PC-104-H2_29
+Added Pin To Net: NetName=GOM_GND Pin=PInstrAmp-REF
+Added Net: Name=GOM_GND
+Added Pin To Net: NetName=GPIO1 Pin=Docking-0
+Added Pin To Net: NetName=GPIO1 Pin=PC-104-H1_20
+Added Net: Name=GPIO1
+Added Pin To Net: NetName=GPIO2 Pin=Docking-1
+Added Pin To Net: NetName=GPIO2 Pin=PC-104-H1_24
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=GPIO3 Pin=Docking-2
+Added Pin To Net: NetName=GPIO3 Pin=PC-104-H1_26
+Added Net: Name=GPIO3
+Added Pin To Net: NetName=GPIO_ANALOG Pin=PC-104-H1_39
+Added Pin To Net: NetName=GPIO_ANALOG Pin=PInstrAmp-Vout
+Added Net: Name=GPIO_ANALOG
+Added Pin To Net: NetName=GPS-3V3 Pin=CurrentSource-0
+Added Pin To Net: NetName=GPS-3V3 Pin=PC-104-H2_27
+Added Pin To Net: NetName=GPS-3V3 Pin=PressureCon-2
+Added Net: Name=GPS-3V3
+Added Pin To Net: NetName=I2C_SCL Pin=Docking-23
+Added Pin To Net: NetName=I2C_SCL Pin=PC-104-H1_1
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=Docking-22
+Added Pin To Net: NetName=I2C_SDA Pin=PC-104-H1_3
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=NetCbst_1 Pin=Cbst-1
+Added Pin To Net: NetName=NetCbst_1 Pin=L1-2
+Added Pin To Net: NetName=NetCbst_1 Pin=Rt-1
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-4
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-5
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-6
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-7
+Added Net: Name=NetCbst_1
+Added Pin To Net: NetName=NetCbst_2 Pin=Cbst-2
+Added Pin To Net: NetName=NetCbst_2 Pin=U1-8
+Added Net: Name=NetCbst_2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Ccomp2-2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rcomp-1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=U1-18
+Added Net: Name=NetCcomp2_2
+Added Pin To Net: NetName=NetCcomp_1 Pin=Ccomp-1
+Added Pin To Net: NetName=NetCcomp_1 Pin=Rcomp-2
+Added Net: Name=NetCcomp_1
+Added Pin To Net: NetName=NetCss_2 Pin=Css-2
+Added Pin To Net: NetName=NetCss_2 Pin=U1-10
+Added Net: Name=NetCss_2
+Added Pin To Net: NetName=NetCurrentSource_1 Pin=CurrentSource-1
+Added Pin To Net: NetName=NetCurrentSource_1 Pin=R5-2
+Added Pin To Net: NetName=NetCurrentSource_1 Pin=R6-2
+Added Net: Name=NetCurrentSource_1
+Added Pin To Net: NetName=NetCvcc_2 Pin=Cvcc-2
+Added Pin To Net: NetName=NetCvcc_2 Pin=U1-1
+Added Pin To Net: NetName=NetCvcc_2 Pin=U1-2
+Added Net: Name=NetCvcc_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R1-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R2-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R3-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R4-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=PressureCon-3
+Added Pin To Net: NetName=NetD9_2 Pin=R6-1
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetPInstrAmp_+IN Pin=PInstrAmp-+IN
+Added Pin To Net: NetName=NetPInstrAmp_+IN Pin=PressureCon-4
+Added Net: Name=NetPInstrAmp_+IN
+Added Pin To Net: NetName=NetPInstrAmp_-IN Pin=PInstrAmp--IN
+Added Pin To Net: NetName=NetPInstrAmp_-IN Pin=PressureCon-1
+Added Net: Name=NetPInstrAmp_-IN
+Added Pin To Net: NetName=NetPInstrAmp_RG1 Pin=PInstrAmp-RG1
+Added Pin To Net: NetName=NetPInstrAmp_RG1 Pin=PressureCon-6
+Added Net: Name=NetPInstrAmp_RG1
+Added Pin To Net: NetName=NetPInstrAmp_RG2 Pin=PInstrAmp-RG2
+Added Pin To Net: NetName=NetPInstrAmp_RG2 Pin=PressureCon-5
+Added Net: Name=NetPInstrAmp_RG2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R2-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R3-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R4-2
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbb-1
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbt-2
+Added Pin To Net: NetName=NetRfbb_1 Pin=U1-17
+Added Net: Name=NetRfbb_1
+Added Pin To Net: NetName=NetRlim_1 Pin=Rlim-1
+Added Pin To Net: NetName=NetRlim_1 Pin=U1-19
+Added Net: Name=NetRlim_1
+Added Pin To Net: NetName=NetRt_2 Pin=Rt-2
+Added Pin To Net: NetName=NetRt_2 Pin=U1-3
+Added Net: Name=NetRt_2
+Added Pin To Net: NetName=POWER_GND Pin=Ccomp2-1
+Added Pin To Net: NetName=POWER_GND Pin=Ccomp-2
+Added Pin To Net: NetName=POWER_GND Pin=Cin2-2
+Added Pin To Net: NetName=POWER_GND Pin=Cin-2
+Added Pin To Net: NetName=POWER_GND Pin=Cin_2-2
+Added Pin To Net: NetName=POWER_GND Pin=Cout-2
+Added Pin To Net: NetName=POWER_GND Pin=Css-1
+Added Pin To Net: NetName=POWER_GND Pin=Cvcc-1
+Added Pin To Net: NetName=POWER_GND Pin=Docking-5
+Added Pin To Net: NetName=POWER_GND Pin=Docking-6
+Added Pin To Net: NetName=POWER_GND Pin=Rfbb-2
+Added Pin To Net: NetName=POWER_GND Pin=Rlim-2
+Added Pin To Net: NetName=POWER_GND Pin=U1-11
+Added Pin To Net: NetName=POWER_GND Pin=U1-12
+Added Pin To Net: NetName=POWER_GND Pin=U1-13
+Added Pin To Net: NetName=POWER_GND Pin=U1-20
+Added Pin To Net: NetName=POWER_GND Pin=U1-21
+Added Net: Name=POWER_GND
+Added Pin To Net: NetName=SPI_MISO Pin=Docking-18
+Added Pin To Net: NetName=SPI_MISO Pin=PC-104-H1_9
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=Docking-19
+Added Pin To Net: NetName=SPI_MOSI Pin=PC-104-H1_11
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=SPI_SCLK Pin=Docking-20
+Added Pin To Net: NetName=SPI_SCLK Pin=PC-104-H1_7
+Added Net: Name=SPI_SCLK
+Added Pin To Net: NetName=SPI_SS Pin=Docking-21
+Added Pin To Net: NetName=SPI_SS Pin=PC-104-H1_5
+Added Net: Name=SPI_SS
+Added Pin To Net: NetName=UART4_RX Pin=DSub-1
+Added Pin To Net: NetName=UART4_RX Pin=PC-104-H1_13
+Added Net: Name=UART4_RX
+Added Pin To Net: NetName=UART4_TX Pin=DSub-2
+Added Pin To Net: NetName=UART4_TX Pin=PC-104-H1_15
+Added Net: Name=UART4_TX
+Added Pin To Net: NetName=UART5_RX Pin=PC-104-H1_19
+Added Net: Name=UART5_RX
+Added Pin To Net: NetName=UART5_TX Pin=PC-104-H1_17
+Added Net: Name=UART5_TX
+Added Pin To Net: NetName=USART3_RX Pin=Docking-16
+Added Pin To Net: NetName=USART3_RX Pin=PC-104-H1_25
+Added Net: Name=USART3_RX
+Added Pin To Net: NetName=USART3_TX Pin=Docking-15
+Added Pin To Net: NetName=USART3_TX Pin=PC-104-H1_27
+Added Net: Name=USART3_TX
+Added Pin To Net: NetName=V- Pin=CurrentSource-2
+Added Pin To Net: NetName=V- Pin=D9-1
+Added Pin To Net: NetName=V- Pin=R5-1
+Added Net: Name=V-
+Added Member To Class: ClassName=SolSwitch Member=Component Solenoid
+Added Member To Class: ClassName=Docking_Nets Member=Wire +5V
+Added Member To Class: ClassName=PC-104_Nets Member=Wire +5V
+Added Member To Class: ClassName=Cout_Nets Member=Wire +12V
+Added Member To Class: ClassName=D1_Nets Member=Wire +12V
+Added Member To Class: ClassName=D2_Nets Member=Wire +12V
+Added Member To Class: ClassName=D3_Nets Member=Wire +12V
+Added Member To Class: ClassName=D4_Nets Member=Wire +12V
+Added Member To Class: ClassName=Docking_Nets Member=Wire +12V
+Added Member To Class: ClassName=Rfbt_Nets Member=Wire +12V
+Added Member To Class: ClassName=U1_Nets Member=Wire +12V
+Added Member To Class: ClassName=Barrel Jack_Nets Member=Wire BAT_CHARGE
+Added Member To Class: ClassName=PC-104_Nets Member=Wire BAT_CHARGE
+Added Member To Class: ClassName=Cin2_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=Cin_2_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=Cin_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=Docking_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=L1_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=PC-104_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=U1_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=D5_Nets Member=Wire C0
+Added Member To Class: ClassName=PC-104_Nets Member=Wire C0
+Added Member To Class: ClassName=D6_Nets Member=Wire C1
+Added Member To Class: ClassName=PC-104_Nets Member=Wire C1
+Added Member To Class: ClassName=D7_Nets Member=Wire C2
+Added Member To Class: ClassName=PC-104_Nets Member=Wire C2
+Added Member To Class: ClassName=D8_Nets Member=Wire C3
+Added Member To Class: ClassName=PC-104_Nets Member=Wire C3
+Added Member To Class: ClassName=D1_Nets Member=Wire D1_SOL1
+Added Member To Class: ClassName=Q1_Nets Member=Wire D2_SOL2
+Added Member To Class: ClassName=D2_Nets Member=Wire D3_SOL3
+Added Member To Class: ClassName=Q2_Nets Member=Wire D4_SOL4
+Added Member To Class: ClassName=D3_Nets Member=Wire D5_SOL5
+Added Member To Class: ClassName=Q3_Nets Member=Wire D6_SOL6
+Added Member To Class: ClassName=D4_Nets Member=Wire D7_SOL7
+Added Member To Class: ClassName=Q4_Nets Member=Wire D8_SOL8
+Added Member To Class: ClassName=Q1_Nets Member=Wire DGND
+Added Member To Class: ClassName=Q2_Nets Member=Wire DGND
+Added Member To Class: ClassName=Q3_Nets Member=Wire DGND
+Added Member To Class: ClassName=Q4_Nets Member=Wire DGND
+Added Member To Class: ClassName=Docking_Nets Member=Wire GND_STM
+Added Member To Class: ClassName=PC-104_Nets Member=Wire GND_STM
+Added Member To Class: ClassName=PC-104_Nets Member=Wire GND
+Added Member To Class: ClassName=Barrel Jack_Nets Member=Wire GOM_GND
+Added Member To Class: ClassName=Docking_Nets Member=Wire GOM_GND
+Added Member To Class: ClassName=FlightSwitch_Nets Member=Wire GOM_GND
+Added Member To Class: ClassName=PC-104_Nets Member=Wire GOM_GND
+Added Member To Class: ClassName=PInstrAmp_Nets Member=Wire GOM_GND
+Added Member To Class: ClassName=Docking_Nets Member=Wire GPIO1
+Added Member To Class: ClassName=PC-104_Nets Member=Wire GPIO1
+Added Member To Class: ClassName=Docking_Nets Member=Wire GPIO2
+Added Member To Class: ClassName=PC-104_Nets Member=Wire GPIO2
+Added Member To Class: ClassName=Docking_Nets Member=Wire GPIO3
+Added Member To Class: ClassName=PC-104_Nets Member=Wire GPIO3
+Added Member To Class: ClassName=PC-104_Nets Member=Wire GPIO_ANALOG
+Added Member To Class: ClassName=PInstrAmp_Nets Member=Wire GPIO_ANALOG
+Added Member To Class: ClassName=CurrentSource_Nets Member=Wire GPS-3V3
+Added Member To Class: ClassName=PC-104_Nets Member=Wire GPS-3V3
+Added Member To Class: ClassName=PressureCon_Nets Member=Wire GPS-3V3
+Added Member To Class: ClassName=Docking_Nets Member=Wire I2C_SCL
+Added Member To Class: ClassName=PC-104_Nets Member=Wire I2C_SCL
+Added Member To Class: ClassName=Docking_Nets Member=Wire I2C_SDA
+Added Member To Class: ClassName=PC-104_Nets Member=Wire I2C_SDA
+Added Member To Class: ClassName=Cbst_Nets Member=Wire NetCbst_1
+Added Member To Class: ClassName=L1_Nets Member=Wire NetCbst_1
+Added Member To Class: ClassName=Rt_Nets Member=Wire NetCbst_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCbst_1
+Added Member To Class: ClassName=Cbst_Nets Member=Wire NetCbst_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCbst_2
+Added Member To Class: ClassName=Ccomp2_Nets Member=Wire NetCcomp2_2
+Added Member To Class: ClassName=Rcomp_Nets Member=Wire NetCcomp2_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCcomp2_2
+Added Member To Class: ClassName=Ccomp_Nets Member=Wire NetCcomp_1
+Added Member To Class: ClassName=Rcomp_Nets Member=Wire NetCcomp_1
+Added Member To Class: ClassName=Css_Nets Member=Wire NetCss_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCss_2
+Added Member To Class: ClassName=CurrentSource_Nets Member=Wire NetCurrentSource_1
+Added Member To Class: ClassName=R5_Nets Member=Wire NetCurrentSource_1
+Added Member To Class: ClassName=R6_Nets Member=Wire NetCurrentSource_1
+Added Member To Class: ClassName=Cvcc_Nets Member=Wire NetCvcc_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCvcc_2
+Added Member To Class: ClassName=D5_Nets Member=Wire NetD5_2
+Added Member To Class: ClassName=R1_Nets Member=Wire NetD5_2
+Added Member To Class: ClassName=D6_Nets Member=Wire NetD6_2
+Added Member To Class: ClassName=R2_Nets Member=Wire NetD6_2
+Added Member To Class: ClassName=D7_Nets Member=Wire NetD7_2
+Added Member To Class: ClassName=R3_Nets Member=Wire NetD7_2
+Added Member To Class: ClassName=D8_Nets Member=Wire NetD8_2
+Added Member To Class: ClassName=R4_Nets Member=Wire NetD8_2
+Added Member To Class: ClassName=D9_Nets Member=Wire NetD9_2
+Added Member To Class: ClassName=PressureCon_Nets Member=Wire NetD9_2
+Added Member To Class: ClassName=R6_Nets Member=Wire NetD9_2
+Added Member To Class: ClassName=PInstrAmp_Nets Member=Wire NetPInstrAmp_+IN
+Added Member To Class: ClassName=PressureCon_Nets Member=Wire NetPInstrAmp_+IN
+Added Member To Class: ClassName=PInstrAmp_Nets Member=Wire NetPInstrAmp_-IN
+Added Member To Class: ClassName=PressureCon_Nets Member=Wire NetPInstrAmp_-IN
+Added Member To Class: ClassName=PInstrAmp_Nets Member=Wire NetPInstrAmp_RG1
+Added Member To Class: ClassName=PressureCon_Nets Member=Wire NetPInstrAmp_RG1
+Added Member To Class: ClassName=PInstrAmp_Nets Member=Wire NetPInstrAmp_RG2
+Added Member To Class: ClassName=PressureCon_Nets Member=Wire NetPInstrAmp_RG2
+Added Member To Class: ClassName=Q1_Nets Member=Wire NetQ1_2
+Added Member To Class: ClassName=R1_Nets Member=Wire NetQ1_2
+Added Member To Class: ClassName=Q2_Nets Member=Wire NetQ2_2
+Added Member To Class: ClassName=R2_Nets Member=Wire NetQ2_2
+Added Member To Class: ClassName=Q3_Nets Member=Wire NetQ3_2
+Added Member To Class: ClassName=R3_Nets Member=Wire NetQ3_2
+Added Member To Class: ClassName=Q4_Nets Member=Wire NetQ4_2
+Added Member To Class: ClassName=R4_Nets Member=Wire NetQ4_2
+Added Member To Class: ClassName=Rfbb_Nets Member=Wire NetRfbb_1
+Added Member To Class: ClassName=Rfbt_Nets Member=Wire NetRfbb_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetRfbb_1
+Added Member To Class: ClassName=Rlim_Nets Member=Wire NetRlim_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetRlim_1
+Added Member To Class: ClassName=Rt_Nets Member=Wire NetRt_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetRt_2
+Added Member To Class: ClassName=Ccomp2_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Ccomp_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cin2_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cin_2_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cin_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cout_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Css_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cvcc_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Docking_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Rfbb_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Rlim_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=U1_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Docking_Nets Member=Wire SPI_MISO
+Added Member To Class: ClassName=PC-104_Nets Member=Wire SPI_MISO
+Added Member To Class: ClassName=Docking_Nets Member=Wire SPI_MOSI
+Added Member To Class: ClassName=PC-104_Nets Member=Wire SPI_MOSI
+Added Member To Class: ClassName=Docking_Nets Member=Wire SPI_SCLK
+Added Member To Class: ClassName=PC-104_Nets Member=Wire SPI_SCLK
+Added Member To Class: ClassName=Docking_Nets Member=Wire SPI_SS
+Added Member To Class: ClassName=PC-104_Nets Member=Wire SPI_SS
+Added Member To Class: ClassName=Dsub_Nets Member=Wire UART4_RX
+Added Member To Class: ClassName=PC-104_Nets Member=Wire UART4_RX
+Added Member To Class: ClassName=Dsub_Nets Member=Wire UART4_TX
+Added Member To Class: ClassName=PC-104_Nets Member=Wire UART4_TX
+Added Member To Class: ClassName=PC-104_Nets Member=Wire UART5_RX
+Added Member To Class: ClassName=PC-104_Nets Member=Wire UART5_TX
+Added Member To Class: ClassName=Docking_Nets Member=Wire USART3_RX
+Added Member To Class: ClassName=PC-104_Nets Member=Wire USART3_RX
+Added Member To Class: ClassName=Docking_Nets Member=Wire USART3_TX
+Added Member To Class: ClassName=PC-104_Nets Member=Wire USART3_TX
+Added Member To Class: ClassName=CurrentSource_Nets Member=Wire V-
+Added Member To Class: ClassName=D9_Nets Member=Wire V-
+Added Member To Class: ClassName=R5_Nets Member=Wire V-

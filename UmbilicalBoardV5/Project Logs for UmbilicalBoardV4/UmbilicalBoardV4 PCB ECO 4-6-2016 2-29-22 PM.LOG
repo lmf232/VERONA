@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=PressureSensor Member=Q1
+Removed Member From Class: ClassName=PressureSensor Member=R1
+Removed Member From Class: ClassName=PressureSensor Member=R2
+Removed Member From Class: ClassName=PressureSensor Member=R3
+Removed Member From Class: ClassName=PressureSensor Member=U1
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q4
+Change Component Designator: OldDesignator=R1 NewDesignator=R4
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R6
+Change Component Designator: OldDesignator=U1 NewDesignator=OpAmp
+Added Pin To Net: NetName=ANALOGGND Pin=PresAmp-4
+Added Pin To Net: NetName=ANALOGGND Pin=PresAmp-5
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetOpAmp_2
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetOpAmp_3
+Added Pin To Net: NetName=NetOpAmp_6 Pin=OpAmp-6
+Added Pin To Net: NetName=NetOpAmp_6 Pin=Q4-2
+Added Net: Name=NetOpAmp_6
+Added Member To Class: ClassName=PressureSensor Member=Component OpAmp UA741
+Added Member To Class: ClassName=PressureSensor Member=Component Q4 2N3906
+Added Member To Class: ClassName=PressureSensor Member=Component R4 1000
+Added Member To Class: ClassName=PressureSensor Member=Component R5 1000
+Added Member To Class: ClassName=PressureSensor Member=Component R6 1000

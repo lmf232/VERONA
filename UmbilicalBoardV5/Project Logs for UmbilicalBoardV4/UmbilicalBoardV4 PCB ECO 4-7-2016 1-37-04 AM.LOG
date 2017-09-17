@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=+5V_2 Pin=Docking-A8
+Removed Pin From Net: NetName=+5V_2 Pin=Docking-A9
+Removed Pin From Net: NetName=V_BAT_1_J4 Pin=Docking-A14
+Removed Pin From Net: NetName=V_BAT_1_J4 Pin=Docking-A15
+Removed Pin From Net: NetName=3V3_2 Pin=PC-104-H2_28
+Removed Pin From Net: NetName=+5V_3 Pin=PIKSI_UARTA-4
+Change Component Designator: OldDesignator=JUMP2 NewDesignator=JUMP6
+Added Component: Designator=JUMP1(Jumper(DIP2))
+Added Component: Designator=JUMP2(Jumper(DIP2))
+Added Component: Designator=JUMP3(Jumper(DIP2))
+Added Component: Designator=JUMP4(Jumper(DIP2))
+Added Component: Designator=JUMP5(Jumper(DIP2))
+Added Pin To Net: NetName=+12V_1_J7 Pin=Cout_1-1
+Added Pin To Net: NetName=+12V_1_J7 Pin=Cout_2-1
+Added Pin To Net: NetName=+12V_1_J7 Pin=Cout_3-1
+Added Pin To Net: NetName=+12V_1_J7 Pin=Docking-A4
+Added Pin To Net: NetName=+12V_1_J7 Pin=Docking-A5
+Added Pin To Net: NetName=V_BAT_1_J8 Pin=Docking-A14
+Added Pin To Net: NetName=V_BAT_1_J8 Pin=Docking-A15
+Added Pin To Net: NetName=+5V_1 Pin=JUMP1-1
+Added Pin To Net: NetName=+5V_2 Pin=JUMP2-1
+Added Pin To Net: NetName=+5V_3 Pin=JUMP3-1
+Added Pin To Net: NetName=3V3_2 Pin=JUMP4-2
+Added Pin To Net: NetName=V_BAT_1_J4 Pin=JUMP5-1
+Added Pin To Net: NetName=V_BAT_1_J8 Pin=JUMP5-2
+Added Pin To Net: NetName=UART5_RX Pin=PIKSI_UARTA-1
+Added Pin To Net: NetName=UART5_TX Pin=PIKSI_UARTA-2
+Added Pin To Net: NetName=+12V_1_J7 Pin=Rfbt-1
+Added Pin To Net: NetName=+12V_1_J7 Pin=XACT-A15
+Added Pin To Net: NetName=+12V_1_J7 Pin=XACT-A31
+Change Net Name : Old Net Name=+12V_1_J7 New Net Name=+12V_1
+Change Net Name : Old Net Name=3V3_2 New Net Name=3V3_2_JUMP4
+Change Net Name : Old Net Name=NetJUMP2_2 New Net Name=NetJUMP6_2
+Change Net Name : Old Net Name=V_BAT_1_J8 New Net Name=V_BAT_1_JUMP5
+Added Pin To Net: NetName=+5V_1_JUMP1 Pin=JUMP1-2
+Added Pin To Net: NetName=+5V_1_JUMP1 Pin=XACT-A9
+Added Pin To Net: NetName=+5V_1_JUMP1 Pin=XACT-A25
+Added Net: Name=+5V_1_JUMP1
+Added Pin To Net: NetName=+5V_2_JUMP2 Pin=Docking-A8
+Added Pin To Net: NetName=+5V_2_JUMP2 Pin=Docking-A9
+Added Pin To Net: NetName=+5V_2_JUMP2 Pin=JUMP2-2
+Added Net: Name=+5V_2_JUMP2
+Added Pin To Net: NetName=+5V_3_JUMP3 Pin=JUMP3-2
+Added Pin To Net: NetName=+5V_3_JUMP3 Pin=PIKSI_UARTA-4
+Added Net: Name=+5V_3_JUMP3
+Added Pin To Net: NetName=3V3_2 Pin=JUMP4-1
+Added Pin To Net: NetName=3V3_2 Pin=PC-104-H2_28
+Added Net: Name=3V3_2
+Added Class: Name=U_Jumpers_rev2
+Added Room: Name=U_Jumpers_rev2

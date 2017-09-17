@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=+12V_1 Pin=D1-2
+Removed Pin From Net: NetName=+12V_1 Pin=D2-2
+Removed Pin From Net: NetName=+12V_1 Pin=D3-2
+Removed Pin From Net: NetName=+12V_1 Pin=D4-2
+Removed Pin From Net: NetName=+12V_1 Pin=Docking-A4
+Removed Pin From Net: NetName=+12V_1 Pin=Docking-A5
+Removed Pin From Net: NetName=+12V_1 Pin=SolenoidConnector-1
+Removed Pin From Net: NetName=+12V_1 Pin=SolenoidConnector-3
+Removed Pin From Net: NetName=+12V_1 Pin=SolenoidConnector-5
+Removed Pin From Net: NetName=+12V_1 Pin=SolenoidConnector-7
+Removed Pin From Net: NetName=+12V_1 Pin=XACT-A15
+Removed Pin From Net: NetName=+12V_1 Pin=XACT-A31
+Added Component: Designator=B1(Barrel_Jack)
+Added Component: Designator=JUMP7(Jumper(DIP2))
+Added Component: Designator=JUMP8(Jumper(DIP2))
+Added Component: Designator=JUMP9(Jumper(DIP2))
+Added Component: Designator=JUMP10(Jumper(DIP2))
+Added Pin To Net: NetName=GOM_GND_1 Pin=B1-0
+Added Pin To Net: NetName=GOM_GND_1 Pin=B1-1
+Added Pin To Net: NetName=BAT_CHARGE Pin=B1-2
+Added Pin To Net: NetName=+12V_1 Pin=JUMP7-2
+Change Net Name : Old Net Name=+12V_1 New Net Name=+12V_1_JUMP7
+Added Pin To Net: NetName=+12V_1_JUMP8 Pin=JUMP8-2
+Added Pin To Net: NetName=+12V_1_JUMP8 Pin=XACT-A15
+Added Pin To Net: NetName=+12V_1_JUMP8 Pin=XACT-A31
+Added Net: Name=+12V_1_JUMP8
+Added Pin To Net: NetName=+12V_1_JUMP9 Pin=Docking-A4
+Added Pin To Net: NetName=+12V_1_JUMP9 Pin=Docking-A5
+Added Pin To Net: NetName=+12V_1_JUMP9 Pin=JUMP9-2
+Added Net: Name=+12V_1_JUMP9
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=D1-2
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=D2-2
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=D3-2
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=D4-2
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=JUMP10-2
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=SolenoidConnector-1
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=SolenoidConnector-3
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=SolenoidConnector-5
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=SolenoidConnector-7
+Added Net: Name=+12V_1_JUMP10
+Added Pin To Net: NetName=+12V_1 Pin=JUMP7-1
+Added Pin To Net: NetName=+12V_1 Pin=JUMP8-1
+Added Pin To Net: NetName=+12V_1 Pin=JUMP9-1
+Added Pin To Net: NetName=+12V_1 Pin=JUMP10-1
+Added Net: Name=+12V_1
+Added Class: Name=Barrel Jack
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP7 Jumper(DIP2)
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP8 Jumper(DIP2)
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP9 Jumper(DIP2)
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP10 Jumper(DIP2)
+Added Room: Name=Barrel Jack

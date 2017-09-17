@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetDsub_1 Pin=Dsub-1
+Removed Pin From Net: NetName=NetDsub_1 Pin=Dsub-1
+Removed Pin From Net: NetName=NetDsub_2 Pin=Dsub-2
+Removed Pin From Net: NetName=NetDsub_2 Pin=Dsub-2
+Removed Member From Class: ClassName=TopV4_StructureClass Member=Dsub_StructureClass
+Removed Member From Class: ClassName=Dsub_StructureClass Member=Dsub
+Removed Member From Class: ClassName=Dsub Member=Dsub
+Added Component: Designator=IOconnector(IOconnector)
+Added Pin To Net: NetName=NetDsub_1 Pin=IOconnector-1
+Added Pin To Net: NetName=NetDsub_2 Pin=IOconnector-2
+Change Net Name : Old Net Name=NetDsub_1 New Net Name=NetIOconnector_1
+Change Net Name : Old Net Name=NetDsub_2 New Net Name=NetIOconnector_2
+Change Class Name : Old Net Name=Dsub New Net Name=U_IOconnector
+Change Class Name : Old Net Name=Dsub_StructureClass New Net Name=U_IOconnector_StructureClass
+Added Member To Class: ClassName=U_IOconnector Member=Component IOconnector
+Added Member To Structure Class: ClassName=TopV4_StructureClass Member=U_IOconnector_StructureClass
+Added Member To Structure Class: ClassName=U_IOconnector_StructureClass Member=U_IOconnector

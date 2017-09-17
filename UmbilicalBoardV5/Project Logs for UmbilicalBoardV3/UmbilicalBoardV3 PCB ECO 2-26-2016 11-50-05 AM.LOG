@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=NetCurrentSource_1 Pin=CurrentSource-0
+Removed Pin From Net: NetName=NetCurrentSource_1 Pin=CurrentSource-2
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-0
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-1
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-2
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-3
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-5
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-6
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-7
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-8
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-9
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-10
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-11
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-12
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-13
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-14
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-15
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-16
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-17
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-18
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-19
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-20
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-21
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-22
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-23
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-24
+Removed Pin From Net: NetName=NetDocking_4 Pin=Docking-25
+Added Pin To Net: NetName=+3.3V Pin=CurrentSource-0
+Added Pin To Net: NetName=V- Pin=CurrentSource-2
+Added Pin To Net: NetName=NetDocking_0 Pin=Docking-0
+Added Pin To Net: NetName=NetDocking_1 Pin=Docking-1
+Added Pin To Net: NetName=NetDocking_2 Pin=Docking-2
+Added Pin To Net: NetName=NetDocking_3 Pin=Docking-3
+Added Pin To Net: NetName=NetDocking_5 Pin=Docking-5
+Added Pin To Net: NetName=NetDocking_6 Pin=Docking-6
+Added Pin To Net: NetName=NetDocking_7 Pin=Docking-7
+Added Pin To Net: NetName=NetDocking_8 Pin=Docking-8
+Added Pin To Net: NetName=NetDocking_9 Pin=Docking-9
+Added Pin To Net: NetName=NetDocking_10 Pin=Docking-10
+Added Pin To Net: NetName=NetDocking_11 Pin=Docking-11
+Added Pin To Net: NetName=NetDocking_12 Pin=Docking-12
+Added Pin To Net: NetName=NetDocking_13 Pin=Docking-13
+Added Pin To Net: NetName=NetDocking_14 Pin=Docking-14
+Added Pin To Net: NetName=NetDocking_15 Pin=Docking-15
+Added Pin To Net: NetName=NetDocking_16 Pin=Docking-16
+Added Pin To Net: NetName=NetDocking_17 Pin=Docking-17
+Added Pin To Net: NetName=NetDocking_18 Pin=Docking-18
+Added Pin To Net: NetName=NetDocking_19 Pin=Docking-19
+Added Pin To Net: NetName=NetDocking_20 Pin=Docking-20
+Added Pin To Net: NetName=NetDocking_21 Pin=Docking-21
+Added Pin To Net: NetName=NetDocking_22 Pin=Docking-22
+Added Pin To Net: NetName=NetDocking_23 Pin=Docking-23
+Added Class: Name=Barrel Jack_Nets
+Added Class: Name=Cbst_Nets
+Added Class: Name=Ccomp2_Nets
+Added Class: Name=Ccomp_Nets
+Added Class: Name=Cin2_Nets
+Added Class: Name=Cin_2_Nets
+Added Class: Name=Cin_Nets
+Added Class: Name=Cout_Nets
+Added Class: Name=Css_Nets
+Added Class: Name=CurrentSource_Nets
+Added Class: Name=Cvcc_Nets
+Added Class: Name=D1_Nets
+Added Class: Name=D2_Nets
+Added Class: Name=D3_Nets
+Added Class: Name=D4_Nets
+Added Class: Name=D5_Nets
+Added Class: Name=Docking_Nets
+Added Class: Name=Dsub_Nets
+Added Class: Name=FlightSwitch_Nets
+Added Class: Name=L1_Nets
+Added Class: Name=Microswitch_Nets
+Added Class: Name=PC-104_Nets
+Added Class: Name=PIKSI_UARTA_Nets
+Added Class: Name=PInstrAmp_Nets
+Added Class: Name=PressureCon_Nets
+Added Class: Name=Q1_Nets
+Added Class: Name=Q2_Nets
+Added Class: Name=Q3_Nets
+Added Class: Name=Q4_Nets
+Added Class: Name=R1_Nets
+Added Class: Name=R2_Nets
+Added Class: Name=R3_Nets
+Added Class: Name=R4_Nets
+Added Class: Name=R5_Nets
+Added Class: Name=R6_Nets
+Added Class: Name=Rcomp_Nets
+Added Class: Name=Rfbb_Nets
+Added Class: Name=Rfbt_Nets
+Added Class: Name=Rlim_Nets
+Added Class: Name=Rt_Nets
+Added Class: Name=Solenoid_Nets
+Added Class: Name=U1_Nets
+Added Class: Name=XACT_Nets
+Added Member To Structure Class: ClassName=Docking_StructureClass Member=Docking_Nets

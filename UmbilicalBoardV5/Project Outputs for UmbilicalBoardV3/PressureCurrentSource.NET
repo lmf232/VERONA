@@ -1,0 +1,11 @@
+*PADS-PCB*
+*NET*
+*SIGNAL* Net*_0
+ *.0
+*SIGNAL* Net*_1
+ *.1 R1.2 R2.2
+*SIGNAL* Net*_2
+ *.2 D1.1 R1.1
+*SIGNAL* NetD1_2
+ D1.2 R2.1
+*END*

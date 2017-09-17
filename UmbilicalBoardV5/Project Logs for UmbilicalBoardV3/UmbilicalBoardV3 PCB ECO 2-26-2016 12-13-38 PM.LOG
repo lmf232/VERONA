@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetCurrentSource_1 Pin=CurrentSource-0
+Removed Pin From Net: NetName=NetCurrentSource_1 Pin=CurrentSource-2
+Added Pin To Net: NetName=+3.3V Pin=CurrentSource-0
+Added Pin To Net: NetName=NetCurrentSource_2 Pin=CurrentSource-2
+Added Pin To Net: NetName=E10 Pin=Docking-0
+Added Pin To Net: NetName=E12 Pin=Docking-1
+Added Pin To Net: NetName=E13 Pin=Docking-2
+Added Pin To Net: NetName=NetCout_1 Pin=Docking-3
+Added Pin To Net: NetName=POWER_GND Pin=Docking-5
+Added Pin To Net: NetName=POWER_GND Pin=Docking-6
+Added Pin To Net: NetName=+5V Pin=Docking-7
+Added Pin To Net: NetName=+5V Pin=Docking-8
+Added Pin To Net: NetName=GND Pin=Docking-9
+Added Pin To Net: NetName=GND Pin=Docking-10
+Added Pin To Net: NetName=GND Pin=Docking-11
+Added Pin To Net: NetName=V_BAT Pin=Docking-13
+Added Pin To Net: NetName=B11 Pin=Docking-15
+Added Pin To Net: NetName=B10 Pin=Docking-16
+Added Pin To Net: NetName=P1_1 Pin=Docking-17
+Added Pin To Net: NetName=A6 Pin=Docking-18
+Added Pin To Net: NetName=A7 Pin=Docking-19
+Added Pin To Net: NetName=A5 Pin=Docking-20
+Added Pin To Net: NetName=A4 Pin=Docking-21
+Added Pin To Net: NetName=B9 Pin=Docking-22
+Added Pin To Net: NetName=B6 Pin=Docking-23
+Added Member To Class: ClassName=Docking_Nets Member=Wire +5V
+Added Member To Class: ClassName=Docking_Nets Member=Wire A4
+Added Member To Class: ClassName=Docking_Nets Member=Wire A5
+Added Member To Class: ClassName=Docking_Nets Member=Wire A6
+Added Member To Class: ClassName=Docking_Nets Member=Wire A7
+Added Member To Class: ClassName=Docking_Nets Member=Wire B6
+Added Member To Class: ClassName=Docking_Nets Member=Wire B9
+Added Member To Class: ClassName=Docking_Nets Member=Wire B10
+Added Member To Class: ClassName=Docking_Nets Member=Wire B11
+Added Member To Class: ClassName=Docking_Nets Member=Wire E10
+Added Member To Class: ClassName=Docking_Nets Member=Wire E12
+Added Member To Class: ClassName=Docking_Nets Member=Wire E13
+Added Member To Class: ClassName=Docking_Nets Member=Wire GND
+Added Member To Class: ClassName=Docking_Nets Member=Wire NetCout_1
+Added Member To Class: ClassName=Docking_Nets Member=Wire P1_1
+Added Member To Class: ClassName=Docking_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Docking_Nets Member=Wire V_BAT

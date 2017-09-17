@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=+3.3V Pin=CurrentSource-1
+Removed Pin From Net: NetName=+3.3V Pin=CurrentSource-2
+Removed Pin From Net: NetName=B6 Pin=Docking-21
+Removed Pin From Net: NetName=B6 Pin=Docking-22
+Removed Pin From Net: NetName=B6 Pin=Docking-24
+Removed Pin From Net: NetName=B6 Pin=Docking-25
+Removed Pin From Net: NetName=NetD9_2 Pin=PressureCon-1
+Removed Pin From Net: NetName=NetD9_2 Pin=PressureCon-2
+Removed Pin From Net: NetName=NetD9_2 Pin=PressureCon-4
+Removed Pin From Net: NetName=NetD9_2 Pin=PressureCon-5
+Removed Pin From Net: NetName=NetD9_2 Pin=PressureCon-6
+Removed Member From Class: ClassName=TopSheet_StructureClass Member=Designator_StructureClass
+Removed Member From Class: ClassName=Designator_StructureClass Member=Designator
+Added Pin To Net: NetName=NetCurrentSource_1 Pin=CurrentSource-1
+Added Pin To Net: NetName=NetCurrentSource_2 Pin=CurrentSource-2
+Added Pin To Net: NetName=A4 Pin=Docking-21
+Added Pin To Net: NetName=B9 Pin=Docking-22
+Added Pin To Net: NetName=NetPInstrAmp_-IN Pin=PressureCon-1
+Added Pin To Net: NetName=+3.3V Pin=PressureCon-2
+Added Pin To Net: NetName=NetPInstrAmp_+IN Pin=PressureCon-4
+Added Pin To Net: NetName=NetPInstrAmp_RG2 Pin=PressureCon-5
+Added Pin To Net: NetName=NetPInstrAmp_RG1 Pin=PressureCon-6
+Change Class Name : Old Net Name=Designator New Net Name=PIKSI_UARTA
+Change Class Name : Old Net Name=Designator_StructureClass New Net Name=PIKSI_UARTA_StructureClass
+Added Member To Structure Class: ClassName=TopSheet_StructureClass Member=PIKSI_UARTA_StructureClass
+Added Member To Structure Class: ClassName=PIKSI_UARTA_StructureClass Member=PIKSI_UARTA
+Added Room: Name=Barrel Jack
+Added Room: Name=BoostConverter
+Added Room: Name=Docking
+Added Room: Name=Dsub
+Added Room: Name=PIKSI_UARTA
+Added Room: Name=PressureSensor
+Added Room: Name=SolSwitch
+Added Room: Name=Switches
+Added Room: Name=Umbilical104
+Added Room: Name=XACT

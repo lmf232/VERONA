@@ -1,0 +1,7 @@
+Added Component: Designator=FrameGND(RemoverBeforeFlight Switch)
+Added Component: Designator=RFrame(0402)
+Added Pin To Net: NetName=GOM_GND_2 Pin=RFrame-1
+Added Class: Name=U_GroundtoFrame
+Added Member To Class: ClassName=Barrel Jack Member=Component Barrel Jack PWR2.5
+Added Member To Class: ClassName=U_DCDC_1_Rev3 Member=Component Rfbb RC0603FR-0782KL
+Added Room: Name=U_GroundtoFrame

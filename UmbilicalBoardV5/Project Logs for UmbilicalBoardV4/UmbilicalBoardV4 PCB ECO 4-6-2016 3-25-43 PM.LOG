@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+12V_1 Pin=Docking-A4
+Removed Pin From Net: NetName=+12V_1 Pin=Docking-A5
+Added Pin To Net: NetName=+12V_1 Pin=JUMP-10
+Added Pin To Net: NetName=+12V_1_J9 Pin=Docking-A4
+Added Pin To Net: NetName=+12V_1_J9 Pin=Docking-A5
+Added Pin To Net: NetName=+12V_1_J9 Pin=JUMP-9
+Added Net: Name=+12V_1_J9

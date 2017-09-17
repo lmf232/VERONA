@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=AdapterBoard Member=104
+Added Component: Designator=*(PC-104FOOTPRINT)
+Added Pin To Net: NetName=GND Pin=*-12
+Added Pin To Net: NetName=5V Pin=*-14
+Added Pin To Net: NetName=GND Pin=*-38
+Added Pin To Net: NetName=5V Pin=*-40
+Added Member To Class: ClassName=AdapterBoard Member=Component * PC-104

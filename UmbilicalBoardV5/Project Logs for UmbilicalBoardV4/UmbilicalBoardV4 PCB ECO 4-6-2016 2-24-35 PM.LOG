@@ -1,0 +1,337 @@
+Added Pin To Net: NetName=+5V_1_J3 Pin=JUMP-3
+Added Pin To Net: NetName=+5V_1_J3 Pin=XACT-A9
+Added Pin To Net: NetName=+5V_1_J3 Pin=XACT-A25
+Added Net: Name=+5V_1_J3
+Added Pin To Net: NetName=+5V_1 Pin=JUMP-16
+Added Pin To Net: NetName=+5V_1 Pin=PC-104-H2_25
+Added Net: Name=+5V_1
+Added Pin To Net: NetName=+5V_2 Pin=Docking-A8
+Added Pin To Net: NetName=+5V_2 Pin=Docking-A9
+Added Pin To Net: NetName=+5V_2 Pin=PC-104-H2_26
+Added Net: Name=+5V_2
+Added Pin To Net: NetName=+5V_3 Pin=PC-104-H1_47
+Added Pin To Net: NetName=+5V_3 Pin=PIKSI_UARTA-4
+Added Net: Name=+5V_3
+Added Pin To Net: NetName=+12V_1_J1 Pin=JUMP-1
+Added Pin To Net: NetName=+12V_1_J1 Pin=XACT-A15
+Added Pin To Net: NetName=+12V_1_J1 Pin=XACT-A31
+Added Net: Name=+12V_1_J1
+Added Pin To Net: NetName=+12V_1 Pin=Cout_1-1
+Added Pin To Net: NetName=+12V_1 Pin=Cout_2-1
+Added Pin To Net: NetName=+12V_1 Pin=Cout_3-1
+Added Pin To Net: NetName=+12V_1 Pin=D1-2
+Added Pin To Net: NetName=+12V_1 Pin=D2-2
+Added Pin To Net: NetName=+12V_1 Pin=D3-2
+Added Pin To Net: NetName=+12V_1 Pin=D4-2
+Added Pin To Net: NetName=+12V_1 Pin=Docking-A4
+Added Pin To Net: NetName=+12V_1 Pin=Docking-A5
+Added Pin To Net: NetName=+12V_1 Pin=JUMP-18
+Added Pin To Net: NetName=+12V_1 Pin=Rfbt-1
+Added Pin To Net: NetName=+12V_1 Pin=SolenoidConnector-A1
+Added Pin To Net: NetName=+12V_1 Pin=SolenoidConnector-A3
+Added Pin To Net: NetName=+12V_1 Pin=SolenoidConnector-A5
+Added Pin To Net: NetName=+12V_1 Pin=SolenoidConnector-A7
+Added Net: Name=+12V_1
+Added Pin To Net: NetName=3V3_2 Pin=PC-104-H2_28
+Added Pin To Net: NetName=3V3_2 Pin=PresAmp-7
+Added Pin To Net: NetName=3V3_2 Pin=R2-1
+Added Pin To Net: NetName=3V3_2 Pin=R3-1
+Added Net: Name=3V3_2
+Added Pin To Net: NetName=ANALOGGND Pin=PC-104-H2_31
+Added Pin To Net: NetName=ANALOGGND Pin=PressureCon-2
+Added Pin To Net: NetName=ANALOGGND Pin=R1-2
+Added Pin To Net: NetName=ANALOGGND Pin=U1-4
+Added Net: Name=ANALOGGND
+Added Pin To Net: NetName=BAT_CHARGE Pin=Barrel Jack-1
+Added Pin To Net: NetName=BAT_CHARGE Pin=Barrel Jack-1A
+Added Pin To Net: NetName=BAT_CHARGE Pin=Barrel Jack-1B
+Added Pin To Net: NetName=BAT_CHARGE Pin=PC-104-H1_32
+Added Net: Name=BAT_CHARGE
+Added Pin To Net: NetName=C0 Pin=PC-104-H2_13
+Added Pin To Net: NetName=C0 Pin=R1-1
+Added Pin To Net: NetName=C0 Pin=R7-1
+Added Net: Name=C0
+Added Pin To Net: NetName=C1 Pin=PC-104-H2_14
+Added Pin To Net: NetName=C1 Pin=R2-1
+Added Pin To Net: NetName=C1 Pin=R8-1
+Added Net: Name=C1
+Added Pin To Net: NetName=C2 Pin=PC-104-H2_15
+Added Pin To Net: NetName=C2 Pin=R3-1
+Added Pin To Net: NetName=C2 Pin=R9-1
+Added Net: Name=C2
+Added Pin To Net: NetName=C3 Pin=PC-104-H2_16
+Added Net: Name=C3
+Added Pin To Net: NetName=GOM_GND_1 Pin=Barrel Jack-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Barrel Jack-2A
+Added Pin To Net: NetName=GOM_GND_1 Pin=Barrel Jack-2B
+Added Pin To Net: NetName=GOM_GND_1 Pin=Barrel Jack-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=Barrel Jack-3A
+Added Pin To Net: NetName=GOM_GND_1 Pin=Barrel Jack-3B
+Added Pin To Net: NetName=GOM_GND_1 Pin=Ccomp2-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Ccomp-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Cin_1-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Cin_2-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Cin_3-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Cout_1-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Cout_2-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Cout_3-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Css-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=Cvcc-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Cvin-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Docking-A6
+Added Pin To Net: NetName=GOM_GND_1 Pin=Docking-A7
+Added Pin To Net: NetName=GOM_GND_1 Pin=Docking-A10
+Added Pin To Net: NetName=GOM_GND_1 Pin=Docking-A11
+Added Pin To Net: NetName=GOM_GND_1 Pin=Docking-A12
+Added Pin To Net: NetName=GOM_GND_1 Pin=Docking-A13
+Added Pin To Net: NetName=GOM_GND_1 Pin=Docking-A18
+Added Pin To Net: NetName=GOM_GND_1 Pin=FlightSwitch-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=M1-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=M1-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=M1-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=Microswitch-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=PC-104-H2_29
+Added Pin To Net: NetName=GOM_GND_1 Pin=PIKSI_UARTA-0
+Added Pin To Net: NetName=GOM_GND_1 Pin=Q1-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=Q2-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=Q3-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=Q4-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=R7-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=R8-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=R9-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=R10-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Rfbb-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=RFrame-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=Rt-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=U1-9
+Added Pin To Net: NetName=GOM_GND_1 Pin=U1-16
+Added Pin To Net: NetName=GOM_GND_1 Pin=U1-17
+Added Pin To Net: NetName=GOM_GND_1 Pin=XACT-A4
+Added Pin To Net: NetName=GOM_GND_1 Pin=XACT-A10
+Added Pin To Net: NetName=GOM_GND_1 Pin=XACT-A14
+Added Pin To Net: NetName=GOM_GND_1 Pin=XACT-A20
+Added Pin To Net: NetName=GOM_GND_1 Pin=XACT-A26
+Added Pin To Net: NetName=GOM_GND_1 Pin=XACT-A30
+Added Net: Name=GOM_GND_1
+Added Pin To Net: NetName=GPIO_ANALOG Pin=PC-104-H1_39
+Added Pin To Net: NetName=GPIO_ANALOG Pin=PresAmp-6
+Added Net: Name=GPIO_ANALOG
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R14-2
+Added Pin To Net: NetName=NetC12_1 Pin=U1-5
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R13-2
+Added Pin To Net: NetName=NetC12_2 Pin=U1-6
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC_Supply_1_2 Pin=C_Supply_1-2
+Added Pin To Net: NetName=NetC_Supply_1_2 Pin=C_Supply_2-2
+Added Pin To Net: NetName=NetC_Supply_1_2 Pin=C_Supply_3-2
+Added Pin To Net: NetName=NetC_Supply_1_2 Pin=C_Supply_4-2
+Added Pin To Net: NetName=NetC_Supply_1_2 Pin=Cvin-1
+Added Pin To Net: NetName=NetC_Supply_1_2 Pin=R13-1
+Added Pin To Net: NetName=NetC_Supply_1_2 Pin=Rsns1-2
+Added Pin To Net: NetName=NetC_Supply_1_2 Pin=Rsns2-2
+Added Pin To Net: NetName=NetC_Supply_1_2 Pin=U1-7
+Added Net: Name=NetC_Supply_1_2
+Added Pin To Net: NetName=NetCboot_1 Pin=Cboot-1
+Added Pin To Net: NetName=NetCboot_1 Pin=L1-2
+Added Pin To Net: NetName=NetCboot_1 Pin=M1-5
+Added Pin To Net: NetName=NetCboot_1 Pin=M1-6
+Added Pin To Net: NetName=NetCboot_1 Pin=M1-7
+Added Pin To Net: NetName=NetCboot_1 Pin=M1-8
+Added Pin To Net: NetName=NetCboot_1 Pin=M1-9
+Added Pin To Net: NetName=NetCboot_1 Pin=M2-5
+Added Pin To Net: NetName=NetCboot_1 Pin=M2-6
+Added Pin To Net: NetName=NetCboot_1 Pin=M2-7
+Added Pin To Net: NetName=NetCboot_1 Pin=M2-8
+Added Pin To Net: NetName=NetCboot_1 Pin=M2-9
+Added Pin To Net: NetName=NetCboot_1 Pin=U1-12
+Added Net: Name=NetCboot_1
+Added Pin To Net: NetName=NetCboot_2 Pin=Cboot-2
+Added Pin To Net: NetName=NetCboot_2 Pin=U1-11
+Added Net: Name=NetCboot_2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Ccomp2-1
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Rcomp-1
+Added Pin To Net: NetName=NetCcomp2_1 Pin=U1-3
+Added Net: Name=NetCcomp2_1
+Added Pin To Net: NetName=NetCcomp_1 Pin=Ccomp-1
+Added Pin To Net: NetName=NetCcomp_1 Pin=Rcomp-2
+Added Net: Name=NetCcomp_1
+Added Pin To Net: NetName=NetCss_2 Pin=Css-2
+Added Pin To Net: NetName=NetCss_2 Pin=U1-2
+Added Net: Name=NetCss_2
+Added Pin To Net: NetName=NetCvcc_1 Pin=Cvcc-1
+Added Pin To Net: NetName=NetCvcc_1 Pin=Rpg-1
+Added Pin To Net: NetName=NetCvcc_1 Pin=U1-10
+Added Net: Name=NetCvcc_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetD1_1 Pin=SolenoidConnector-A2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetD2_1 Pin=SolenoidConnector-A4
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetD3_1 Pin=SolenoidConnector-A6
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetD4_1 Pin=SolenoidConnector-A8
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetDocking_0 Pin=Docking-A1
+Added Pin To Net: NetName=NetDocking_0 Pin=PC-104-H1_20
+Added Net: Name=NetDocking_0
+Added Pin To Net: NetName=NetDocking_1 Pin=Docking-A2
+Added Pin To Net: NetName=NetDocking_1 Pin=PC-104-H1_24
+Added Net: Name=NetDocking_1
+Added Pin To Net: NetName=NetDocking_2 Pin=Docking-A3
+Added Pin To Net: NetName=NetDocking_2 Pin=PC-104-H1_26
+Added Net: Name=NetDocking_2
+Added Pin To Net: NetName=NetDocking_15 Pin=Docking-A16
+Added Pin To Net: NetName=NetDocking_15 Pin=PC-104-H1_25
+Added Net: Name=NetDocking_15
+Added Pin To Net: NetName=NetDocking_16 Pin=Docking-A17
+Added Pin To Net: NetName=NetDocking_16 Pin=PC-104-H1_27
+Added Net: Name=NetDocking_16
+Added Pin To Net: NetName=NetDocking_18 Pin=Docking-A19
+Added Pin To Net: NetName=NetDocking_18 Pin=PC-104-H1_9
+Added Net: Name=NetDocking_18
+Added Pin To Net: NetName=NetDocking_19 Pin=Docking-A20
+Added Pin To Net: NetName=NetDocking_19 Pin=PC-104-H1_11
+Added Net: Name=NetDocking_19
+Added Pin To Net: NetName=NetDocking_20 Pin=Docking-A21
+Added Pin To Net: NetName=NetDocking_20 Pin=PC-104-H1_7
+Added Net: Name=NetDocking_20
+Added Pin To Net: NetName=NetDocking_21 Pin=Docking-A22
+Added Pin To Net: NetName=NetDocking_21 Pin=PC-104-H1_5
+Added Net: Name=NetDocking_21
+Added Pin To Net: NetName=NetDocking_22 Pin=Docking-A23
+Added Pin To Net: NetName=NetDocking_22 Pin=PC-104-H1_41
+Added Net: Name=NetDocking_22
+Added Pin To Net: NetName=NetDocking_23 Pin=Docking-A24
+Added Pin To Net: NetName=NetDocking_23 Pin=PC-104-H1_43
+Added Net: Name=NetDocking_23
+Added Pin To Net: NetName=NetDsub_1 Pin=Dsub-1
+Added Pin To Net: NetName=NetDsub_1 Pin=Dsub-1
+Added Pin To Net: NetName=NetDsub_1 Pin=PC-104-H1_15
+Added Net: Name=NetDsub_1
+Added Pin To Net: NetName=NetDsub_2 Pin=Dsub-2
+Added Pin To Net: NetName=NetDsub_2 Pin=Dsub-2
+Added Pin To Net: NetName=NetDsub_2 Pin=PC-104-H1_13
+Added Net: Name=NetDsub_2
+Added Pin To Net: NetName=NetFlightSwitch_2 Pin=FlightSwitch-2
+Added Pin To Net: NetName=NetFlightSwitch_2 Pin=Microswitch-2
+Added Net: Name=NetFlightSwitch_2
+Added Pin To Net: NetName=NetFrameGND_1 Pin=FrameGND-1
+Added Pin To Net: NetName=NetFrameGND_1 Pin=RFrame-2
+Added Net: Name=NetFrameGND_1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=R14-1
+Added Pin To Net: NetName=NetL1_1 Pin=Rsns1-1
+Added Pin To Net: NetName=NetL1_1 Pin=Rsns2-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetM1_4 Pin=M1-4
+Added Pin To Net: NetName=NetM1_4 Pin=U1-8
+Added Net: Name=NetM1_4
+Added Pin To Net: NetName=NetM2_1 Pin=M2-1
+Added Pin To Net: NetName=NetM2_1 Pin=M2-2
+Added Pin To Net: NetName=NetM2_1 Pin=M2-3
+Added Net: Name=NetM2_1
+Added Pin To Net: NetName=NetM2_4 Pin=M2-4
+Added Pin To Net: NetName=NetM2_4 Pin=U1-13
+Added Net: Name=NetM2_4
+Added Pin To Net: NetName=NetPC-104_H1_17 Pin=PC-104-H1_17
+Added Pin To Net: NetName=NetPC-104_H1_17 Pin=PIKSI_UARTA-1
+Added Net: Name=NetPC-104_H1_17
+Added Pin To Net: NetName=NetPC-104_H1_19 Pin=PC-104-H1_19
+Added Pin To Net: NetName=NetPC-104_H1_19 Pin=PIKSI_UARTA-2
+Added Net: Name=NetPC-104_H1_19
+Added Pin To Net: NetName=NetPC-104_H1_48 Pin=PC-104-H1_48
+Added Net: Name=NetPC-104_H1_48
+Added Pin To Net: NetName=NetPC-104_H1_49 Pin=PC-104-H1_49
+Added Net: Name=NetPC-104_H1_49
+Added Pin To Net: NetName=NetPC-104_H1_50 Pin=PC-104-H1_50
+Added Net: Name=NetPC-104_H1_50
+Added Pin To Net: NetName=NetPC-104_H1_51 Pin=PC-104-H1_51
+Added Net: Name=NetPC-104_H1_51
+Added Pin To Net: NetName=NetPC-104_H1_52 Pin=PC-104-H1_52
+Added Net: Name=NetPC-104_H1_52
+Added Pin To Net: NetName=NetPC-104_H2_27 Pin=PC-104-H2_27
+Added Net: Name=NetPC-104_H2_27
+Added Pin To Net: NetName=NetPresAmp_1 Pin=PresAmp-1
+Added Pin To Net: NetName=NetPresAmp_1 Pin=RPOT-2
+Added Net: Name=NetPresAmp_1
+Added Pin To Net: NetName=NetPresAmp_2 Pin=PresAmp-2
+Added Pin To Net: NetName=NetPresAmp_2 Pin=PressureCon-4
+Added Net: Name=NetPresAmp_2
+Added Pin To Net: NetName=NetPresAmp_3 Pin=PresAmp-3
+Added Pin To Net: NetName=NetPresAmp_3 Pin=PressureCon-1
+Added Net: Name=NetPresAmp_3
+Added Pin To Net: NetName=NetPresAmp_8 Pin=PresAmp-8
+Added Pin To Net: NetName=NetPresAmp_8 Pin=RPOT-3
+Added Net: Name=NetPresAmp_8
+Added Pin To Net: NetName=NetPressureCon_3 Pin=PressureCon-3
+Added Pin To Net: NetName=NetPressureCon_3 Pin=Q1-3
+Added Net: Name=NetPressureCon_3
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-2
+Added Pin To Net: NetName=NetQ1_1 Pin=U1-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R2-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R3-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R4-2
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R10-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbb-1
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbt-2
+Added Pin To Net: NetName=NetRfbb_1 Pin=U1-4
+Added Net: Name=NetRfbb_1
+Added Pin To Net: NetName=NetRpg_2 Pin=Rpg-2
+Added Pin To Net: NetName=NetRpg_2 Pin=U1-14
+Added Net: Name=NetRpg_2
+Added Pin To Net: NetName=NetRt_1 Pin=Rt-1
+Added Pin To Net: NetName=NetRt_1 Pin=U1-1
+Added Net: Name=NetRt_1
+Added Pin To Net: NetName=PWR_EN_J2 Pin=JUMP-2
+Added Pin To Net: NetName=PWR_EN_J2 Pin=XACT-A16
+Added Net: Name=PWR_EN_J2
+Added Pin To Net: NetName=PWR_EN Pin=JUMP-17
+Added Pin To Net: NetName=PWR_EN Pin=PC-104-H1_30
+Added Net: Name=PWR_EN
+Added Pin To Net: NetName=SPI_MISO Pin=XACT-A21
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=XACT-A6
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=SPI_SCK Pin=XACT-A5
+Added Net: Name=SPI_SCK
+Added Pin To Net: NetName=SPI_SS Pin=XACT-A22
+Added Net: Name=SPI_SS
+Added Pin To Net: NetName=V_BAT_1 Pin=C_Supply_1-1
+Added Pin To Net: NetName=V_BAT_1 Pin=C_Supply_2-1
+Added Pin To Net: NetName=V_BAT_1 Pin=C_Supply_3-1
+Added Pin To Net: NetName=V_BAT_1 Pin=C_Supply_4-1
+Added Pin To Net: NetName=V_BAT_1 Pin=Cin_1-1
+Added Pin To Net: NetName=V_BAT_1 Pin=Cin_2-1
+Added Pin To Net: NetName=V_BAT_1 Pin=Cin_3-1
+Added Pin To Net: NetName=V_BAT_1 Pin=Docking-A14
+Added Pin To Net: NetName=V_BAT_1 Pin=Docking-A15
+Added Pin To Net: NetName=V_BAT_1 Pin=PC-104-H2_45
+Added Pin To Net: NetName=V_BAT_1 Pin=PC-104-H2_46
+Added Net: Name=V_BAT_1

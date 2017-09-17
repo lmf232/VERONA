@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GOM_GND_1 Pin=ADCS Connector-5
+Removed Pin From Net: NetName=GOM_GND_1 Pin=ADCS Connector-6
+Added Component: Designator=5v to 24v(U3V50F24)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GOM_GND_1 Pin=5v to 24v-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=5v to 24v-2
+Added Pin To Net: NetName=5V_3 Pin=5v to 24v-3
+Added Pin To Net: NetName=5V_3 Pin=5v to 24v-4
+Added Pin To Net: NetName=GOM_GND_1 Pin=5v to 24v-5
+Added Pin To Net: NetName=24V Pin=5v to 24v-6
+Added Pin To Net: NetName=24V Pin=5v to 24v-7
+Added Pin To Net: NetName=GOM_GND_1 Pin=5v to 24v-8
+Added Pin To Net: NetName=GOM_GND_1 Pin=5v to 24v-9
+Added Member To Class: ClassName=U_24V Step Up Voltage Regulator U3V50F24 Member=Component 5v to 24v U3V50F24, 24V Step Up Regulator, Pololu
+Added Room: Name=U_GroundtoFrame

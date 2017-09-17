@@ -1,0 +1,6 @@
+Change Component Comment : Designator=FrameGND Old Comment=2 Pin Frame Ground Connector New Comment=FrameGND
+Change Component Library : Designator=FrameGND Old Library=UmbilicalBoardV3.IntLib New Library=UmbilicalBoardV2.SCHLIB
+Added Pin To Net: NetName=NetFrameGND_1 Pin=FrameGND-1
+Added Pin To Net: NetName=NetFrameGND_1 Pin=RFrame-2
+Added Net: Name=NetFrameGND_1
+Added Room: Name=Switch

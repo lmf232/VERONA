@@ -1,0 +1,569 @@
+Removed Pin From Net: NetName=24V Pin=5v to 24v-6
+Removed Pin From Net: NetName=24V Pin=5v to 24v-7
+Removed Pin From Net: NetName=GOM_GND_1 Pin=ADCS Connector-2
+Removed Pin From Net: NetName=5V_3 Pin=ADCS Connector-3
+Removed Pin From Net: NetName=24V Pin=ADCS Connector-4
+Removed Pin From Net: NetName=SPI_SS Pin=PC-104-H1_5
+Removed Pin From Net: NetName=SPI_SCK Pin=PC-104-H1_7
+Removed Pin From Net: NetName=SPI_MISO Pin=PC-104-H1_9
+Removed Pin From Net: NetName=SPI_MOSI Pin=PC-104-H1_11
+Removed Pin From Net: NetName=NetIOconn_rev2_2 Pin=PC-104-H1_13
+Removed Pin From Net: NetName=NetIOconn_rev2_1 Pin=PC-104-H1_15
+Removed Pin From Net: NetName=UART5_RX Pin=PC-104-H1_17
+Removed Pin From Net: NetName=UART5_TX Pin=PC-104-H1_19
+Removed Pin From Net: NetName=NetDocking_0 Pin=PC-104-H1_20
+Removed Pin From Net: NetName=NetDocking_1 Pin=PC-104-H1_24
+Removed Pin From Net: NetName=NetDocking_15 Pin=PC-104-H1_25
+Removed Pin From Net: NetName=GPIO3 Pin=PC-104-H1_26
+Removed Pin From Net: NetName=NetDocking_16 Pin=PC-104-H1_27
+Removed Pin From Net: NetName=BAT_CHARGE Pin=PC-104-H1_32
+Removed Pin From Net: NetName=NetDocking_22 Pin=PC-104-H1_41
+Removed Pin From Net: NetName=NetDocking_23 Pin=PC-104-H1_43
+Removed Pin From Net: NetName=+5V_3 Pin=PC-104-H1_47
+Removed Pin From Net: NetName=GPIO_ADC_NEWPRESS Pin=PC-104-H2_17
+Removed Pin From Net: NetName=GPIO_ADC_OLDPRESS Pin=PC-104-H2_19
+Removed Pin From Net: NetName=+5V_1 Pin=PC-104-H2_25
+Removed Pin From Net: NetName=GOM_GND_1 Pin=PC-104-H2_29
+Removed Pin From Net: NetName=ANALOGGND Pin=PC-104-H2_31
+Removed Pin From Net: NetName=V_BAT_1 Pin=PC-104-H2_45
+Removed Pin From Net: NetName=V_BAT_1 Pin=PC-104-H2_46
+Removed Pin From Net: NetName=GOM_GND_1 Pin=PIKSI_UARTA-0
+Removed Pin From Net: NetName=UART5_RX Pin=PIKSI_UARTA-1
+Removed Pin From Net: NetName=UART5_TX Pin=PIKSI_UARTA-2
+Removed Pin From Net: NetName=+5V_3_JUMP3 Pin=PIKSI_UARTA-4
+Change Component Comment : Designator=ADCS Connector Old Comment=ADCS Connector New Comment=PIKSI_UART Connector
+Added Component: Designator=5v to 24v(U3V50F24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=5v to 24v(U3V50F24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=5v to 24v(U3V50F24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ADCS(Molex Picoblade 5 Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B?(Barrel_Jack)
+Add component. Clean all parameters for all variants
+Added Component: Designator=FC(Teensy 3.2 SMD Headers)
+Add component. Clean all parameters for all variants
+Added Component: Designator=FlightSwitch?(RemoverBeforeFlight Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=FrameGND(ViatoFrame)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IOconn_rev2(IOConn_Rev2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP2(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP3(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP4(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP5(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP6(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP7(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP8(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP9(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP10(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=Microswitch?(MicroSwitch_3pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Mux(N16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CD74HC4051E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS_Part_Number"; Value = "526694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Section"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Added Component: Designator=OpAmp(UA741)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIKSI_UARTA?(Molex Picoblade 5 Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PresAmp(R_8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD627ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "Refdes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Vendor"; VariantName = "[No Variations]"
+Added Component: Designator=PressCon_2(PressCon_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PressSense1(532610471)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PressSense2(532610471)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PressureCon(Pressure Connector)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q5(TO-92A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/2N%2F2N3906.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "15-Jan-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Footprint 'BCY-W3/D4.7' replaced"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.5mm; Leads 0.51 x 0.48 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Res"; VariantName = "[No Variations]"
+Added Component: Designator=R12(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Res"; VariantName = "[No Variations]"
+Added Component: Designator=R15(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Res"; VariantName = "[No Variations]"
+Added Component: Designator=R_Voltdiv_1(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW040210R0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Added Component: Designator=R_Voltdiv_2(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW040210R0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Added Component: Designator=RFrame(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=RPOT(VR5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Variable Resistor, Thru-Hole; 3 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "VR5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Set Position"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sim Note"; Value = "Enter the Resistance value and the set point into parameter fields."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=T1(RemoverBeforeFlight Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T2(RemoverBeforeFlight Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T3(RemoverBeforeFlight Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T4(RemoverBeforeFlight Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T5(RemoverBeforeFlight Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T6(RemoverBeforeFlight Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T7(RemoverBeforeFlight Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T8(RemoverBeforeFlight Switch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=24V Pin=ADCS-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=ADCS Connector-3
+Added Pin To Net: NetName=5V_3 Pin=ADCS Connector-4
+Added Pin To Net: NetName=NetIOconn_rev2_1 Pin=IOconn_rev2-1
+Added Pin To Net: NetName=NetIOconn_rev2_2 Pin=IOconn_rev2-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=IOconn_rev2-3
+Added Pin To Net: NetName=+5V_2_JUMP2 Pin=JUMP2-2
+Added Pin To Net: NetName=+5V_3 Pin=JUMP3-1
+Added Pin To Net: NetName=+5V_3_JUMP3 Pin=JUMP3-2
+Added Pin To Net: NetName=3V3_2_JUMP4 Pin=JUMP4-2
+Added Pin To Net: NetName=V_BAT_1 Pin=JUMP5-1
+Added Pin To Net: NetName=V_BAT_1_JUMP5 Pin=JUMP5-2
+Added Pin To Net: NetName=+5V_5_JUMP6 Pin=JUMP6-2
+Added Pin To Net: NetName=+12V_1 Pin=JUMP7-1
+Added Pin To Net: NetName=+12V_1_JUMP7 Pin=JUMP7-2
+Added Pin To Net: NetName=+12V_1 Pin=JUMP8-1
+Added Pin To Net: NetName=+12V_1_JUMP8 Pin=JUMP8-2
+Added Pin To Net: NetName=+12V_1 Pin=JUMP9-1
+Added Pin To Net: NetName=+12V_1_JUMP9 Pin=JUMP9-2
+Added Pin To Net: NetName=+12V_1 Pin=JUMP10-1
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=JUMP10-2
+Added Pin To Net: NetName=NetOpAmp_2 Pin=OpAmp-2
+Added Pin To Net: NetName=NetOpAmp_3 Pin=OpAmp-3
+Added Pin To Net: NetName=ANALOGGND Pin=OpAmp-4
+Added Pin To Net: NetName=NetOpAmp_6 Pin=OpAmp-6
+Added Pin To Net: NetName=GOM_GND_1 Pin=PIKSI_UARTA-1
+Added Pin To Net: NetName=UART5_RX Pin=PIKSI_UARTA-2
+Added Pin To Net: NetName=UART5_TX Pin=PIKSI_UARTA-3
+Added Pin To Net: NetName=+5V_3_JUMP3 Pin=PIKSI_UARTA-5
+Added Pin To Net: NetName=NetPresAmp_1 Pin=PresAmp-1
+Added Pin To Net: NetName=NetPresAmp_2 Pin=PresAmp-2
+Added Pin To Net: NetName=NetPresAmp_3 Pin=PresAmp-3
+Added Pin To Net: NetName=ANALOGGND Pin=PresAmp-4
+Added Pin To Net: NetName=ANALOGGND Pin=PresAmp-5
+Added Pin To Net: NetName=GPIO_ADC_OLDPRESS Pin=PresAmp-6
+Added Pin To Net: NetName=3V3_2_JUMP4 Pin=PresAmp-7
+Added Pin To Net: NetName=NetPresAmp_8 Pin=PresAmp-8
+Added Pin To Net: NetName=GOM_GND_1 Pin=PressCon_2-1
+Added Pin To Net: NetName=NetPressCon_2_2 Pin=PressCon_2-2
+Added Pin To Net: NetName=+5V_5_JUMP6 Pin=PressCon_2-4
+Added Pin To Net: NetName=NetPresAmp_3 Pin=PressureCon-1
+Added Pin To Net: NetName=ANALOGGND Pin=PressureCon-2
+Added Pin To Net: NetName=NetPressureCon_3 Pin=PressureCon-3
+Added Pin To Net: NetName=NetPresAmp_2 Pin=PressureCon-4
+Added Pin To Net: NetName=NetOpAmp_2 Pin=Q5-1
+Added Pin To Net: NetName=NetOpAmp_6 Pin=Q5-2
+Added Pin To Net: NetName=NetPressureCon_3 Pin=Q5-3
+Added Pin To Net: NetName=NetOpAmp_3 Pin=R11-1
+Added Pin To Net: NetName=ANALOGGND Pin=R11-2
+Added Pin To Net: NetName=3V3_2_JUMP4 Pin=R12-1
+Added Pin To Net: NetName=NetOpAmp_3 Pin=R12-2
+Added Pin To Net: NetName=3V3_2_JUMP4 Pin=R15-1
+Added Pin To Net: NetName=NetOpAmp_2 Pin=R15-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=R_Voltdiv_1-1
+Added Pin To Net: NetName=GPIO_ADC_NEWPRESS Pin=R_Voltdiv_1-2
+Added Pin To Net: NetName=NetPressCon_2_2 Pin=R_Voltdiv_2-1
+Added Pin To Net: NetName=GPIO_ADC_NEWPRESS Pin=R_Voltdiv_2-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=RFrame-1
+Added Pin To Net: NetName=NetFrameGND_1 Pin=RFrame-2
+Added Pin To Net: NetName=GND Pin=RPOT-1
+Added Pin To Net: NetName=NetPresAmp_1 Pin=RPOT-2
+Added Pin To Net: NetName=NetPresAmp_8 Pin=RPOT-3
+Change Net Name : Old Net Name=+5V_2 New Net Name=3.3_Valves246
+Change Net Name : Old Net Name=+5V_5 New Net Name=5_Valves246
+Change Net Name : Old Net Name=3V3_1 New Net Name=5V_Teensy2
+Change Net Name : Old Net Name=3V3_2 New Net Name=3.3_Valves135
+Change Net Name : Old Net Name=NetPC-104_H1_48 New Net Name=5_Valves135
+Change Net Name : Old Net Name=TX3 New Net Name=RX3
+Added Pin To Net: NetName=+5V_2 Pin=JUMP2-1
+Added Net: Name=+5V_2
+Added Pin To Net: NetName=+5V_5 Pin=JUMP6-1
+Added Net: Name=+5V_5
+Added Pin To Net: NetName=3V3_1 Pin=IOconn_rev2-4
+Added Net: Name=3V3_1
+Added Pin To Net: NetName=3V3_2 Pin=JUMP4-1
+Added Net: Name=3V3_2
+Added Pin To Net: NetName=5_ADCS Pin=ADCS-4
+Added Pin To Net: NetName=5_ADCS Pin=PC-104-H1_50
+Added Net: Name=5_ADCS
+Added Pin To Net: NetName=5_mux Pin=Mux-16
+Added Pin To Net: NetName=5_mux Pin=PC-104-H1_51
+Added Net: Name=5_mux
+Added Pin To Net: NetName=5V_BattChargeIn Pin=B?-2
+Added Pin To Net: NetName=5V_BattChargeIn Pin=PC-104-H1_32
+Added Net: Name=5V_BattChargeIn
+Added Pin To Net: NetName=5V_Teensy1 Pin=FC-33
+Added Pin To Net: NetName=5V_Teensy1 Pin=PC-104-H2_25
+Added Net: Name=5V_Teensy1
+Added Pin To Net: NetName=5V_TempSensors Pin=PC-104-H1_47
+Added Pin To Net: NetName=5V_TempSensors Pin=R1-1
+Added Pin To Net: NetName=5V_TempSensors Pin=R2-1
+Added Pin To Net: NetName=5V_TempSensors Pin=R3-1
+Added Pin To Net: NetName=5V_TempSensors Pin=R4-1
+Added Pin To Net: NetName=5V_TempSensors Pin=R5-1
+Added Pin To Net: NetName=5V_TempSensors Pin=R6-1
+Added Pin To Net: NetName=5V_TempSensors Pin=R7-1
+Added Pin To Net: NetName=5V_TempSensors Pin=R8-1
+Added Net: Name=5V_TempSensors
+Added Pin To Net: NetName=24V_enable Pin=FC-4
+Added Pin To Net: NetName=24V_enable Pin=PC-104-H1_21
+Added Net: Name=24V_enable
+Added Pin To Net: NetName=AGND Pin=FC-32
+Added Pin To Net: NetName=AGND Pin=PC-104-H2_31
+Added Net: Name=AGND
+Added Pin To Net: NetName=DGND Pin=ADCS-5
+Added Pin To Net: NetName=DGND Pin=B?-0
+Added Pin To Net: NetName=DGND Pin=B?-1
+Added Pin To Net: NetName=DGND Pin=FC-1
+Added Pin To Net: NetName=DGND Pin=FlightSwitch?-1
+Added Pin To Net: NetName=DGND Pin=Microswitch?-3
+Added Pin To Net: NetName=DGND Pin=Mux-8
+Added Pin To Net: NetName=DGND Pin=PC-104-H2_29
+Added Pin To Net: NetName=DGND Pin=PIKSI_UARTA?-1
+Added Pin To Net: NetName=DGND Pin=T1-2
+Added Pin To Net: NetName=DGND Pin=T2-2
+Added Pin To Net: NetName=DGND Pin=T3-2
+Added Pin To Net: NetName=DGND Pin=T4-2
+Added Pin To Net: NetName=DGND Pin=T5-2
+Added Pin To Net: NetName=DGND Pin=T6-2
+Added Pin To Net: NetName=DGND Pin=T7-2
+Added Pin To Net: NetName=DGND Pin=T8-2
+Added Net: Name=DGND
+Added Pin To Net: NetName=Docking_BW Pin=FC-6
+Added Pin To Net: NetName=Docking_BW Pin=PC-104-H1_25
+Added Net: Name=Docking_BW
+Added Pin To Net: NetName=Docking_en Pin=FC-7
+Added Pin To Net: NetName=Docking_en Pin=PC-104-H1_27
+Added Net: Name=Docking_en
+Added Pin To Net: NetName=DockingFW Pin=FC-5
+Added Pin To Net: NetName=DockingFW Pin=PC-104-H1_23
+Added Net: Name=DockingFW
+Added Pin To Net: NetName=EPS_SCL Pin=FC-30
+Added Pin To Net: NetName=EPS_SCL Pin=PC-104-H1_43
+Added Net: Name=EPS_SCL
+Added Pin To Net: NetName=EPS_SDA Pin=FC-29
+Added Pin To Net: NetName=EPS_SDA Pin=PC-104-H1_41
+Added Net: Name=EPS_SDA
+Added Pin To Net: NetName=Linkstar_RX Pin=FC-9
+Added Pin To Net: NetName=Linkstar_RX Pin=PC-104-H1_15
+Added Net: Name=Linkstar_RX
+Added Pin To Net: NetName=Linkstar_TX Pin=FC-10
+Added Pin To Net: NetName=Linkstar_TX Pin=PC-104-H1_13
+Added Net: Name=Linkstar_TX
+Added Pin To Net: NetName=mux1 Pin=Mux-13
+Added Pin To Net: NetName=mux1 Pin=R5-2
+Added Pin To Net: NetName=mux1 Pin=T5-1
+Added Net: Name=mux1
+Added Pin To Net: NetName=mux2 Pin=Mux-14
+Added Pin To Net: NetName=mux2 Pin=R6-2
+Added Pin To Net: NetName=mux2 Pin=T6-1
+Added Net: Name=mux2
+Added Pin To Net: NetName=mux3 Pin=Mux-15
+Added Pin To Net: NetName=mux3 Pin=R7-2
+Added Pin To Net: NetName=mux3 Pin=T7-1
+Added Net: Name=mux3
+Added Pin To Net: NetName=mux4 Pin=Mux-12
+Added Pin To Net: NetName=mux4 Pin=R8-2
+Added Pin To Net: NetName=mux4 Pin=T8-1
+Added Net: Name=mux4
+Added Pin To Net: NetName=mux5 Pin=Mux-1
+Added Pin To Net: NetName=mux5 Pin=R1-2
+Added Pin To Net: NetName=mux5 Pin=T1-1
+Added Net: Name=mux5
+Added Pin To Net: NetName=mux6 Pin=Mux-5
+Added Pin To Net: NetName=mux6 Pin=R2-2
+Added Pin To Net: NetName=mux6 Pin=T2-1
+Added Net: Name=mux6
+Added Pin To Net: NetName=mux7 Pin=Mux-2
+Added Pin To Net: NetName=mux7 Pin=R3-2
+Added Pin To Net: NetName=mux7 Pin=T3-1
+Added Net: Name=mux7
+Added Pin To Net: NetName=mux8 Pin=Mux-4
+Added Pin To Net: NetName=mux8 Pin=R4-2
+Added Pin To Net: NetName=mux8 Pin=T4-1
+Added Net: Name=mux8
+Added Pin To Net: NetName=Net5v to 24v_1 Pin=5v to 24v-1
+Added Pin To Net: NetName=Net5v to 24v_1 Pin=5v to 24v-2
+Added Pin To Net: NetName=Net5v to 24v_1 Pin=5v to 24v-8
+Added Pin To Net: NetName=Net5v to 24v_1 Pin=5v to 24v-9
+Added Net: Name=Net5v to 24v_1
+Added Pin To Net: NetName=Net5v to 24v_3 Pin=5v to 24v-3
+Added Pin To Net: NetName=Net5v to 24v_3 Pin=5v to 24v-4
+Added Net: Name=Net5v to 24v_3
+Added Pin To Net: NetName=Net5v to 24v_6 Pin=5v to 24v-6
+Added Pin To Net: NetName=Net5v to 24v_6 Pin=5v to 24v-7
+Added Net: Name=Net5v to 24v_6
+Added Pin To Net: NetName=NetFlightSwitch?_2 Pin=FlightSwitch?-2
+Added Pin To Net: NetName=NetFlightSwitch?_2 Pin=Microswitch?-2
+Added Net: Name=NetFlightSwitch?_2
+Added Pin To Net: NetName=Piksi_RX Pin=FC-2
+Added Pin To Net: NetName=Piksi_RX Pin=PC-104-H1_19
+Added Pin To Net: NetName=Piksi_RX Pin=PIKSI_UARTA?-2
+Added Net: Name=Piksi_RX
+Added Pin To Net: NetName=Piksi_TX Pin=FC-3
+Added Pin To Net: NetName=Piksi_TX Pin=PC-104-H1_17
+Added Pin To Net: NetName=Piksi_TX Pin=PIKSI_UARTA?-3
+Added Net: Name=Piksi_TX
+Added Pin To Net: NetName=Pressure1 Pin=FC-26
+Added Pin To Net: NetName=Pressure1 Pin=PC-104-H1_33
+Added Net: Name=Pressure1
+Added Pin To Net: NetName=Pressure2 Pin=FC-27
+Added Pin To Net: NetName=Pressure2 Pin=PC-104-H1_35
+Added Net: Name=Pressure2
+Added Pin To Net: NetName=Teensy2_RX Pin=ADCS-2
+Added Pin To Net: NetName=Teensy2_RX Pin=FC-11
+Added Pin To Net: NetName=Teensy2_RX Pin=PC-104-H1_31
+Added Net: Name=Teensy2_RX
+Added Pin To Net: NetName=Teensy2_TX Pin=ADCS-3
+Added Pin To Net: NetName=Teensy2_TX Pin=FC-12
+Added Pin To Net: NetName=Teensy2_TX Pin=PC-104-H1_29
+Added Net: Name=Teensy2_TX
+Added Pin To Net: NetName=TempMux1 Pin=Mux-11
+Added Pin To Net: NetName=TempMux1 Pin=PC-104-H1_2
+Added Net: Name=TempMux1
+Added Pin To Net: NetName=TempMux2 Pin=FC-13
+Added Pin To Net: NetName=TempMux2 Pin=Mux-10
+Added Pin To Net: NetName=TempMux2 Pin=PC-104-H1_4
+Added Net: Name=TempMux2
+Added Pin To Net: NetName=TempMux3 Pin=FC-14
+Added Pin To Net: NetName=TempMux3 Pin=Mux-9
+Added Pin To Net: NetName=TempMux3 Pin=PC-104-H1_6
+Added Net: Name=TempMux3
+Added Pin To Net: NetName=TempMuxRead Pin=FC-28
+Added Pin To Net: NetName=TempMuxRead Pin=Mux-3
+Added Pin To Net: NetName=TempMuxRead Pin=PC-104-H1_8
+Added Net: Name=TempMuxRead
+Added Pin To Net: NetName=TX3 Pin=ADCS Connector-2
+Added Net: Name=TX3
+Added Pin To Net: NetName=Valve1 Pin=FC-20
+Added Pin To Net: NetName=Valve1 Pin=PC-104-H1_1
+Added Net: Name=Valve1
+Added Pin To Net: NetName=Valve2 Pin=FC-21
+Added Pin To Net: NetName=Valve2 Pin=PC-104-H1_3
+Added Net: Name=Valve2
+Added Pin To Net: NetName=Valve3 Pin=FC-22
+Added Pin To Net: NetName=Valve3 Pin=PC-104-H1_5
+Added Net: Name=Valve3
+Added Pin To Net: NetName=Valve4 Pin=FC-23
+Added Pin To Net: NetName=Valve4 Pin=PC-104-H1_7
+Added Net: Name=Valve4
+Added Pin To Net: NetName=Valve5 Pin=FC-24
+Added Pin To Net: NetName=Valve5 Pin=PC-104-H1_9
+Added Net: Name=Valve5
+Added Pin To Net: NetName=Valve6 Pin=FC-25
+Added Pin To Net: NetName=Valve6 Pin=PC-104-H1_11
+Added Net: Name=Valve6
+Added Member To Class: ClassName=Umbilical104 Member=Component 5v to 24v U3V50F24, 24V Step Up Regulator, Pololu
+Added Member To Class: ClassName=Umbilical104 Member=Component 5v to 24v U3V50F24, 24V Step Up Regulator, Pololu
+Added Member To Class: ClassName=Umbilical104 Member=Component 5v to 24v U3V50F24, 24V Step Up Regulator, Pololu
+Added Member To Class: ClassName=Umbilical104 Member=Component ADCS
+Added Member To Class: ClassName=Umbilical104 Member=Component B? Barrel_Jack
+Added Member To Class: ClassName=Umbilical104 Member=Component FC Teensy 3.2 Headers
+Added Member To Class: ClassName=Umbilical104 Member=Component FlightSwitch? RemoverBeforeFlightSwitch
+Added Member To Class: ClassName=U_GroundtoFrame Member=Component FrameGND ViatoFrame
+Added Member To Class: ClassName=U_IOconnector Member=Component IOconn_rev2
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP2 Jumper(DIP2)
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP3 Jumper(DIP2)
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP4 Jumper(DIP2)
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP5 Jumper(DIP2)
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP6 Jumper(DIP2)
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP7 Jumper(DIP2)
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP8 Jumper(DIP2)
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP9 Jumper(DIP2)
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP10 Jumper(DIP2)
+Added Member To Class: ClassName=Umbilical104 Member=Component Microswitch? MicroSwitch
+Added Member To Class: ClassName=Umbilical104 Member=Component Mux CD74HC4051E
+Added Member To Class: ClassName=PressureSensor Member=Component OpAmp UA741
+Added Member To Class: ClassName=Umbilical104 Member=Component PIKSI_UARTA? PIKSI_UART Connector
+Added Member To Class: ClassName=PressureSensor Member=Component PresAmp AD627ARZ
+Added Member To Class: ClassName=U_PressureConnector_2 Member=Component PressCon_2 PressureConn_2
+Added Member To Class: ClassName=Umbilical104 Member=Component PressSense1 Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=Umbilical104 Member=Component PressSense2 Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=PressureSensor Member=Component PressureCon PressureConnector
+Added Member To Class: ClassName=PressureSensor Member=Component Q5 2N3906
+Added Member To Class: ClassName=Umbilical104 Member=Component R1 Resistor
+Added Member To Class: ClassName=Umbilical104 Member=Component R2 Resistor
+Added Member To Class: ClassName=Umbilical104 Member=Component R3 Resistor
+Added Member To Class: ClassName=Umbilical104 Member=Component R4 Resistor
+Added Member To Class: ClassName=Umbilical104 Member=Component R5 Resistor
+Added Member To Class: ClassName=Umbilical104 Member=Component R6 Resistor
+Added Member To Class: ClassName=Umbilical104 Member=Component R7 Resistor
+Added Member To Class: ClassName=Umbilical104 Member=Component R8 Resistor
+Added Member To Class: ClassName=PressureSensor Member=Component R11 1000
+Added Member To Class: ClassName=PressureSensor Member=Component R12 1000
+Added Member To Class: ClassName=PressureSensor Member=Component R15 1000
+Added Member To Class: ClassName=U_PressureConnector_2 Member=Component R_Voltdiv_1 3K
+Added Member To Class: ClassName=U_PressureConnector_2 Member=Component R_Voltdiv_2 1090
+Added Member To Class: ClassName=U_GroundtoFrame Member=Component RFrame Rframe
+Added Member To Class: ClassName=PressureSensor Member=Component RPOT 100K
+Added Member To Class: ClassName=Umbilical104 Member=Component T1 TempSensor1
+Added Member To Class: ClassName=Umbilical104 Member=Component T2 TempSensor2
+Added Member To Class: ClassName=Umbilical104 Member=Component T3 TempSensor3
+Added Member To Class: ClassName=Umbilical104 Member=Component T4 TempSensor4
+Added Member To Class: ClassName=Umbilical104 Member=Component T5 TempSensor5
+Added Member To Class: ClassName=Umbilical104 Member=Component T6 TempSensor6
+Added Member To Class: ClassName=Umbilical104 Member=Component T7 TempSensor7
+Added Member To Class: ClassName=Umbilical104 Member=Component T8 TempSensor8
+Added Room: Name=PressureSensor
+Added Room: Name=U_24V Step Up Voltage Regulator U3V50F24
+Added Room: Name=U_GroundtoFrame

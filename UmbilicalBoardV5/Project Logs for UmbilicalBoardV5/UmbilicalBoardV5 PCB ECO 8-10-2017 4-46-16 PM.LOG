@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GOM_GND_1 Pin=ADCS Connector-5
+Removed Pin From Net: NetName=GOM_GND_1 Pin=ADCS Connector-6
+Added Room: Name=U_GroundtoFrame

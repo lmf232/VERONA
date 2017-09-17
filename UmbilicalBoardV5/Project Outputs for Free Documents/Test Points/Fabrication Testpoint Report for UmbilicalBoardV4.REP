@@ -1,0 +1,360 @@
+Error Report for  - Users\ALTIUM~1\AppData\Local\Temp\Pro42A8.tmp
+4/7/2016 5:42:09 PM
+
+Component Designator Microswitch too long.
+Pad name H1_21 too long.
+Pad name H1_22 too long.
+Pad name H2_51 too long.
+Pad name H2_52 too long.
+Pad name H2_49 too long.
+Pad name H2_50 too long.
+Pad name H2_47 too long.
+Pad name H2_48 too long.
+Pad name H1_45 too long.
+Pad name H1_46 too long.
+Pad name H2_43 too long.
+Pad name H2_44 too long.
+Pad name H1_44 too long.
+Pad name H2_41 too long.
+Pad name H2_42 too long.
+Pad name H1_42 too long.
+Pad name H2_39 too long.
+Pad name H2_40 too long.
+Pad name H1_40 too long.
+Pad name H2_37 too long.
+Pad name H2_38 too long.
+Pad name H1_37 too long.
+Pad name H1_38 too long.
+Pad name H2_35 too long.
+Pad name H2_36 too long.
+Pad name H1_35 too long.
+Pad name H1_36 too long.
+Pad name H2_33 too long.
+Pad name H2_34 too long.
+Pad name H1_33 too long.
+Pad name H1_34 too long.
+Pad name H2_32 too long.
+Pad name H1_31 too long.
+Pad name H2_30 too long.
+Pad name H1_29 too long.
+Pad name H1_28 too long.
+Pad name H2_23 too long.
+Pad name H2_24 too long.
+Pad name H1_23 too long.
+Pad name H2_21 too long.
+Pad name H2_22 too long.
+Pad name H2_19 too long.
+Pad name H2_20 too long.
+Pad name H1_18 too long.
+Pad name H2_17 too long.
+Pad name H2_18 too long.
+Pad name H1_16 too long.
+Pad name H1_14 too long.
+Pad name H1_12 too long.
+Pad name H2_11 too long.
+Pad name H2_12 too long.
+Pad name H1_10 too long.
+Pad name H2_10 too long.
+Component Designator SolenoidConnector too long.
+Component Designator SolenoidConnector too long.
+Component Designator SolenoidConnector too long.
+Component Designator SolenoidConnector too long.
+Component Designator SolenoidConnector too long.
+Component Designator SolenoidConnector too long.
+Component Designator FrameGND too long.
+Component Designator PressureCon too long.
+Component Designator PressureCon too long.
+Component Designator PressureCon too long.
+Component Designator PressureCon too long.
+Warning pad shape change for OpAmp-1 from rounded 1.5mm,0.55mm to rectangular 0.95mm,0.55mm
+Warning pad shape change for OpAmp-8 from rounded 1.5mm,0.55mm to rectangular 0.95mm,0.55mm
+Warning pad shape change for OpAmp-7 from rounded 1.5mm,0.55mm to rectangular 0.95mm,0.55mm
+Warning pad shape change for OpAmp-5 from rounded 1.5mm,0.55mm to rectangular 0.95mm,0.55mm
+Warning pad shape change for XACT-A19 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A18 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A17 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A13 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A12 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A11 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A8 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A7 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A3 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A2 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A1 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A23 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A24 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A27 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A28 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A29 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A32 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A33 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A34 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A35 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A36 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A37 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A38 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A39 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A40 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A25 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A26 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A27 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A28 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A29 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A30 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator PIKSI_UARTA too long.
+Component Designator PIKSI_UARTA too long.
+Component Designator PIKSI_UARTA too long.
+Warning pad shape change for XACT-B20 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B19 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B18 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B17 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B16 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B15 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B14 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B13 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B12 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B11 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B10 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B9 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B8 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B7 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B6 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B5 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B4 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B3 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B2 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B1 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B21 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B22 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B23 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B24 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B25 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B26 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B27 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B28 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B29 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B30 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B31 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B32 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B33 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B34 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B35 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B36 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B37 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B38 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B39 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-B40 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B15 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B14 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B12 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B11 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B10 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B9 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B8 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B7 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B6 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B5 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B4 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B3 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B2 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B1 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B16 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B17 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B18 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B19 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B20 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B21 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B22 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B23 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B24 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B25 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B26 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B27 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B28 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B29 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B30 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-B13 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H2_25 too long.
+Warning pad shape change for XACT-A9 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A25 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H2_26 too long.
+Component Designator Docking too long.
+Warning pad shape change for Docking-A8 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A9 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H1_47 too long.
+Component Designator PIKSI_UARTA too long.
+Component Designator SolenoidConnector too long.
+Component Designator SolenoidConnector too long.
+Component Designator SolenoidConnector too long.
+Component Designator SolenoidConnector too long.
+Component Designator Docking too long.
+Warning pad shape change for Docking-A5 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A4 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A15 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A31 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H2_28 too long.
+Component Designator PresAmp too long.
+Warning pad shape change for OpAmp-4 from rounded 1.5mm,0.55mm to rectangular 0.95mm,0.55mm
+Pad name H2_31 too long.
+Component Designator PressureCon too long.
+Component Designator PresAmp too long.
+Component Designator PresAmp too long.
+Component Designator Barrel Jack too long.
+Component Designator Barrel Jack too long.
+Pad name H1_32 too long.
+Component Designator Barrel Jack too long.
+Pad name H2_13 too long.
+Pad name H2_14 too long.
+Pad name H2_15 too long.
+Pad name H2_16 too long.
+Component Designator PIKSI_UARTA too long.
+Component Designator Barrel Jack too long.
+Component Designator Barrel Jack too long.
+Component Designator Docking too long.
+Warning pad shape change for Docking-A13 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A11 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A12 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A7 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A10 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A6 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A18 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H2_29 too long.
+Component Designator Barrel Jack too long.
+Component Designator Barrel Jack too long.
+Component Designator Barrel Jack too long.
+Component Designator Barrel Jack too long.
+Component Designator Microswitch too long.
+Warning pad shape change for XACT-A20 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator FlightSwitch too long.
+Warning pad shape change for XACT-A10 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A14 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A4 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A30 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A26 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H1_39 too long.
+Component Designator PresAmp too long.
+Component Designator Docking too long.
+Warning pad shape change for Docking-A3 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H1_26 too long.
+Component Designator C_Supply_4 too long.
+Component Designator C_Supply_3 too long.
+Component Designator C_Supply_1 too long.
+Component Designator C_Supply_2 too long.
+Component Designator SolenoidConnector too long.
+Component Designator SolenoidConnector too long.
+Component Designator SolenoidConnector too long.
+Component Designator SolenoidConnector too long.
+Component Designator Docking too long.
+Warning pad shape change for Docking-A1 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H1_20 too long.
+Component Designator Docking too long.
+Warning pad shape change for Docking-A2 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H1_24 too long.
+Component Designator Docking too long.
+Warning pad shape change for Docking-A16 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H1_25 too long.
+Component Designator Docking too long.
+Warning pad shape change for Docking-A17 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H1_27 too long.
+Component Designator Docking too long.
+Warning pad shape change for Docking-A19 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A20 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H1_11 too long.
+Component Designator Docking too long.
+Warning pad shape change for Docking-A21 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A22 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A23 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H1_41 too long.
+Component Designator Docking too long.
+Warning pad shape change for Docking-A24 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Pad name H1_43 too long.
+Component Designator Microswitch too long.
+Component Designator FlightSwitch too long.
+Component Designator FrameGND too long.
+Component Designator IOconnector too long.
+Pad name H1_15 too long.
+Component Designator IOconnector too long.
+Pad name H1_13 too long.
+Warning pad shape change for OpAmp-2 from rounded 1.5mm,0.55mm to rectangular 0.95mm,0.55mm
+Warning pad shape change for OpAmp-3 from rounded 1.5mm,0.55mm to rectangular 0.95mm,0.55mm
+Warning pad shape change for OpAmp-6 from rounded 1.5mm,0.55mm to rectangular 0.95mm,0.55mm
+Pad name H1_48 too long.
+Pad name H1_49 too long.
+Pad name H1_50 too long.
+Pad name H1_51 too long.
+Pad name H1_52 too long.
+Pad name H2_27 too long.
+Component Designator PresAmp too long.
+Component Designator PresAmp too long.
+Component Designator PressureCon too long.
+Component Designator PresAmp too long.
+Component Designator PressureCon too long.
+Component Designator PresAmp too long.
+Component Designator PressureCon too long.
+Pad name H1_30 too long.
+Warning pad shape change for XACT-A16 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A21 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A6 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A5 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Warning pad shape change for XACT-A22 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator PIKSI_UARTA too long.
+Pad name H1_17 too long.
+Component Designator PIKSI_UARTA too long.
+Pad name H1_19 too long.
+Component Designator C_Supply_4 too long.
+Component Designator C_Supply_3 too long.
+Component Designator C_Supply_2 too long.
+Component Designator C_Supply_1 too long.
+Pad name H2_45 too long.
+Pad name H2_46 too long.
+Component Designator Docking too long.
+Warning pad shape change for Docking-A14 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm
+Component Designator Docking too long.
+Warning pad shape change for Docking-A15 from rounded 0.6mm,1.6mm to rectangular 0.6mm,1mm

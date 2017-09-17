@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GPS-3V3 Pin=PressureCon-1
+Removed Pin From Net: NetName=GPS-3V3 Pin=PressureCon-3
+Removed Pin From Net: NetName=GPS-3V3 Pin=PressureCon-4
+Removed Pin From Net: NetName=GPS-3V3 Pin=PressureCon-5
+Removed Pin From Net: NetName=GPS-3V3 Pin=PressureCon-6
+Removed Pin From Net: NetName=GPS-3V3 Pin=PressureCon-7
+Removed Pin From Net: NetName=GPS-3V3 Pin=PressureCon-8
+Added Component: Designator=SolenoidConnector(Solenoid)
+Added Pin To Net: NetName=NetPAmp_1 Pin=PressureCon-1
+Added Pin To Net: NetName=NetD9_2 Pin=PressureCon-3
+Added Pin To Net: NetName=NetPAmp_4 Pin=PressureCon-4
+Added Pin To Net: NetName=NetPAmp_3 Pin=PressureCon-5
+Added Pin To Net: NetName=NetPAmp_2 Pin=PressureCon-6
+Added Member To Class: ClassName=SolSwitch Member=Component SolenoidConnector

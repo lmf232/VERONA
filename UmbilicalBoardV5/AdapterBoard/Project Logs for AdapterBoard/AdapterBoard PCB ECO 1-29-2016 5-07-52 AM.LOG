@@ -1,0 +1,179 @@
+Added Component: Designator=H1-1(MHDR2X13)
+Added Component: Designator=H1-2(MHDR2X13)
+Added Component: Designator=H2-1(MHDR2X13)
+Added Component: Designator=H2-2(MHDR2X13)
+Added Component: Designator=P1(HDR2X25)
+Added Component: Designator=P2(HDR2X25)
+Added Pin To Net: NetName=NetH1-1_7 Pin=H1-1-7
+Added Pin To Net: NetName=NetH1-1_8 Pin=H1-1-8
+Added Pin To Net: NetName=NetH1-1_9 Pin=H1-1-9
+Added Pin To Net: NetName=NetH1-1_11 Pin=H1-1-11
+Added Pin To Net: NetName=NetH1-1_13 Pin=H1-1-13
+Added Pin To Net: NetName=NetH1-1_14 Pin=H1-1-14
+Added Pin To Net: NetName=NetH1-1_15 Pin=H1-1-15
+Added Pin To Net: NetName=NetH1-1_16 Pin=H1-1-16
+Added Pin To Net: NetName=NetH1-1_17 Pin=H1-1-17
+Added Pin To Net: NetName=NetH1-1_18 Pin=H1-1-18
+Added Pin To Net: NetName=NetH1-1_19 Pin=H1-1-19
+Added Pin To Net: NetName=NetH1-1_20 Pin=H1-1-20
+Added Pin To Net: NetName=NetH1-1_22 Pin=H1-1-22
+Added Pin To Net: NetName=NetH1-1_23 Pin=H1-1-23
+Added Pin To Net: NetName=NetH1-1_24 Pin=H1-1-24
+Added Pin To Net: NetName=NetH1-1_25 Pin=H1-1-25
+Added Pin To Net: NetName=NetH1-1_26 Pin=H1-1-26
+Added Pin To Net: NetName=NetH1-1_22 Pin=H1-2-1
+Added Pin To Net: NetName=NetH1-2_2 Pin=H1-2-2
+Added Pin To Net: NetName=NetH1-2_3 Pin=H1-2-3
+Added Pin To Net: NetName=NetH1-2_4 Pin=H1-2-4
+Added Pin To Net: NetName=NetH1-2_5 Pin=H1-2-5
+Added Pin To Net: NetName=NetH1-2_6 Pin=H1-2-6
+Added Pin To Net: NetName=NetH1-2_7 Pin=H1-2-7
+Added Pin To Net: NetName=NetH1-2_8 Pin=H1-2-8
+Added Pin To Net: NetName=NetH1-2_9 Pin=H1-2-9
+Added Pin To Net: NetName=NetH1-2_10 Pin=H1-2-10
+Added Pin To Net: NetName=NetH1-2_11 Pin=H1-2-11
+Added Pin To Net: NetName=NetH1-2_12 Pin=H1-2-12
+Added Pin To Net: NetName=NetH1-2_13 Pin=H1-2-13
+Added Pin To Net: NetName=NetH1-2_14 Pin=H1-2-14
+Added Pin To Net: NetName=NetH1-2_15 Pin=H1-2-15
+Added Pin To Net: NetName=NetH1-2_16 Pin=H1-2-16
+Added Pin To Net: NetName=NetH1-2_17 Pin=H1-2-17
+Added Pin To Net: NetName=NetH1-2_18 Pin=H1-2-18
+Added Pin To Net: NetName=NetH1-2_19 Pin=H1-2-19
+Added Pin To Net: NetName=NetH1-2_23 Pin=H1-2-23
+Added Pin To Net: NetName=NetH1-2_25 Pin=H1-2-25
+Added Pin To Net: NetName=NetH2-1_1 Pin=H2-1-1
+Added Pin To Net: NetName=NetH2-1_2 Pin=H2-1-2
+Added Pin To Net: NetName=NetH2-1_3 Pin=H2-1-3
+Added Pin To Net: NetName=NetH2-1_4 Pin=H2-1-4
+Added Pin To Net: NetName=NetH2-1_5 Pin=H2-1-5
+Added Pin To Net: NetName=NetH2-1_6 Pin=H2-1-6
+Added Pin To Net: NetName=NetH2-1_9 Pin=H2-1-9
+Added Pin To Net: NetName=NetH2-1_10 Pin=H2-1-10
+Added Pin To Net: NetName=NetH2-1_11 Pin=H2-1-11
+Added Pin To Net: NetName=NetH2-1_12 Pin=H2-1-12
+Added Pin To Net: NetName=NetH2-1_2 Pin=H2-1-13
+Added Pin To Net: NetName=NetH2-1_14 Pin=H2-1-14
+Added Pin To Net: NetName=NetH2-1_16 Pin=H2-1-16
+Added Pin To Net: NetName=NetH2-1_18 Pin=H2-1-18
+Added Pin To Net: NetName=NetH2-1_19 Pin=H2-1-19
+Added Pin To Net: NetName=NetH2-1_20 Pin=H2-1-20
+Added Pin To Net: NetName=GND Pin=H2-1-23
+Added Pin To Net: NetName=GND Pin=H2-1-24
+Added Pin To Net: NetName=NetH2-2_5 Pin=H2-2-5
+Added Pin To Net: NetName=NetH2-2_6 Pin=H2-2-6
+Added Pin To Net: NetName=NetH2-2_7 Pin=H2-2-7
+Added Pin To Net: NetName=NetH2-2_8 Pin=H2-2-8
+Added Pin To Net: NetName=NetH2-2_9 Pin=H2-2-9
+Added Pin To Net: NetName=NetH2-2_10 Pin=H2-2-10
+Added Pin To Net: NetName=NetH2-2_11 Pin=H2-2-11
+Added Pin To Net: NetName=NetH2-2_12 Pin=H2-2-12
+Added Pin To Net: NetName=NetH2-2_16 Pin=H2-2-16
+Added Pin To Net: NetName=NetH2-2_18 Pin=H2-2-18
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetH1-2_2 Pin=P1-3
+Added Pin To Net: NetName=NetH1-2_2 Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=NetH1-1_26 Pin=P1-6
+Added Pin To Net: NetName=NetH1-1_8 Pin=P1-7
+Added Pin To Net: NetName=NetH1-1_17 Pin=P1-8
+Added Pin To Net: NetName=NetH1-1_7 Pin=P1-9
+Added Pin To Net: NetName=NetH1-1_19 Pin=P1-10
+Added Pin To Net: NetName=NetH1-1_9 Pin=P1-11
+Added Pin To Net: NetName=NetH1-1_18 Pin=P1-12
+Added Pin To Net: NetName=NetH1-1_11 Pin=P1-13
+Added Pin To Net: NetName=NetH1-1_20 Pin=P1-14
+Added Pin To Net: NetName=NetH1-1_14 Pin=P1-15
+Added Pin To Net: NetName=NetH1-1_22 Pin=P1-16
+Added Pin To Net: NetName=NetH1-1_13 Pin=P1-17
+Added Pin To Net: NetName=NetH1-1_24 Pin=P1-18
+Added Pin To Net: NetName=NetH1-1_16 Pin=P1-19
+Added Pin To Net: NetName=NetH1-1_23 Pin=P1-20
+Added Pin To Net: NetName=NetH1-1_15 Pin=P1-21
+Added Pin To Net: NetName=NetH1-1_25 Pin=P1-22
+Added Pin To Net: NetName=GND Pin=P1-23
+Added Pin To Net: NetName=NetH2-1_2 Pin=P1-24
+Added Pin To Net: NetName=NetH2-1_1 Pin=P1-26
+Added Pin To Net: NetName=NetH2-1_3 Pin=P1-27
+Added Pin To Net: NetName=NetH2-1_4 Pin=P1-28
+Added Pin To Net: NetName=NetH2-1_5 Pin=P1-29
+Added Pin To Net: NetName=NetH2-1_6 Pin=P1-30
+Added Pin To Net: NetName=NetH2-1_9 Pin=P1-31
+Added Pin To Net: NetName=NetH2-1_10 Pin=P1-32
+Added Pin To Net: NetName=NetH2-1_11 Pin=P1-34
+Added Pin To Net: NetName=NetH2-1_12 Pin=P1-35
+Added Pin To Net: NetName=NetH2-1_2 Pin=P1-37
+Added Pin To Net: NetName=NetH2-1_14 Pin=P1-38
+Added Pin To Net: NetName=NetH2-1_16 Pin=P1-39
+Added Pin To Net: NetName=NetH2-1_18 Pin=P1-40
+Added Pin To Net: NetName=NetH2-1_19 Pin=P1-41
+Added Pin To Net: NetName=NetH2-1_20 Pin=P1-44
+Added Pin To Net: NetName=NetH1-2_4 Pin=P1-46
+Added Pin To Net: NetName=NetH1-1_22 Pin=P1-47
+Added Pin To Net: NetName=NetH1-2_3 Pin=P1-48
+Added Pin To Net: NetName=GND Pin=P1-49
+Added Pin To Net: NetName=GND Pin=P1-50
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=NetH1-2_5 Pin=P2-5
+Added Pin To Net: NetName=NetH1-2_6 Pin=P2-6
+Added Pin To Net: NetName=NetH1-2_7 Pin=P2-7
+Added Pin To Net: NetName=NetH1-2_8 Pin=P2-8
+Added Pin To Net: NetName=NetH1-2_9 Pin=P2-9
+Added Pin To Net: NetName=NetH1-2_10 Pin=P2-10
+Added Pin To Net: NetName=NetH1-2_11 Pin=P2-11
+Added Pin To Net: NetName=NetH1-2_12 Pin=P2-14
+Added Pin To Net: NetName=NetH1-2_13 Pin=P2-16
+Added Pin To Net: NetName=NetH1-2_15 Pin=P2-17
+Added Pin To Net: NetName=NetH1-2_16 Pin=P2-18
+Added Pin To Net: NetName=NetH1-2_17 Pin=P2-19
+Added Pin To Net: NetName=NetH1-2_14 Pin=P2-20
+Added Pin To Net: NetName=NetH1-2_19 Pin=P2-21
+Added Pin To Net: NetName=NetH1-2_25 Pin=P2-23
+Added Pin To Net: NetName=NetH1-2_18 Pin=P2-24
+Added Pin To Net: NetName=NetH1-2_23 Pin=P2-25
+Added Pin To Net: NetName=NetH2-2_6 Pin=P2-29
+Added Pin To Net: NetName=NetH2-2_8 Pin=P2-35
+Added Pin To Net: NetName=NetH2-2_10 Pin=P2-37
+Added Pin To Net: NetName=NetH2-2_5 Pin=P2-38
+Added Pin To Net: NetName=NetH2-2_12 Pin=P2-41
+Added Pin To Net: NetName=NetH2-2_7 Pin=P2-44
+Added Pin To Net: NetName=NetH2-2_16 Pin=P2-45
+Added Pin To Net: NetName=NetH2-2_9 Pin=P2-46
+Added Pin To Net: NetName=NetH2-2_18 Pin=P2-47
+Added Pin To Net: NetName=NetH2-2_11 Pin=P2-48
+Added Pin To Net: NetName=GND Pin=P2-49
+Added Pin To Net: NetName=GND Pin=P2-50
+Added Pin To Net: NetName=5V Pin=H2-2-1
+Added Pin To Net: NetName=5V Pin=H2-2-2
+Added Pin To Net: NetName=5V Pin=P2-3
+Added Pin To Net: NetName=5V Pin=P2-4
+Added Net: Name=5V
+Added Pin To Net: NetName=NetH1-2_20 Pin=H1-2-20
+Added Pin To Net: NetName=NetH1-2_20 Pin=P2-26
+Added Net: Name=NetH1-2_20
+Added Pin To Net: NetName=NetH1-2_22 Pin=H1-2-22
+Added Pin To Net: NetName=NetH1-2_22 Pin=P2-28
+Added Net: Name=NetH1-2_22
+Added Pin To Net: NetName=NetH1-2_24 Pin=H1-2-24
+Added Pin To Net: NetName=NetH1-2_24 Pin=P2-30
+Added Net: Name=NetH1-2_24
+Added Pin To Net: NetName=NetH1-2_26 Pin=H1-2-26
+Added Pin To Net: NetName=NetH1-2_26 Pin=P2-32
+Added Net: Name=NetH1-2_26
+Added Pin To Net: NetName=NetH2-1_21 Pin=H2-1-21
+Added Pin To Net: NetName=NetH2-1_21 Pin=P1-45
+Added Net: Name=NetH2-1_21
+Added Pin To Net: NetName=NetH2-2_3 Pin=H2-2-3
+Added Pin To Net: NetName=NetH2-2_3 Pin=P2-34
+Added Net: Name=NetH2-2_3
+Added Pin To Net: NetName=NetH2-2_14 Pin=H2-2-14
+Added Pin To Net: NetName=NetH2-2_14 Pin=P2-43
+Added Net: Name=NetH2-2_14
+Added Member To Class: ClassName=AdapterBoard Member=Component H1-1 MHDR2X13
+Added Member To Class: ClassName=AdapterBoard Member=Component H1-2 MHDR2X13
+Added Member To Class: ClassName=AdapterBoard Member=Component H2-1 MHDR2X13
+Added Member To Class: ClassName=AdapterBoard Member=Component H2-2 MHDR2X13
+Added Member To Class: ClassName=AdapterBoard Member=Component P1 Header 25X2
+Added Member To Class: ClassName=AdapterBoard Member=Component P2 Header 25X2

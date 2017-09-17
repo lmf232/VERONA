@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=TopV5_StructureClass Member=PIKSI_UARTA1_StructureClass
+Removed Member From Class: ClassName=TopV5_StructureClass Member=PIKSI_UARTA2_StructureClass
+Change Component Designator: OldDesignator=PIKSI_UARTA_PIKSI_UARTA2 NewDesignator=PIKSI_UARTA
+Added Pin To Net: NetName=GOM_GND_1 Pin=ADCS Connector-2
+Added Pin To Net: NetName=5V_3 Pin=ADCS Connector-3
+Added Pin To Net: NetName=24V Pin=ADCS Connector-4
+Added Pin To Net: NetName=GOM_GND_1 Pin=RFrame-1
+Change Net Name : Old Net Name=NetADCS Connector_0 New Net Name=RX3
+Change Net Name : Old Net Name=NetADCS Connector_1 New Net Name=TX3
+Added Class: Name=PIKSI_UARTA
+Added Class: Name=PIKSI_UARTA_StructureClass
+Added Member To Structure Class: ClassName=TopV5_StructureClass Member=PIKSI_UARTA_StructureClass
+Added Room: Name=U_ADCS

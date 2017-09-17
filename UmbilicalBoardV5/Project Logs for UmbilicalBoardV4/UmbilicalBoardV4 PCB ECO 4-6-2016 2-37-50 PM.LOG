@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=PressureSensor Member=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Added Member To Class: ClassName=U_6Amp_DCDC Member=Component R13 CRCW040210R0FKED
+Added Member To Class: ClassName=PressureSensor Member=Component R15 1000

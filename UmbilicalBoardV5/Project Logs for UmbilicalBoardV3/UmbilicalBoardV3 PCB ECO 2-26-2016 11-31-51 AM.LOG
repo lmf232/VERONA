@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=V- Pin=CurrentSource-0
+Removed Pin From Net: NetName=V- Pin=CurrentSource-1
+Change Component DesignItemId : Designator=Docking Old DesignItemId= New DesignItemId=Docking Connector
+Change Component Comment : Designator=Docking Old Comment= New Comment=Docking Connector
+Change Component Description : Designator=Docking Old Description= New Description=24 Pin Connector
+Change Component Library : Designator=Docking Old Library= New Library=UmbilicalBoardV2.SCHLIB
+Added Component: Designator=Microswitch(MicroSwitch_3pin)
+Added Component: Designator=PIKSI_UARTA(Molex Picoblade 5 Pin)
+Added Component: Designator=PressureCon(Pressure Connector)
+Added Component: Designator=Solenoid(Solenoids 8Pin Right Angle)
+Added Component: Designator=XACT(Airborn Nano)
+Added Pin To Net: NetName=+3.3V Pin=CurrentSource-0
+Added Pin To Net: NetName=NetCurrentSource_1 Pin=CurrentSource-1
+Added Pin To Net: NetName=NetDocking_0 Pin=Docking-0
+Added Pin To Net: NetName=NetDocking_1 Pin=Docking-1
+Added Pin To Net: NetName=NetDocking_2 Pin=Docking-2
+Added Pin To Net: NetName=NetDocking_3 Pin=Docking-3
+Added Pin To Net: NetName=NetDocking_4 Pin=Docking-4
+Added Pin To Net: NetName=NetDocking_5 Pin=Docking-5
+Added Pin To Net: NetName=NetDocking_6 Pin=Docking-6
+Added Pin To Net: NetName=NetDocking_7 Pin=Docking-7
+Added Pin To Net: NetName=NetDocking_8 Pin=Docking-8
+Added Pin To Net: NetName=NetDocking_9 Pin=Docking-9
+Added Pin To Net: NetName=NetDocking_10 Pin=Docking-10
+Added Pin To Net: NetName=NetDocking_11 Pin=Docking-11
+Added Pin To Net: NetName=NetDocking_12 Pin=Docking-12
+Added Pin To Net: NetName=NetDocking_13 Pin=Docking-13
+Added Pin To Net: NetName=NetDocking_14 Pin=Docking-14
+Added Pin To Net: NetName=NetDocking_15 Pin=Docking-15
+Added Pin To Net: NetName=NetDocking_16 Pin=Docking-16
+Added Pin To Net: NetName=NetDocking_17 Pin=Docking-17
+Added Pin To Net: NetName=NetDocking_18 Pin=Docking-18
+Added Pin To Net: NetName=NetDocking_19 Pin=Docking-19
+Added Pin To Net: NetName=NetDocking_20 Pin=Docking-20
+Added Pin To Net: NetName=NetDocking_21 Pin=Docking-21
+Added Pin To Net: NetName=NetDocking_22 Pin=Docking-22
+Added Pin To Net: NetName=NetDocking_23 Pin=Docking-23
+Added Pin To Net: NetName=NetMicroswitch_1 Pin=Microswitch-1
+Added Pin To Net: NetName=NetMicroswitch_2 Pin=Microswitch-2
+Added Pin To Net: NetName=NetMicroswitch_3 Pin=Microswitch-3
+Added Pin To Net: NetName=NetPIKSI_UARTA_0 Pin=PIKSI_UARTA-0
+Added Pin To Net: NetName=NetPIKSI_UARTA_1 Pin=PIKSI_UARTA-1
+Added Pin To Net: NetName=NetPIKSI_UARTA_2 Pin=PIKSI_UARTA-2
+Added Pin To Net: NetName=NetPIKSI_UARTA_3 Pin=PIKSI_UARTA-3
+Added Pin To Net: NetName=NetPIKSI_UARTA_4 Pin=PIKSI_UARTA-4
+Added Pin To Net: NetName=NetPressureCon_1 Pin=PressureCon-1
+Added Pin To Net: NetName=NetPressureCon_2 Pin=PressureCon-2
+Added Pin To Net: NetName=NetPressureCon_3 Pin=PressureCon-3
+Added Pin To Net: NetName=NetPressureCon_4 Pin=PressureCon-4
+Added Pin To Net: NetName=NetPressureCon_5 Pin=PressureCon-5
+Added Pin To Net: NetName=NetPressureCon_6 Pin=PressureCon-6
+Added Pin To Net: NetName=NetSolenoid_Sol1_12V Pin=Solenoid-Sol1_12V
+Added Pin To Net: NetName=NetSolenoid_Sol1_NPN Pin=Solenoid-Sol1_NPN
+Added Pin To Net: NetName=NetSolenoid_Sol2_12V Pin=Solenoid-Sol2_12V
+Added Pin To Net: NetName=NetSolenoid_Sol2_NPN Pin=Solenoid-Sol2_NPN
+Added Pin To Net: NetName=NetSolenoid_Sol3_12V Pin=Solenoid-Sol3_12V
+Added Pin To Net: NetName=NetSolenoid_Sol3_NPN Pin=Solenoid-Sol3_NPN
+Added Pin To Net: NetName=NetSolenoid_Sol4_12V Pin=Solenoid-Sol4_12V
+Added Pin To Net: NetName=NetSolenoid_Sol4_NPN Pin=Solenoid-Sol4_NPN
+Added Pin To Net: NetName=NetXACT_1 Pin=XACT-1
+Added Pin To Net: NetName=NetXACT_2 Pin=XACT-2
+Added Pin To Net: NetName=NetXACT_3 Pin=XACT-3
+Added Pin To Net: NetName=NetXACT_4 Pin=XACT-4
+Added Pin To Net: NetName=NetXACT_5 Pin=XACT-5
+Added Pin To Net: NetName=NetXACT_6 Pin=XACT-6
+Added Pin To Net: NetName=NetXACT_7 Pin=XACT-7
+Added Pin To Net: NetName=NetXACT_8 Pin=XACT-8
+Added Pin To Net: NetName=NetXACT_9 Pin=XACT-9
+Added Pin To Net: NetName=NetXACT_10 Pin=XACT-10
+Added Pin To Net: NetName=NetXACT_11 Pin=XACT-11
+Added Pin To Net: NetName=NetXACT_12 Pin=XACT-12
+Added Pin To Net: NetName=NetXACT_13 Pin=XACT-13
+Added Pin To Net: NetName=NetXACT_14 Pin=XACT-14
+Added Pin To Net: NetName=NetXACT_15 Pin=XACT-15
+Added Pin To Net: NetName=NetXACT_16 Pin=XACT-16
+Added Pin To Net: NetName=NetXACT_17 Pin=XACT-17
+Added Pin To Net: NetName=NetXACT_18 Pin=XACT-18
+Added Pin To Net: NetName=NetXACT_19 Pin=XACT-19
+Added Pin To Net: NetName=NetXACT_20 Pin=XACT-20
+Added Pin To Net: NetName=NetXACT_21 Pin=XACT-21
+Added Pin To Net: NetName=NetXACT_22 Pin=XACT-22
+Added Pin To Net: NetName=NetXACT_23 Pin=XACT-23
+Added Pin To Net: NetName=NetXACT_24 Pin=XACT-24
+Added Pin To Net: NetName=NetXACT_25 Pin=XACT-25
+Added Pin To Net: NetName=NetXACT_26 Pin=XACT-26
+Added Pin To Net: NetName=NetXACT_27 Pin=XACT-27
+Added Pin To Net: NetName=NetXACT_28 Pin=XACT-28
+Added Pin To Net: NetName=NetXACT_29 Pin=XACT-29
+Added Pin To Net: NetName=NetXACT_30 Pin=XACT-30
+Added Pin To Net: NetName=NetXACT_31 Pin=XACT-31
+Added Member To Class: ClassName=Docking Member=Component Docking Docking Connector
+Added Member To Class: ClassName=Switches Member=Component Microswitch MicroSwitch
+Added Member To Class: ClassName=Designator Member=Component PIKSI_UARTA PIKSI_UARTA Connector
+Added Member To Class: ClassName=PressureSensor Member=Component PressureCon PressureConnector
+Added Member To Class: ClassName=SolSwitch Member=Component Solenoid SolenoidConnector
+Added Member To Class: ClassName=XACT Member=Component XACT XACT_J1 Connector

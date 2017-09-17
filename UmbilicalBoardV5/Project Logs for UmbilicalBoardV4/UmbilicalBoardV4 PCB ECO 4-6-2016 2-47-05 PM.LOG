@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=V_BAT_1 Pin=Docking-A14
+Removed Pin From Net: NetName=V_BAT_1 Pin=Docking-A15
+Added Pin To Net: NetName=V_BAT_1 Pin=JUMP-15
+Added Pin To Net: NetName=V_BAT_1_J4 Pin=Docking-A14
+Added Pin To Net: NetName=V_BAT_1_J4 Pin=Docking-A15
+Added Pin To Net: NetName=V_BAT_1_J4 Pin=JUMP-4
+Added Net: Name=V_BAT_1_J4

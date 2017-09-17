@@ -1,0 +1,32 @@
+Change Component Comment : Designator=R7 Old Comment=10kResistor New Comment=10k
+Change Component Comment : Designator=R8 Old Comment=10kResistor New Comment=10k
+Change Component Comment : Designator=R9 Old Comment=10kResistor New Comment=10k
+Change Component Comment : Designator=R10 Old Comment=10kResistor New Comment=10k
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=DGND Pin=Q1-3
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=DGND Pin=Q2-3
+Added Pin To Net: NetName=NetD3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=DGND Pin=Q3-3
+Added Pin To Net: NetName=NetD4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=DGND Pin=Q4-3
+Added Pin To Net: NetName=DGND Pin=R7-1
+Added Pin To Net: NetName=NetD5_2 Pin=R7-2
+Added Pin To Net: NetName=DGND Pin=R8-1
+Added Pin To Net: NetName=NetD6_2 Pin=R8-2
+Added Pin To Net: NetName=DGND Pin=R9-1
+Added Pin To Net: NetName=NetD7_2 Pin=R9-2
+Added Pin To Net: NetName=DGND Pin=R10-1
+Added Pin To Net: NetName=NetD8_2 Pin=R10-2
+Added Member To Class: ClassName=SolSwitch Member=Component Q1 MOSFET
+Added Member To Class: ClassName=SolSwitch Member=Component Q2 MOSFET
+Added Member To Class: ClassName=SolSwitch Member=Component Q3 MOSFET
+Added Member To Class: ClassName=SolSwitch Member=Component Q4 MOSFET
+Added Member To Class: ClassName=SolSwitch Member=Component R7 10k
+Added Member To Class: ClassName=SolSwitch Member=Component R8 10k
+Added Member To Class: ClassName=SolSwitch Member=Component R9 10k
+Added Member To Class: ClassName=SolSwitch Member=Component R10 10k

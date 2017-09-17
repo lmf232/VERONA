@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=0 Pin=Ccomp2-2
+Removed Pin From Net: NetName=0 Pin=Css-2
+Removed Pin From Net: NetName=0 Pin=Cvcc-2
+Removed Pin From Net: NetName=NetCbst_2 Pin=L1-2
+Removed Pin From Net: NetName=NetCbst_2 Pin=Rt-1
+Removed Pin From Net: NetName=NetCbst_1 Pin=U1-8
+Change Component DesignItemId : Designator=Cin2 Old DesignItemId=GRM155R61C104KA88D New DesignItemId=GRM155R61C104KA8
+Change Component DesignItemId : Designator=Css Old DesignItemId=GRM155R71C822KA01D New DesignItemId=GRM155R71C822KA0
+Change Component DesignItemId : Designator=Cin_2 Old DesignItemId=GRM188R61C106MA73D New DesignItemId=GRM188R61C106MA7
+Change Component Footprint: Designator=Cout Old Footprint=1206 New Footprint=1005
+Change Component Comment : Designator=Cin2 Old Comment=GRM155R61C104KA88D New Comment=GRM155R61C104KA8
+Change Component Comment : Designator=Css Old Comment=GRM155R71C822KA01D New Comment=GRM155R71C822KA0
+Change Component Comment : Designator=Cin_2 Old Comment=GRM188R61C106MA73D New Comment=GRM188R61C106MA7
+Change Component Description : Designator=Ccomp Old Description=02013A220GAT2A New Description=Imported
+Change Component Description : Designator=Cbst Old Description=C1005X5R1A104K New Description=Imported
+Change Component Description : Designator=Cvcc Old Description=C1608X5R1A105K New Description=Imported
+Change Component Description : Designator=Ccomp2 Old Description=CL02C100JO2ANNC New Description=Imported
+Change Component Description : Designator=Rcomp Old Description=CRCW040249K9FKED New Description=Imported
+Change Component Description : Designator=Rfbt Old Description=CRCW0402732KFKED New Description=Imported
+Change Component Description : Designator=Rlim Old Description=ERJ-8ENF1133V New Description=Imported
+Change Component Description : Designator=Cin2 Old Description=GRM155R61C104KA8 New Description=Imported
+Change Component Description : Designator=Css Old Description=GRM155R71C822KA0 New Description=Imported
+Change Component Description : Designator=Cin_2 Old Description=GRM188R61C106MA7 New Description=Imported
+Change Component Description : Designator=Rfbb Old Description=RC0603FR-0782KL New Description=Imported
+Change Component Description : Designator=Rt Old Description=RC1206FR-0782KL New Description=Imported
+Change Component Description : Designator=L1 Old Description=XAL4020-601MEB New Description=Imported
+Change Component Library : Designator=Cbst Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Change Component Library : Designator=Ccomp2 Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Change Component Library : Designator=Ccomp Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Change Component Library : Designator=Cin2 Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Change Component Library : Designator=Cin_2 Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Change Component Library : Designator=Css Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Change Component Library : Designator=Cvcc Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Change Component Library : Designator=L1 Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Change Component Library : Designator=Rcomp Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Change Component Library : Designator=Rfbb Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Change Component Library : Designator=Rfbt Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Change Component Library : Designator=Rlim Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Change Component Library : Designator=Rt Old Library=TI WEBENCH New Library=2015-10-09_12-54-35.SchLib
+Added Component: Designator=Cin(0603)
+Added Pin To Net: NetName=0 Pin=Ccomp2-1
+Added Pin To Net: NetName=NetCin2_1 Pin=Cin-1
+Added Pin To Net: NetName=0 Pin=Cin-2
+Added Pin To Net: NetName=0 Pin=Css-1
+Added Pin To Net: NetName=0 Pin=Cvcc-1
+Added Pin To Net: NetName=NetCbst_1 Pin=L1-2
+Added Pin To Net: NetName=NetCbst_1 Pin=Rt-1
+Added Pin To Net: NetName=NetRt_2 Pin=U1-3
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-4
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-5
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-6
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-7
+Added Pin To Net: NetName=NetCbst_2 Pin=U1-8
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Ccomp2-2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rcomp-1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=U1-18
+Added Net: Name=NetCcomp2_2
+Added Pin To Net: NetName=NetCss_2 Pin=Css-2
+Added Pin To Net: NetName=NetCss_2 Pin=U1-10
+Added Net: Name=NetCss_2
+Added Pin To Net: NetName=NetCvcc_2 Pin=Cvcc-2
+Added Pin To Net: NetName=NetCvcc_2 Pin=U1-1
+Added Pin To Net: NetName=NetCvcc_2 Pin=U1-2
+Added Net: Name=NetCvcc_2
+Added Member To Class: ClassName=UmbilicalBoardV2 Member=Component Cin GRM188R61C106MA7

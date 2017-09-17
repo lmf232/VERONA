@@ -1,0 +1,11 @@
+Change Component Comment : Designator=SolenoidConnector Old Comment= New Comment=Solenoid_Samtech
+Added Pin To Net: NetName=+12V Pin=SolenoidConnector-A1
+Added Pin To Net: NetName=NetD1_1 Pin=SolenoidConnector-A2
+Added Pin To Net: NetName=+12V Pin=SolenoidConnector-A3
+Added Pin To Net: NetName=NetD2_1 Pin=SolenoidConnector-A4
+Added Pin To Net: NetName=+12V Pin=SolenoidConnector-A5
+Added Pin To Net: NetName=NetD3_1 Pin=SolenoidConnector-A6
+Added Pin To Net: NetName=+12V Pin=SolenoidConnector-A7
+Added Pin To Net: NetName=NetD4_1 Pin=SolenoidConnector-A8
+Added Member To Class: ClassName=BoostConverter Member=Component Cin GRM188R61C106MA7
+Added Member To Class: ClassName=SolSwitch Member=Component SolenoidConnector Solenoid_Samtech

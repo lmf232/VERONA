@@ -1,0 +1,15 @@
+Replace Part * SolenoidConnector in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with SolenoidConnector from UmbilicalBoardV2.SCHLIB
+Replace Part A* XACT_J1 Connector in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with XACT_J1 Connector from UmbilicalBoardV2.SCHLIB
+Replace Part Barrel Jack PWR2.5 in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with PWR2.5 from Miscellaneous Connectors.IntLib
+Replace Part D1 Diode in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with Diode from Miscellaneous Devices.IntLib
+Replace Part D2 Diode in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with Diode from Miscellaneous Devices.IntLib
+Replace Part D3 Diode in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with Diode from Miscellaneous Devices.IntLib
+Replace Part D4 Diode in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with Diode from Miscellaneous Devices.IntLib
+Replace Part D* MicroDSub in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with MicroDSub from UmbilicalBoardV2.SCHLIB
+Replace Part Dock* Docking Connector in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with Docking Connector from UmbilicalBoardV2.SCHLIB
+Replace Part FlightSwitch* RemoverBeforeFlightSwitch in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with RemoverBeforeFlightSwitch from UmbilicalBoardV2.SCHLIB
+Replace Part MicroSwitch* MicroSwitch in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with MicroSwitch from UmbilicalBoardV2.SCHLIB
+Replace Part PCon* PressureConnector in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with PressureConnector from UmbilicalBoardV2.SCHLIB
+Replace Part PIKSI_UARTA* PIKSI_UART Connector in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with PIKSI_UART Connector from UmbilicalBoardV2.SCHLIB
+Replace Part PInstrAmp* Pressure Instrumentation Amp. in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with Pressure Instrumentation Amp. from UmbilicalBoardV2.SCHLIB
+Replace Part USB_B* USB_B Connector in C:\Users\leah\Desktop\OAANPower\Cornell\UmbilicalBoardV3\TopSheet.SchDoc with USB_B Connector from UmbilicalBoardV2.SCHLIB

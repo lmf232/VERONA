@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=NetCurrentSource_1 Pin=CurrentSource-0
+Removed Pin From Net: NetName=NetCurrentSource_1 Pin=CurrentSource-2
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-3
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-4
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-7
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-8
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-9
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-10
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-11
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-12
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-13
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-14
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-15
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-16
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-17
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-18
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-19
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-20
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-21
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-22
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-23
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-24
+Removed Pin From Net: NetName=POWER_GND Pin=Docking-25
+Removed Pin From Net: NetName=NetCout_1 Pin=Q1-1
+Removed Pin From Net: NetName=NetCout_1 Pin=Q2-1
+Removed Pin From Net: NetName=NetCout_1 Pin=Q3-1
+Removed Pin From Net: NetName=NetCout_1 Pin=Q4-1
+Removed Pin From Net: NetName=C0 Pin=R1-1
+Removed Pin From Net: NetName=C1 Pin=R2-1
+Removed Pin From Net: NetName=C2 Pin=R3-1
+Removed Pin From Net: NetName=C3 Pin=R4-1
+Removed Member From Class: ClassName=R1_Nets Member=C0
+Removed Member From Class: ClassName=R2_Nets Member=C1
+Removed Member From Class: ClassName=R3_Nets Member=C2
+Removed Member From Class: ClassName=R4_Nets Member=C3
+Removed Member From Class: ClassName=Q1_Nets Member=NetCout_1
+Removed Member From Class: ClassName=Q2_Nets Member=NetCout_1
+Removed Member From Class: ClassName=Q3_Nets Member=NetCout_1
+Removed Member From Class: ClassName=Q4_Nets Member=NetCout_1
+Added Component: Designator=D1(SMC)
+Added Component: Designator=D1(SMC)
+Added Component: Designator=D1(SMC)
+Added Component: Designator=D5(SMC)
+Added Pin To Net: NetName=+3.3V Pin=CurrentSource-0
+Added Pin To Net: NetName=NetCurrentSource_2 Pin=CurrentSource-2
+Added Pin To Net: NetName=C1 Pin=D1-1
+Added Pin To Net: NetName=C2 Pin=D1-1
+Added Pin To Net: NetName=C3 Pin=D1-1
+Added Pin To Net: NetName=C0 Pin=D5-1
+Added Pin To Net: NetName=NetCout_1 Pin=Docking-3
+Added Pin To Net: NetName=+5V Pin=Docking-7
+Added Pin To Net: NetName=+5V Pin=Docking-8
+Added Pin To Net: NetName=GND Pin=Docking-9
+Added Pin To Net: NetName=GND Pin=Docking-10
+Added Pin To Net: NetName=GND Pin=Docking-11
+Added Pin To Net: NetName=V_BAT Pin=Docking-13
+Added Pin To Net: NetName=B11 Pin=Docking-15
+Added Pin To Net: NetName=B10 Pin=Docking-16
+Added Pin To Net: NetName=P1_1 Pin=Docking-17
+Added Pin To Net: NetName=A6 Pin=Docking-18
+Added Pin To Net: NetName=A7 Pin=Docking-19
+Added Pin To Net: NetName=A5 Pin=Docking-20
+Added Pin To Net: NetName=A4 Pin=Docking-21
+Added Pin To Net: NetName=B9 Pin=Docking-22
+Added Pin To Net: NetName=B6 Pin=Docking-23
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R2-1
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=SolSwitch Member=Component D1 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D1 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D1 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D5 Diode
+Added Member To Class: ClassName=D5_Nets Member=Wire C0
+Added Member To Class: ClassName=D1_Nets Member=Wire C1
+Added Member To Class: ClassName=D1_Nets Member=Wire C2
+Added Member To Class: ClassName=D1_Nets Member=Wire C3
+Added Member To Class: ClassName=D1_Nets Member=Wire NetD1_2
+Added Member To Class: ClassName=R2_Nets Member=Wire NetD1_2
+Added Member To Class: ClassName=R3_Nets Member=Wire NetD1_2
+Added Member To Class: ClassName=R4_Nets Member=Wire NetD1_2
+Added Member To Class: ClassName=R1_Nets Member=Wire NetD5_2

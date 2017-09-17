@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UmbilicalBoardV4.PcbDoc   6/23/2016  10:35:40 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UmbilicalBoardV4.TXT
+ASCII RectHoles File : UmbilicalBoardV4-RectHoles.TXT
+EIA File   : UmbilicalBoardV4.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)           +/-0.05mm (2mil)                  Round             2         PTH        1.25mm (0.05inch)
+T2      0.5mm (20mil)                                             Rectangle         3         PTH        29.30mm (1.15inch)
+T3      0.6mm (24mil)           +/-0.05mm (2mil)                  Round             5         PTH        6.25mm (0.25inch)
+T4      0.6mm (24mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T5      0.711mm (28mil)                                           Round             96        PTH        674.72mm (26.56inch)
+T6      0.762mm (30mil)                                           Round             10        PTH        110.17mm (4.34inch)
+T7      0.813mm (32mil)                                           Round             36        PTH        227.41mm (8.95inch)
+T8      0.85mm (33mil)                                            Round             2         PTH        7.62mm (0.30inch)
+T9      0.914mm (36mil)                                           Round             119       PTH        434.36mm (17.10inch)
+T10     0.95mm (37mil)          +/-0.01mm (0mil)                  Round             20        PTH        218.27mm (8.59inch)
+T11     1.2mm (47mil)                                             Round             3         PTH        10.26mm (0.40inch)
+T12     3.048mm (120mil)                                          Round             4         PTH        268.38mm (10.57inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              301
+
+Total Processing Time (hh:mm:ss) : 00:00:00

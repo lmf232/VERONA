@@ -1,0 +1,8 @@
+Added Component: Designator=ADCS Connector(Molex Picoblade 5 Pin)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=RX3 Pin=ADCS Connector-0
+Added Pin To Net: NetName=TX3 Pin=ADCS Connector-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=ADCS Connector-2
+Added Pin To Net: NetName=5V_3 Pin=ADCS Connector-3
+Added Pin To Net: NetName=24V Pin=ADCS Connector-4
+Added Member To Class: ClassName=U_ADCS Member=Component ADCS Connector

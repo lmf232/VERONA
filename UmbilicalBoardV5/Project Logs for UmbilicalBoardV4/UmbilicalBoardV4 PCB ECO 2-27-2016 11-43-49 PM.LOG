@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetDocking_21 Pin=Docking-22
+Removed Pin From Net: NetName=NetDocking_21 Pin=Docking-23
+Removed Pin From Net: NetName=NetDocking_21 Pin=Docking-24
+Removed Pin From Net: NetName=NetDocking_21 Pin=Docking-25
+Change Component Comment : Designator=PIKSI_UARTA Old Comment=PIKSI_UARTA Connector New Comment=PIKSI_UART Connector
+Added Pin To Net: NetName=NetDocking_22 Pin=Docking-22
+Added Pin To Net: NetName=NetDocking_23 Pin=Docking-23
+Added Pin To Net: NetName=+5V Pin=PIKSI_UARTA-4
+Added Pin To Net: NetName=NetPIKSI_UARTA_0 Pin=PIKSI_UARTA-0
+Added Net: Name=NetPIKSI_UARTA_0
+Added Pin To Net: NetName=NetPIKSI_UARTA_1 Pin=PIKSI_UARTA-1
+Added Net: Name=NetPIKSI_UARTA_1
+Added Pin To Net: NetName=NetPIKSI_UARTA_2 Pin=PIKSI_UARTA-2
+Added Net: Name=NetPIKSI_UARTA_2

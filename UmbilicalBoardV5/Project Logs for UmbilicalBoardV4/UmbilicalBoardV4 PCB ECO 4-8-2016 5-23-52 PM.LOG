@@ -1,0 +1,3 @@
+Added Component: Designator=FrameGND(ViatoFrame)
+Added Member To Class: ClassName=U_GroundtoFrame Member=Component FrameGND ViatoFrame
+Added Room: Name=U_GroundtoFrame

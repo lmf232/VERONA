@@ -1,0 +1,7 @@
+*PADS-PCB*
+*PART*
+*      Pressure Current Source
+D1     DO-35
+R1     AXIAL-0.5
+R2     AXIAL-0.5
+*END*

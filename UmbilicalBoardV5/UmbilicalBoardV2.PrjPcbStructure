@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=TopSheet.SchDoc
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=BoostConverter|SchDesignator=BoostConverter|FileName=UmbilicalBoardV2.schdoc|SymbolType=Normal|RawFileName=UmbilicalBoardV2.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=Solenoid Switching|SchDesignator=Solenoid Switching|FileName=SolenoidSwitching.SchDoc|SymbolType=Normal|RawFileName=SolenoidSwitching.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=STM32F4Discovery|SchDesignator=STM32F4Discovery|FileName=File Name|SymbolType=Normal|RawFileName=File Name|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

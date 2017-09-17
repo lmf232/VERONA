@@ -1,0 +1,23 @@
+Altium Designer System: Library Component Rule Check
+PCB File : UmbilicalConnectors
+Date     : 3/11/2016
+Time     : 11:50:44 PM
+
+
+Name                Warnings
+------------------------------------------------------------------
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-14(8.255mm,0mm) on Bottom Layer And Pad Free-14(8.255mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-13(7.62mm,0mm) on Bottom Layer And Pad Free-13(7.62mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-12(6.985mm,0mm) on Bottom Layer And Pad Free-12(6.985mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-11(6.35mm,0mm) on Bottom Layer And Pad Free-11(6.35mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-10(5.715mm,0mm) on Bottom Layer And Pad Free-10(5.715mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-9(5.08mm,0mm) on Bottom Layer And Pad Free-9(5.08mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-8(4.445mm,0mm) on Bottom Layer And Pad Free-8(4.445mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-7(3.81mm,0mm) on Bottom Layer And Pad Free-7(3.81mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-6(3.175mm,0mm) on Bottom Layer And Pad Free-6(3.175mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-5(2.54mm,0mm) on Bottom Layer And Pad Free-5(2.54mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-4(1.905mm,0mm) on Bottom Layer And Pad Free-4(1.905mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-3(1.27mm,0mm) on Bottom Layer And Pad Free-3(1.27mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-2(0.635mm,0mm) on Bottom Layer And Pad Free-2(0.635mm,0mm) on Top Layer
+MICRODSUB                Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Bottom Layer And Pad Free-1(0mm,0mm) on Top Layer
+

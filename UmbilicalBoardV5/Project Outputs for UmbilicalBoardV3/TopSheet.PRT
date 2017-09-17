@@ -1,0 +1,46 @@
+*PADS-PCB*
+*PART*
+Barrel JackKLD-0202
+Cbst   1005
+Ccomp  0201
+Ccomp2 01005
+Cin    0603
+Cin2   0402
+Cin_2  0603
+Cout   1206
+Css    0402
+CurrentSourcePressure Current Source
+Cvcc   1608
+D1     SMC
+D2     SMC
+D3     SMC
+D4     SMC
+D5     DO-35
+DockingDocking Connector
+Dsub   MicroDSub
+FlightSwitchRemoverBeforeFlight Switch
+L1     XAL4020
+MicroswitchMicroSwitch_3pin
+PC-104 PC-104FOOTPRINT
+PIKSI_UARTAMolex Picoblade 5 Pin
+PInstrAmpPressure Instrumentation Amp.
+PressureConPressure Connector
+Q1     TO-226-AA
+Q2     TO-226-AA
+Q3     TO-226-AA
+Q4     TO-226-AA
+R1     0402
+R2     0402
+R3     0402
+R4     0402
+R5     AXIAL-0.5
+R6     AXIAL-0.5
+Rcomp  0402
+Rfbb   0603
+Rfbt   0402
+Rlim   1206
+Rt     1206
+SolenoidSolenoids 8Pin Right Angle
+U1     RHL0020A
+XACT   Airborn Nano
+*END*

@@ -1,0 +1,114 @@
+Net Status Report
+Filename     : C:\Users\CADPUTER002\Documents\GitHub\OAANPower\Cornell\UmbilicalBoardV3\UmbilicalBoardV3.PcbDoc
+Date         : 2/26/2016
+Time         : 5:08:46 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +3.3V, Signal Layers Only, 0mm
+    +5V, Signal Layers Only, 0mm
+    +V BUS VOLTAGE, Signal Layers Only, 0mm
+    12C-SCL, Signal Layers Only, 0mm
+    12C-SDA, Signal Layers Only, 0mm
+    5 V_IN, Signal Layers Only, 0mm
+    A0, Signal Layers Only, 0mm
+    A1, Signal Layers Only, 0mm
+    A10, Signal Layers Only, 0mm
+    A13, Signal Layers Only, 0mm
+    A14, Signal Layers Only, 0mm
+    A15, Signal Layers Only, 0mm
+    A4, Signal Layers Only, 0mm
+    A5, Signal Layers Only, 0mm
+    A6, Signal Layers Only, 0mm
+    A7, Signal Layers Only, 0mm
+    A9, Signal Layers Only, 0mm
+    AGND, Signal Layers Only, 0mm
+    B0, Signal Layers Only, 0mm
+    B1, Signal Layers Only, 0mm
+    B10, Signal Layers Only, 0mm
+    B11, Signal Layers Only, 0mm
+    B14, Signal Layers Only, 0mm
+    B2, Signal Layers Only, 0mm
+    B3, Signal Layers Only, 0mm
+    B4, Signal Layers Only, 0mm
+    B6, Signal Layers Only, 0mm
+    B9, Signal Layers Only, 0mm
+    BAT_GOM, Signal Layers Only, 12.4708mm
+    C0, Signal Layers Only, 0mm
+    C1, Signal Layers Only, 0mm
+    C10, Signal Layers Only, 0mm
+    C12, Signal Layers Only, 0mm
+    C2, Signal Layers Only, 0mm
+    C3, Signal Layers Only, 0mm
+    C4, Signal Layers Only, 0mm
+    C6, Signal Layers Only, 0mm
+    C7, Signal Layers Only, 0mm
+    C8, Signal Layers Only, 0mm
+    D11, Signal Layers Only, 0mm
+    D12, Signal Layers Only, 0mm
+    D13, Signal Layers Only, 0mm
+    D14, Signal Layers Only, 0mm
+    D15, Signal Layers Only, 0mm
+    D2, Signal Layers Only, 0mm
+    DGND, Signal Layers Only, 0mm
+    E0, Signal Layers Only, 0mm
+    E1, Signal Layers Only, 0mm
+    E10, Signal Layers Only, 0mm
+    E11, Signal Layers Only, 0mm
+    E12, Signal Layers Only, 0mm
+    E13, Signal Layers Only, 0mm
+    E14, Signal Layers Only, 0mm
+    E15, Signal Layers Only, 0mm
+    E9, Signal Layers Only, 0mm
+    EPS RX, Signal Layers Only, 0mm
+    EPS TX, Signal Layers Only, 0mm
+    GND, Signal Layers Only, 0mm
+    GND_STM, Signal Layers Only, 0mm
+    H0, Signal Layers Only, 0mm
+    H1, Signal Layers Only, 0mm
+    NetCbst_1, Signal Layers Only, 10.0109mm
+    NetCbst_2, Signal Layers Only, 1.42mm
+    NetCcomp2_2, Signal Layers Only, 4.0743mm
+    NetCcomp_1, Signal Layers Only, 0mm
+    NetCss_2, Signal Layers Only, 1.4871mm
+    NetCurrentSource_1, Signal Layers Only, 0mm
+    NetCurrentSource_2, Signal Layers Only, 0mm
+    NetCvcc_2, Signal Layers Only, 3.2751mm
+    NetD5_2, Signal Layers Only, 0mm
+    NetD6_2, Signal Layers Only, 0mm
+    NetD7_2, Signal Layers Only, 0mm
+    NetD8_2, Signal Layers Only, 0mm
+    NetD9_2, Signal Layers Only, 0mm
+    NetPInstrAmp_+IN, Signal Layers Only, 0mm
+    NetPInstrAmp_-IN, Signal Layers Only, 0mm
+    NetPInstrAmp_RG1, Signal Layers Only, 0mm
+    NetPInstrAmp_RG2, Signal Layers Only, 0mm
+    NetQ1_2, Signal Layers Only, 0mm
+    NetQ2_2, Signal Layers Only, 8.1379mm
+    NetQ3_2, Signal Layers Only, 8.3411mm
+    NetQ4_2, Signal Layers Only, 8.2903mm
+    NetRfbb_1, Signal Layers Only, 0mm
+    NetRlim_1, Signal Layers Only, 1.9935mm
+    NetRt_2, Signal Layers Only, 3.4864mm
+    OUT-1, Signal Layers Only, 0mm
+    OUT-2, Signal Layers Only, 0mm
+    OUT-3, Signal Layers Only, 0mm
+    OUT-4, Signal Layers Only, 0mm
+    OUT-5, Signal Layers Only, 0mm
+    OUT-6, Signal Layers Only, 0mm
+    P1_2, Signal Layers Only, 0mm
+    P1_3, Signal Layers Only, 0mm
+    P1_4, Signal Layers Only, 0mm
+    P1_49, Signal Layers Only, 0mm
+    P1_50, Signal Layers Only, 0mm
+    P1_6, Signal Layers Only, 0mm
+    P2_1, Signal Layers Only, 0mm
+    P2_2, Signal Layers Only, 0mm
+    P2_3, Signal Layers Only, 0mm
+    P2_4, Signal Layers Only, 0mm
+    P2_49, Signal Layers Only, 0mm
+    P2_5, Signal Layers Only, 0mm
+    P2_50, Signal Layers Only, 0mm
+    P2_6, Signal Layers Only, 0mm
+    POWER_GND, Signal Layers Only, 0mm
+count : 106

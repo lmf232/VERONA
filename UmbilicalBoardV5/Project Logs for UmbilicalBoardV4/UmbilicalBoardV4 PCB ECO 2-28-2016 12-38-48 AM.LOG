@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetDocking_9 Pin=Barrel Jack-2A
+Added Pin To Net: NetName=NetDocking_9 Pin=Barrel Jack-2B
+Added Pin To Net: NetName=NetDocking_9 Pin=Barrel Jack-2
+Added Pin To Net: NetName=NetDocking_9 Pin=Barrel Jack-3A
+Added Pin To Net: NetName=NetDocking_9 Pin=Barrel Jack-3B
+Added Pin To Net: NetName=NetDocking_9 Pin=Barrel Jack-3
+Added Pin To Net: NetName=NetBarrel Jack_1 Pin=PC-104-H1_32
+Change Net Name : Old Net Name=NetDocking_9 New Net Name=NetBarrel Jack_2

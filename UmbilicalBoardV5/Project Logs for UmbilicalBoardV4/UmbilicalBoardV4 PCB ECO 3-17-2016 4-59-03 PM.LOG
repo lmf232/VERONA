@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=GOM_GND_3 Pin=XACT-A4
+Added Pin To Net: NetName=GOM_GND_3 Pin=XACT-A10
+Added Pin To Net: NetName=POWER_GND Pin=XACT-A14
+Added Pin To Net: NetName=GOM_GND_3 Pin=XACT-A20
+Added Pin To Net: NetName=POWER_GND Pin=XACT-A26
+Added Pin To Net: NetName=POWER_GND Pin=XACT-A30
+Added Pin To Net: NetName=SPI_MISO Pin=XACT-A21
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=XACT-A6
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=SPI_SCK Pin=XACT-A5
+Added Net: Name=SPI_SCK
+Added Pin To Net: NetName=SPI_SS Pin=XACT-A22
+Added Net: Name=SPI_SS
+Added Member To Class: ClassName=Barrel Jack Member=Component Barrel Jack PWR2.5

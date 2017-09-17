@@ -1,0 +1,517 @@
+{COMPONENT PROTEL.PCB
+  {ENVIRONMENT PROTEL.SCH}
+  {DETAIL
+    {SUBCOMP
+      {I KLD-0202.PRT Barrel Jack
+        {CN
+        1 5 V_IN
+       1A 5 V_IN
+       1B 5 V_IN
+        2 GND
+       2A GND
+       2B GND
+        3 GND
+       3A GND
+       3B GND
+        }
+      }
+      {I 1005.PRT Cbst
+        {CN
+        1 NetCbst_1
+        2 NetCbst_2
+        }
+      }
+      {I 0201.PRT Ccomp
+        {CN
+        1 NetCcomp_1
+        2 POWER_GND
+        }
+      }
+      {I 01005.PRT Ccomp2
+        {CN
+        1 POWER_GND
+        2 NetCcomp2_2
+        }
+      }
+      {I 0603.PRT Cin
+        {CN
+        1 V_BAT
+        2 POWER_GND
+        }
+      }
+      {I 0402.PRT Cin2
+        {CN
+        1 V_BAT
+        2 POWER_GND
+        }
+      }
+      {I 0603.PRT Cin_2
+        {CN
+        1 V_BAT
+        2 POWER_GND
+        }
+      }
+      {I 1206.PRT Cout
+        {CN
+        1 NetCout_1
+        2 POWER_GND
+        }
+      }
+      {I 0402.PRT Css
+        {CN
+        1 POWER_GND
+        2 NetCss_2
+        }
+      }
+      {I Pressure Current Source.PRT CurrentSource
+        {CN
+        0 +3.3V
+        1 NetCurrentSource_1
+        2 NetCurrentSource_2
+        }
+      }
+      {I 1608.PRT Cvcc
+        {CN
+        1 POWER_GND
+        2 NetCvcc_2
+        }
+      }
+      {I SMC.PRT D1
+        {CN
+        1 NetCout_1
+        2 NetD1_2
+        }
+      }
+      {I SMC.PRT D2
+        {CN
+        1 NetCout_1
+        2 NetD2_2
+        }
+      }
+      {I SMC.PRT D3
+        {CN
+        1 NetCout_1
+        2 NetD3_2
+        }
+      }
+      {I SMC.PRT D4
+        {CN
+        1 NetCout_1
+        2 NetD4_2
+        }
+      }
+      {I SMC.PRT D5
+        {CN
+        1 C0
+        2 NetD5_2
+        }
+      }
+      {I SMC.PRT D6
+        {CN
+        1 C1
+        2 NetD6_2
+        }
+      }
+      {I SMC.PRT D7
+        {CN
+        1 C2
+        2 NetD7_2
+        }
+      }
+      {I SMC.PRT D8
+        {CN
+        1 C3
+        2 NetD8_2
+        }
+      }
+      {I DO-35.PRT D9
+        {CN
+        1 NetCurrentSource_2
+        2 NetD9_2
+        }
+      }
+      {I Docking Connector.PRT Docking
+        {CN
+        0 E10
+        1 E12
+        2 E13
+        3 NetCout_1
+        4 NetDocking_4
+        5 POWER_GND
+        6 POWER_GND
+        7 +5V
+        8 +5V
+        9 GND
+       10 GND
+       11 GND
+       12 NetDocking_12
+       13 V_BAT
+       14 NetDocking_14
+       15 B11
+       16 B10
+       17 P1_1
+       18 A6
+       19 A7
+       20 A5
+       21 A4
+       22 B9
+       23 B6
+        }
+      }
+      {I MicroDSub.PRT Dsub
+        {CN
+        1 C10
+        2 A1
+        3 NetDsub_3
+        4 NetDsub_4
+        5 NetDsub_5
+        6 NetDsub_6
+        7 NetDsub_7
+        8 NetDsub_8
+        9 NetDsub_9
+       10 NetDsub_10
+       11 NetDsub_11
+       12 NetDsub_12
+       13 NetDsub_13
+       14 NetDsub_14
+       15 NetDsub_15
+       16 NetDsub_16
+       17 NetDsub_17
+       18 NetDsub_18
+       19 NetDsub_19
+       20 NetDsub_20
+       21 NetDsub_21
+       22 NetDsub_22
+       23 NetDsub_23
+       24 NetDsub_24
+       25 NetDsub_25
+       26 NetDsub_26
+        }
+      }
+      {I RemoverBeforeFlight Switch.PRT FlightSwitch
+        {CN
+        1 GND
+        2 NetFlightSwitch_2
+        }
+      }
+      {I XAL4020.PRT L1
+        {CN
+        1 V_BAT
+        2 NetCbst_1
+        }
+      }
+      {I MicroSwitch_3pin.PRT Microswitch
+        {CN
+        1 NetMicroswitch_1
+        2 NetMicroswitch_2
+        3 NetMicroswitch_3
+        }
+      }
+      {I PC-104FOOTPRINT.PRT PC-104
+        {CN
+     H1_1 B6
+     H1_2 H0
+     H1_3 B9
+     H1_4 H1
+     H1_5 A4
+     H1_6 A13
+     H1_7 A5
+     H1_8 A14
+     H1_9 A6
+    H1_10 B3
+    H1_11 A7
+    H1_12 E9
+    H1_13 A1
+    H1_14 A15
+    H1_15 C10
+    H1_16 B4
+    H1_17 C12
+    H1_18 B2
+    H1_19 D2
+    H1_20 E10
+    H1_21 A9
+    H1_22 E11
+    H1_23 A10
+    H1_24 E12
+    H1_25 B10
+    H1_26 E13
+    H1_27 B11
+    H1_28 E14
+    H1_29 B14
+    H1_30 E15
+    H1_31 D11
+    H1_32 5 V_IN
+    H1_33 C6
+    H1_34 D12
+    H1_35 C7
+    H1_36 D13
+    H1_37 C8
+    H1_38 D14
+    H1_39 E14
+    H1_40 D15
+    H1_41 12C-SDA
+    H1_42 E0
+    H1_43 12C-SCL
+    H1_44 E1
+    H1_45 E15
+    H1_46 NetPC-104_H1_46
+    H1_47 OUT-1
+    H1_48 OUT-2
+    H1_49 OUT-3
+    H1_50 OUT-4
+    H1_51 OUT-5
+    H1_52 OUT-6
+     H2_1 P1_1
+     H2_2 P1_2
+     H2_3 P1_3
+     H2_4 P1_4
+     H2_5 P1_6
+     H2_6 NetPC-104_H2_6
+     H2_7 P2_1
+     H2_8 P2_2
+     H2_9 P2_3
+    H2_10 P2_4
+    H2_11 P2_5
+    H2_12 P2_6
+    H2_13 C0
+    H2_14 C1
+    H2_15 C2
+    H2_16 C3
+    H2_17 A0
+    H2_18 C4
+    H2_19 B1
+    H2_20 B0
+    H2_21 NetPC-104_H2_21
+    H2_22 NetPC-104_H2_22
+    H2_23 NetPC-104_H2_23
+    H2_24 NetPC-104_H2_24
+    H2_25 +5V
+    H2_26 +5V
+    H2_27 +3.3V
+    H2_28 +3.3V
+    H2_29 GND
+    H2_30 GND
+    H2_31 AGND
+    H2_32 GND
+    H2_33 NetPC-104_H2_33
+    H2_34 NetPC-104_H2_34
+    H2_35 NetPC-104_H2_35
+    H2_36 EPS RX
+    H2_37 NetPC-104_H2_37
+    H2_38 EPS TX
+    H2_39 NetPC-104_H2_39
+    H2_40 NetPC-104_H2_40
+    H2_41 NetPC-104_H2_41
+    H2_42 NetPC-104_H2_42
+    H2_43 NetPC-104_H2_43
+    H2_44 NetPC-104_H2_44
+    H2_45 V_BAT
+    H2_46 V_BAT
+    H2_47 NetPC-104_H2_47
+    H2_48 NetPC-104_H2_48
+    H2_49 P1_49
+    H2_50 P1_50
+    H2_51 P2_49
+    H2_52 P2_50
+        }
+      }
+      {I Molex Picoblade 5 Pin.PRT PIKSI_UARTA
+        {CN
+        0 NetPIKSI_UARTA_0
+        1 NetPIKSI_UARTA_1
+        2 NetPIKSI_UARTA_2
+        3 NetPIKSI_UARTA_3
+        4 NetPIKSI_UARTA_4
+        }
+      }
+      {I Pressure Instrumentation Amp..PRT PInstrAmp
+        {CN
+      +IN NetPInstrAmp_+IN
+      +Vs +3.3V
+      -IN NetPInstrAmp_-IN
+      -VS GND
+      REF GND
+      RG1 NetPInstrAmp_RG1
+      RG2 NetPInstrAmp_RG2
+     Vout E14
+        }
+      }
+      {I Pressure Connector.PRT PressureCon
+        {CN
+        1 NetPInstrAmp_-IN
+        2 +3.3V
+        3 NetD9_2
+        4 NetPInstrAmp_+IN
+        5 NetPInstrAmp_RG2
+        6 NetPInstrAmp_RG1
+        }
+      }
+      {I TO-226-AA.PRT Q1
+        {CN
+        1 NetQ1_1
+        2 NetQ1_2
+        3 DGND
+        }
+      }
+      {I TO-226-AA.PRT Q2
+        {CN
+        1 NetQ2_1
+        2 NetQ2_2
+        3 DGND
+        }
+      }
+      {I TO-226-AA.PRT Q3
+        {CN
+        1 NetQ3_1
+        2 NetQ3_2
+        3 DGND
+        }
+      }
+      {I TO-226-AA.PRT Q4
+        {CN
+        1 NetQ4_1
+        2 NetQ4_2
+        3 DGND
+        }
+      }
+      {I 0402.PRT R1
+        {CN
+        1 NetD5_2
+        2 NetQ1_2
+        }
+      }
+      {I 0402.PRT R2
+        {CN
+        1 NetD6_2
+        2 NetQ2_2
+        }
+      }
+      {I 0402.PRT R3
+        {CN
+        1 NetD7_2
+        2 NetQ3_2
+        }
+      }
+      {I 0402.PRT R4
+        {CN
+        1 NetD8_2
+        2 NetQ4_2
+        }
+      }
+      {I AXIAL-0.5.PRT R5
+        {CN
+        1 NetCurrentSource_2
+        2 NetCurrentSource_1
+        }
+      }
+      {I AXIAL-0.5.PRT R6
+        {CN
+        1 NetD9_2
+        2 NetCurrentSource_1
+        }
+      }
+      {I 0402.PRT Rcomp
+        {CN
+        1 NetCcomp2_2
+        2 NetCcomp_1
+        }
+      }
+      {I 0603.PRT Rfbb
+        {CN
+        1 NetRfbb_1
+        2 POWER_GND
+        }
+      }
+      {I 0402.PRT Rfbt
+        {CN
+        1 NetCout_1
+        2 NetRfbb_1
+        }
+      }
+      {I 1206.PRT Rlim
+        {CN
+        1 NetRlim_1
+        2 POWER_GND
+        }
+      }
+      {I 1206.PRT Rt
+        {CN
+        1 NetCbst_1
+        2 NetRt_2
+        }
+      }
+      {I Solenoids 8Pin Right Angle.PRT Solenoid
+        {CN
+ Sol1_12V NetSolenoid_Sol1_12V
+ Sol1_NPN NetSolenoid_Sol1_NPN
+ Sol2_12V NetSolenoid_Sol2_12V
+ Sol2_NPN NetSolenoid_Sol2_NPN
+ Sol3_12V NetSolenoid_Sol3_12V
+ Sol3_NPN NetSolenoid_Sol3_NPN
+ Sol4_12V NetSolenoid_Sol4_12V
+ Sol4_NPN NetSolenoid_Sol4_NPN
+        }
+      }
+      {I RHL0020A.PRT U1
+        {CN
+        1 NetCvcc_2
+        2 NetCvcc_2
+        3 NetRt_2
+        4 NetCbst_1
+        5 NetCbst_1
+        6 NetCbst_1
+        7 NetCbst_1
+        8 NetCbst_2
+        9 V_BAT
+       10 NetCss_2
+       11 POWER_GND
+       12 POWER_GND
+       13 POWER_GND
+       14 NetCout_1
+       15 NetCout_1
+       16 NetCout_1
+       17 NetRfbb_1
+       18 NetCcomp2_2
+       19 NetRlim_1
+       20 POWER_GND
+       21 POWER_GND
+        }
+      }
+      {I Airborn Nano.PRT XACT
+        {CN
+        1 NetXACT_1
+        2 NetXACT_2
+        3 NetXACT_3
+        4 NetXACT_4
+        5 NetXACT_5
+        6 NetXACT_6
+        7 NetXACT_7
+        8 NetXACT_8
+        9 NetXACT_9
+       10 NetXACT_10
+       11 NetXACT_11
+       12 NetXACT_12
+       13 NetXACT_13
+       14 NetXACT_14
+       15 NetXACT_15
+       16 NetXACT_16
+       17 NetXACT_17
+       18 NetXACT_18
+       19 NetXACT_19
+       20 NetXACT_20
+       21 NetXACT_21
+       22 NetXACT_22
+       23 NetXACT_23
+       24 NetXACT_24
+       25 NetXACT_25
+       26 NetXACT_26
+       27 NetXACT_27
+       28 NetXACT_28
+       29 NetXACT_29
+       30 NetXACT_30
+       31 NetXACT_31
+        }
+      }
+    }
+  }
+}

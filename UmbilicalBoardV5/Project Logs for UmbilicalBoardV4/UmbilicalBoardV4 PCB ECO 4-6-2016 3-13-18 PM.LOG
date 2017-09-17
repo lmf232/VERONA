@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+12V_1 Pin=Cout_1-1
+Removed Pin From Net: NetName=+12V_1 Pin=Cout_2-1
+Removed Pin From Net: NetName=+12V_1 Pin=Cout_3-1
+Removed Pin From Net: NetName=+12V_1 Pin=Docking-A4
+Removed Pin From Net: NetName=+12V_1 Pin=Docking-A5
+Removed Pin From Net: NetName=+12V_1 Pin=JUMP-18
+Removed Pin From Net: NetName=+12V_1 Pin=Rfbt-1
+Added Pin To Net: NetName=+12V_1 Pin=JUMP-7
+Change Net Name : Old Net Name=+12V_1 New Net Name=+12V_1_J7
+Added Pin To Net: NetName=+12V_1 Pin=Cout_1-1
+Added Pin To Net: NetName=+12V_1 Pin=Cout_2-1
+Added Pin To Net: NetName=+12V_1 Pin=Cout_3-1
+Added Pin To Net: NetName=+12V_1 Pin=Docking-A4
+Added Pin To Net: NetName=+12V_1 Pin=Docking-A5
+Added Pin To Net: NetName=+12V_1 Pin=JUMP-12
+Added Pin To Net: NetName=+12V_1 Pin=JUMP-18
+Added Pin To Net: NetName=+12V_1 Pin=Rfbt-1
+Added Net: Name=+12V_1

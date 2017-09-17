@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=GPS-3V3 Pin=CurrentSource-1
+Removed Pin From Net: NetName=GPS-3V3 Pin=CurrentSource-2
+Removed Pin From Net: NetName=I2C_SCL Pin=Docking-21
+Removed Pin From Net: NetName=I2C_SCL Pin=Docking-22
+Removed Pin From Net: NetName=I2C_SCL Pin=Docking-24
+Removed Pin From Net: NetName=I2C_SCL Pin=Docking-25
+Removed Pin From Net: NetName=SWITCH_NO Pin=Microswitch-2
+Removed Pin From Net: NetName=GOM_GND Pin=Microswitch-3
+Removed Pin From Net: NetName=UART5_TX Pin=PC-104-H2_47
+Removed Pin From Net: NetName=GND Pin=PIKSI_UARTA-0
+Removed Pin From Net: NetName=UART5_RX Pin=PIKSI_UARTA-1
+Removed Pin From Net: NetName=UART5_TX Pin=PIKSI_UARTA-2
+Removed Pin From Net: NetName=+5V Pin=PIKSI_UARTA-4
+Removed Pin From Net: NetName=NetD9_2 Pin=PressureCon-1
+Removed Pin From Net: NetName=NetD9_2 Pin=PressureCon-2
+Removed Pin From Net: NetName=NetD9_2 Pin=PressureCon-4
+Removed Pin From Net: NetName=NetD9_2 Pin=PressureCon-5
+Removed Pin From Net: NetName=NetD9_2 Pin=PressureCon-6
+Removed Pin From Net: NetName=+5V Pin=XACT-9
+Removed Pin From Net: NetName=GPS-3V3 Pin=XACT-13
+Removed Pin From Net: NetName=+12V Pin=XACT-15
+Removed Pin From Net: NetName=+5V Pin=XACT-25
+Removed Pin From Net: NetName=+12V Pin=XACT-31
+Removed Member From Class: ClassName=D9_Nets Member=NetD9_2
+Removed Member From Class: ClassName=PressureCon_Nets Member=NetD9_2
+Removed Member From Class: ClassName=R6_Nets Member=NetD9_2
+Removed Member From Class: ClassName=PInstrAmp_Nets Member=NetPInstrAmp_+IN
+Removed Member From Class: ClassName=PressureCon_Nets Member=NetPInstrAmp_+IN
+Removed Member From Class: ClassName=PInstrAmp_Nets Member=NetPInstrAmp_-IN
+Removed Member From Class: ClassName=PressureCon_Nets Member=NetPInstrAmp_-IN
+Removed Member From Class: ClassName=PInstrAmp_Nets Member=NetPInstrAmp_RG1
+Removed Member From Class: ClassName=PressureCon_Nets Member=NetPInstrAmp_RG1
+Removed Member From Class: ClassName=PInstrAmp_Nets Member=NetPInstrAmp_RG2
+Removed Member From Class: ClassName=PressureCon_Nets Member=NetPInstrAmp_RG2
+Added Pin To Net: NetName=NetCurrentSource_1 Pin=CurrentSource-1
+Added Pin To Net: NetName=V- Pin=CurrentSource-2
+Added Pin To Net: NetName=SPI_SS Pin=Docking-21
+Added Pin To Net: NetName=I2C_SDA Pin=Docking-22
+Added Pin To Net: NetName=GPS-3V3 Pin=PressureCon-2
+Change Net Name : Old Net Name=NetD9_2 New Net Name=PCON_3
+Added Pin To Net: NetName=PCON_1 Pin=PInstrAmp--IN
+Added Pin To Net: NetName=PCON_1 Pin=PressureCon-1
+Added Net: Name=PCON_1
+Added Pin To Net: NetName=PCON_4 Pin=PInstrAmp-+IN
+Added Pin To Net: NetName=PCON_4 Pin=PressureCon-4
+Added Net: Name=PCON_4
+Added Pin To Net: NetName=PCON_5 Pin=PInstrAmp-RG2
+Added Pin To Net: NetName=PCON_5 Pin=PressureCon-5
+Added Net: Name=PCON_5
+Added Pin To Net: NetName=PCON_6 Pin=PInstrAmp-RG1
+Added Pin To Net: NetName=PCON_6 Pin=PressureCon-6
+Added Net: Name=PCON_6
+Added Member To Class: ClassName=PInstrAmp_Nets Member=Wire PCON_1
+Added Member To Class: ClassName=PressureCon_Nets Member=Wire PCON_1
+Added Member To Class: ClassName=D9_Nets Member=Wire PCON_3
+Added Member To Class: ClassName=PressureCon_Nets Member=Wire PCON_3
+Added Member To Class: ClassName=R6_Nets Member=Wire PCON_3
+Added Member To Class: ClassName=PInstrAmp_Nets Member=Wire PCON_4
+Added Member To Class: ClassName=PressureCon_Nets Member=Wire PCON_4
+Added Member To Class: ClassName=PInstrAmp_Nets Member=Wire PCON_5
+Added Member To Class: ClassName=PressureCon_Nets Member=Wire PCON_5
+Added Member To Class: ClassName=PInstrAmp_Nets Member=Wire PCON_6
+Added Member To Class: ClassName=PressureCon_Nets Member=Wire PCON_6

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+12V_1 Pin=M2-1
+Added Pin To Net: NetName=+12V_1 Pin=M2-2
+Added Pin To Net: NetName=+12V_1 Pin=M2-3
+Added Room: Name=Switch
+Added Room: Name=U_Jumpers_rev2

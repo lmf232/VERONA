@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=1 Pin=Cin_1-1
+Removed Pin From Net: NetName=0 Pin=Cin_1-2
+Removed Pin From Net: NetName=0 Pin=GND1-1
+Removed Pin From Net: NetName=0 Pin=GND-1
+Removed Pin From Net: NetName=8 Pin=VOUT-1
+Change Component DesignItemId : Designator=Ccomp Old DesignItemId= New DesignItemId=02013A220GAT2A
+Change Component DesignItemId : Designator=Cbst Old DesignItemId= New DesignItemId=C1005X5R1A104K
+Change Component DesignItemId : Designator=Cvcc Old DesignItemId= New DesignItemId=C1608X5R1A105K
+Change Component DesignItemId : Designator=Cout Old DesignItemId= New DesignItemId=C3216X5R1E226M
+Change Component DesignItemId : Designator=Ccomp2 Old DesignItemId= New DesignItemId=CL02C100JO2ANNC
+Change Component DesignItemId : Designator=Rcomp Old DesignItemId= New DesignItemId=CRCW040249K9FKED
+Change Component DesignItemId : Designator=Rfbt Old DesignItemId= New DesignItemId=CRCW0402732KFKED
+Change Component DesignItemId : Designator=Rlim Old DesignItemId= New DesignItemId=ERJ-8ENF1133V
+Change Component DesignItemId : Designator=Cin2 Old DesignItemId= New DesignItemId=GRM155R61C104KA88D
+Change Component DesignItemId : Designator=Css Old DesignItemId= New DesignItemId=GRM155R71C822KA01D
+Change Component DesignItemId : Designator=Cin_2 Old DesignItemId= New DesignItemId=GRM188R61C106MA73D
+Change Component DesignItemId : Designator=Rfbb Old DesignItemId= New DesignItemId=RC0603FR-0782KL
+Change Component DesignItemId : Designator=Rt Old DesignItemId= New DesignItemId=RC1206FR-0782KL
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=TPS61088RHLR
+Change Component DesignItemId : Designator=VIN Old DesignItemId= New DesignItemId=WB_BATTERY
+Change Component DesignItemId : Designator=L1 Old DesignItemId= New DesignItemId=XAL4020-601MEB
+Change Component Comment : Designator=Ccomp Old Comment=Comment New Comment=02013A220GAT2A
+Change Component Comment : Designator=Cbst Old Comment=Comment New Comment=C1005X5R1A104K
+Change Component Comment : Designator=Cvcc Old Comment=Comment New Comment=C1608X5R1A105K
+Change Component Comment : Designator=Cout Old Comment=Comment New Comment=C3216X5R1E226M
+Change Component Comment : Designator=Ccomp2 Old Comment=Comment New Comment=CL02C100JO2ANNC
+Change Component Comment : Designator=Rcomp Old Comment=Comment New Comment=CRCW040249K9FKED
+Change Component Comment : Designator=Rfbt Old Comment=Comment New Comment=CRCW0402732KFKED
+Change Component Comment : Designator=Rlim Old Comment=Comment New Comment=ERJ-8ENF1133V
+Change Component Comment : Designator=Cin2 Old Comment=Comment New Comment=GRM155R61C104KA88D
+Change Component Comment : Designator=Css Old Comment=Comment New Comment=GRM155R71C822KA01D
+Change Component Comment : Designator=Cin_2 Old Comment=Comment New Comment=GRM188R61C106MA73D
+Change Component Comment : Designator=Rfbb Old Comment=Comment New Comment=RC0603FR-0782KL
+Change Component Comment : Designator=Rt Old Comment=Comment New Comment=RC1206FR-0782KL
+Change Component Comment : Designator=U1 Old Comment=Comment New Comment=TPS61088RHLR
+Change Component Comment : Designator=VIN Old Comment=Comment New Comment=WB_BATTERY
+Change Component Comment : Designator=L1 Old Comment=Comment New Comment=XAL4020-601MEB
+Change Component Description : Designator=Ccomp Old Description= New Description=02013A220GAT2A
+Change Component Description : Designator=Cbst Old Description= New Description=C1005X5R1A104K
+Change Component Description : Designator=Cvcc Old Description= New Description=C1608X5R1A105K
+Change Component Description : Designator=Cout Old Description= New Description=C3216X5R1E226M
+Change Component Description : Designator=Ccomp2 Old Description= New Description=CL02C100JO2ANNC
+Change Component Description : Designator=Rcomp Old Description= New Description=CRCW040249K9FKED
+Change Component Description : Designator=Rfbt Old Description= New Description=CRCW0402732KFKED
+Change Component Description : Designator=Rlim Old Description= New Description=ERJ-8ENF1133V
+Change Component Description : Designator=Cin2 Old Description= New Description=GRM155R61C104KA8
+Change Component Description : Designator=Css Old Description= New Description=GRM155R71C822KA0
+Change Component Description : Designator=Cin_2 Old Description= New Description=GRM188R61C106MA7
+Change Component Description : Designator=Rfbb Old Description= New Description=RC0603FR-0782KL
+Change Component Description : Designator=Rt Old Description= New Description=RC1206FR-0782KL
+Change Component Description : Designator=U1 Old Description= New Description=TPS61088RHLR
+Change Component Description : Designator=VIN Old Description= New Description=WB_BATTERY
+Change Component Description : Designator=L1 Old Description= New Description=XAL4020-601MEB
+Change Component Library : Designator=Cbst Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Ccomp2 Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Ccomp Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Cin2 Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Cin_2 Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Cout Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Css Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Cvcc Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=L1 Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Rcomp Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Rfbb Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Rfbt Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Rlim Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Rt Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=U1 Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=VIN Old Library= New Library=TI WEBENCH
+Added Pin To Net: NetName=0 Pin=U1-13
+Change Net Name : Old Net Name=1 New Net Name=NetCin2_1
+Change Net Name : Old Net Name=2 New Net Name=NetCvcc_1
+Change Net Name : Old Net Name=3 New Net Name=NetCcomp2_1
+Change Net Name : Old Net Name=5 New Net Name=NetCcomp_1
+Change Net Name : Old Net Name=7 New Net Name=NetRfbb_1
+Change Net Name : Old Net Name=8 New Net Name=NetCout_1
+Change Net Name : Old Net Name=9 New Net Name=NetCbst_2
+Change Net Name : Old Net Name=11 New Net Name=NetRlim_1
+Change Net Name : Old Net Name=14 New Net Name=NetCss_1
+Change Net Name : Old Net Name=15 New Net Name=NetCbst_1
+Change Net Name : Old Net Name=16 New Net Name=NetRt_2
+Added Class: Name=UmbilicalBoardV2
+Added Room: Name=UmbilicalBoardV2

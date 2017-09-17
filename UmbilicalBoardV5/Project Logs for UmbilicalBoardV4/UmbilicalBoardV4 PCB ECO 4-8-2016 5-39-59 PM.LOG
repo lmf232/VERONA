@@ -1,0 +1,7 @@
+Added Component: Designator=FrameGND(ViatoFrame)
+Added Component: Designator=RFrame(AXIAL-0.3)
+Added Pin To Net: NetName=GOM_GND_1 Pin=RFrame-1
+Added Pin To Net: NetName=NetFrameGND_1 Pin=RFrame-2
+Added Member To Class: ClassName=U_GroundtoFrame Member=Component FrameGND ViatoFrame
+Added Member To Class: ClassName=U_GroundtoFrame Member=Component RFrame Rframe
+Added Room: Name=U_GroundtoFrame

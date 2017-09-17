@@ -1,0 +1,12 @@
+Change Component Description : Designator=R12 Old Description=- 696-1552-ND New Description=Resistor- 696-1552-ND
+Change Component Description : Designator=Docking Old Description=501571-3007 (uses 24 Pins) New Description=24 Pin Connector
+Change Component Description : Designator=Barrel Jack Old Description=Low (KLD-0202-B) New Description=Low Voltage Power Supply Connector
+Change Component Description : Designator=XACT Old Description=Molex 501571-4007 New Description=31 Pin Airborn Nano Connector
+Change Component Description : Designator=PIKSI_UARTA Old Description=Molex Picoblade Header, SMT, Right Angle  53261-0571 New Description=Molex Picoblade 5 Pin
+Change Component Description : Designator=RPOT Old Description=Potentiometer- 3352T-104LF-ND New Description=Potentiometer
+Change Component Description : Designator=R11 Old Description=Resistor- 696-1552-ND New Description=Resistor- 696-1552-ND 
+Change Component Description : Designator=OpAmp Old Description=UA741CD (SOIC Package) New Description=
+Added Component: Designator=FrameGND(ViatoFrame)
+Added Member To Class: ClassName=U_GroundtoFrame Member=Component FrameGND ViatoFrame
+Added Room: Name=Switch
+Added Room: Name=U_GroundtoFrame

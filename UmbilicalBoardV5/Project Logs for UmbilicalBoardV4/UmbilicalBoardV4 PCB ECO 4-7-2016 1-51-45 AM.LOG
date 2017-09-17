@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=U_Jumpers_rev2 Member=JUMP6
+Added Pin To Net: NetName=V_BAT_1 Pin=JUMP5-1
+Added Member To Class: ClassName=U_Jumpers_rev2 Member=Component JUMP2 Jumper(DIP2)
+Added Room: Name=U_Jumpers_rev2

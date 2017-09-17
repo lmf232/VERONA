@@ -1,0 +1,11 @@
+Added Component: Designator=Barrel Jack(KLD-0202)
+Added Pin To Net: NetName=NetBarrel Jack_1 Pin=Barrel Jack-1A
+Added Pin To Net: NetName=NetBarrel Jack_1 Pin=Barrel Jack-1B
+Added Pin To Net: NetName=NetBarrel Jack_1 Pin=Barrel Jack-1
+Added Pin To Net: NetName=NetBarrel Jack_2 Pin=Barrel Jack-2A
+Added Pin To Net: NetName=NetBarrel Jack_2 Pin=Barrel Jack-2B
+Added Pin To Net: NetName=NetBarrel Jack_2 Pin=Barrel Jack-2
+Added Pin To Net: NetName=NetBarrel Jack_2 Pin=Barrel Jack-3A
+Added Pin To Net: NetName=NetBarrel Jack_2 Pin=Barrel Jack-3B
+Added Pin To Net: NetName=NetBarrel Jack_2 Pin=Barrel Jack-3
+Added Member To Class: ClassName=Barrel Jack Member=Component Barrel Jack PWR2.5

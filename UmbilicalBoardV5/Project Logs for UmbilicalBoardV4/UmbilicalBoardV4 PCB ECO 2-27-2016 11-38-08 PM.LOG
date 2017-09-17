@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetDocking_21 Pin=Docking-22
+Removed Pin From Net: NetName=NetDocking_21 Pin=Docking-23
+Removed Pin From Net: NetName=NetDocking_21 Pin=Docking-24
+Removed Pin From Net: NetName=NetDocking_21 Pin=Docking-25
+Added Pin To Net: NetName=NetDocking_22 Pin=Docking-22
+Added Pin To Net: NetName=NetDocking_23 Pin=Docking-23

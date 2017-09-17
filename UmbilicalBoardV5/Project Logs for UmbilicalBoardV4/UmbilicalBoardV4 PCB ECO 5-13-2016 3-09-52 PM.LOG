@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3V3_2 Pin=JUMP4-1
+Removed Pin From Net: NetName=GPIO_ANALOG Pin=PresAmp-6
+Added Component: Designator=JUMP6(Jumper(DIP2))
+Added Pin To Net: NetName=+5V_4 Pin=JUMP4-1
+Added Pin To Net: NetName=3V3_2 Pin=JUMP4-1
+Added Pin To Net: NetName=3V3_2_JUMP4 Pin=JUMP4-2
+Added Pin To Net: NetName=GPIO_ADC_NEWPRESS Pin=R_voltdiv_1-2
+Added Pin To Net: NetName=GPIO_ADC_NEWPRESS Pin=R_voltdiv_2-2
+Added Net: Name=GPIO_ADC_NEWPRESS
+Added Pin To Net: NetName=NetPC-104_H2_17 Pin=PC-104-H2_17
+Added Net: Name=NetPC-104_H2_17
+Added Pin To Net: NetName=NetPC-104_H2_19 Pin=PC-104-H2_19
+Added Net: Name=NetPC-104_H2_19
+Added Pin To Net: NetName=NetPresAmp_6 Pin=PresAmp-6
+Added Net: Name=NetPresAmp_6

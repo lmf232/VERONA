@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=FrameGND Old DesignItemId=RemoverBeforeFlightSwitch New DesignItemId=ViatoFrame
+Change Component Comment : Designator=FrameGND Old Comment=FrameGND New Comment=ViatoFrame
+Change Component Description : Designator=FrameGND Old Description=53048-0210 Molex Picoblade New Description=

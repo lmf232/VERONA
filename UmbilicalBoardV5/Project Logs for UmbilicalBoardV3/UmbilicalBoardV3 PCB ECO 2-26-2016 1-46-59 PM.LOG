@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=NetCurrentSource_1 Pin=CurrentSource-0
+Removed Pin From Net: NetName=NetCurrentSource_1 Pin=CurrentSource-2
+Removed Pin From Net: NetName=B9 Pin=Docking-21
+Removed Pin From Net: NetName=B9 Pin=Docking-23
+Removed Pin From Net: NetName=B9 Pin=Docking-24
+Removed Pin From Net: NetName=B9 Pin=Docking-25
+Removed Member From Class: ClassName=PressureSensor Member=D5
+Removed Member From Class: ClassName=D1_Nets Member=C1
+Removed Member From Class: ClassName=D1_Nets Member=C2
+Removed Member From Class: ClassName=D1_Nets Member=C3
+Removed Member From Class: ClassName=D5_Nets Member=NetCurrentSource_2
+Removed Member From Class: ClassName=R2_Nets Member=NetD1_2
+Removed Member From Class: ClassName=R3_Nets Member=NetD1_2
+Removed Member From Class: ClassName=R4_Nets Member=NetD1_2
+Removed Member From Class: ClassName=R6_Nets Member=NetD5_2
+Change Component Designator: OldDesignator=D1 NewDesignator=D6
+Change Component Designator: OldDesignator=D1 NewDesignator=D7
+Change Component Designator: OldDesignator=D1 NewDesignator=D8
+Change Component Designator: OldDesignator=D5 NewDesignator=D9
+Added Pin To Net: NetName=+3.3V Pin=CurrentSource-0
+Added Pin To Net: NetName=NetCurrentSource_2 Pin=CurrentSource-2
+Added Pin To Net: NetName=A4 Pin=Docking-21
+Added Pin To Net: NetName=B6 Pin=Docking-23
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R3-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R4-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=R6-1
+Added Net: Name=NetD9_2
+Added Class: Name=D6_Nets
+Added Class: Name=D7_Nets
+Added Class: Name=D8_Nets
+Added Class: Name=D9_Nets
+Added Member To Class: ClassName=SolSwitch Member=Component D6 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D7 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D8 Diode
+Added Member To Class: ClassName=PressureSensor Member=Component D9 Diode 1N4148
+Added Member To Class: ClassName=R2_Nets Member=Wire NetD6_2
+Added Member To Class: ClassName=R3_Nets Member=Wire NetD7_2
+Added Member To Class: ClassName=R4_Nets Member=Wire NetD8_2
+Added Member To Class: ClassName=R6_Nets Member=Wire NetD9_2

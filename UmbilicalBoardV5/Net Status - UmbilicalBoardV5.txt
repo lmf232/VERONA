@@ -1,0 +1,89 @@
+Net Status Report
+Filename     : C:\Users\CADputer-002\Documents\ADCS Altium\UmbilicalBoardV5\UmbilicalBoardV5.PcbDoc
+Date         : 8/7/2017
+Time         : 3:22:22 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +12V_1, Signal Layers Only, 103.6512mm
+    +12V_1_JUMP10, Signal Layers Only, 48.7756mm
+    +12V_1_JUMP7, Signal Layers Only, 13.2951mm
+    +12V_1_JUMP8, Signal Layers Only, 25.0734mm
+    +12V_1_JUMP9, Signal Layers Only, 25.3217mm
+    +5V_1, Signal Layers Only, 39.6161mm
+    +5V_1_JUMP1, Signal Layers Only, 22.782mm
+    +5V_2, Signal Layers Only, 14.8113mm
+    +5V_2_JUMP2, Signal Layers Only, 63.627mm
+    +5V_3, Signal Layers Only, 3.6971mm
+    +5V_3_JUMP3, Signal Layers Only, 89.8961mm
+    +5V_5, Signal Layers Only, 107.1952mm
+    +5V_5_JUMP6, Signal Layers Only, 6.9988mm
+    3V3_1, Signal Layers Only, 85.5957mm
+    3V3_2, Signal Layers Only, 76.9722mm
+    3V3_2_JUMP4, Signal Layers Only, 63.2023mm
+    ANALOGGND, Signal Layers Only, 110.5785mm
+    BAT_CHARGE, Signal Layers Only, 72.9069mm
+    C0, Signal Layers Only, 77.3018mm
+    C1, Signal Layers Only, 85.0592mm
+    C2, Signal Layers Only, 89.7937mm
+    C3, Signal Layers Only, 91.987mm
+    GOM_GND_1, Signal Layers Only, 90.331mm
+    GPIO3, Signal Layers Only, 49.3557mm
+    GPIO_ADC_NEWPRESS, Signal Layers Only, 104.3662mm
+    GPIO_ADC_OLDPRESS, Signal Layers Only, 94.6383mm
+    NetC12_1, Signal Layers Only, 15.8265mm
+    NetC12_2, Signal Layers Only, 4.5732mm
+    NetCboot_1, Signal Layers Only, 37.6967mm
+    NetCboot_2, Signal Layers Only, 4.1479mm
+    NetCcomp2_1, Signal Layers Only, 11.2376mm
+    NetCcomp_1, Signal Layers Only, 1.961mm
+    NetCss_2, Signal Layers Only, 5.3343mm
+    NetCvcc_1, Signal Layers Only, 16.7016mm
+    NetD1_1, Signal Layers Only, 34.0388mm
+    NetD2_1, Signal Layers Only, 33.6743mm
+    NetD3_1, Signal Layers Only, 29.8716mm
+    NetD4_1, Signal Layers Only, 39.1454mm
+    NetDocking_0, Signal Layers Only, 38.9242mm
+    NetDocking_1, Signal Layers Only, 48.6158mm
+    NetDocking_15, Signal Layers Only, 39.9128mm
+    NetDocking_16, Signal Layers Only, 42.7322mm
+    NetDocking_22, Signal Layers Only, 67.2485mm
+    NetDocking_23, Signal Layers Only, 73.7641mm
+    NetFlightSwitch_2, Signal Layers Only, 57.1959mm
+    NetIOconn_rev2_1, Signal Layers Only, 91.6512mm
+    NetIOconn_rev2_2, Signal Layers Only, 94.6906mm
+    NetL1_1, Signal Layers Only, 0mm
+    NetM1_4, Signal Layers Only, 17.3537mm
+    NetM2_4, Signal Layers Only, 23.5144mm
+    NetOpAmp_2, Signal Layers Only, 23.9075mm
+    NetOpAmp_3, Signal Layers Only, 11.2499mm
+    NetOpAmp_6, Signal Layers Only, 5.5909mm
+    NetPC-104_H1_39, Signal Layers Only, 0mm
+    NetPC-104_H1_48, Signal Layers Only, 0mm
+    NetPC-104_H1_50, Signal Layers Only, 0mm
+    NetPC-104_H1_51, Signal Layers Only, 0mm
+    NetPC-104_H1_52, Signal Layers Only, 0mm
+    NetPresAmp_1, Signal Layers Only, 14.7925mm
+    NetPresAmp_2, Signal Layers Only, 19.5285mm
+    NetPresAmp_3, Signal Layers Only, 27.406mm
+    NetPresAmp_8, Signal Layers Only, 18.2263mm
+    NetPressCon_2_2, Signal Layers Only, 2.624mm
+    NetPressureCon_3, Signal Layers Only, 18.8151mm
+    NetQ1_2, Signal Layers Only, 6.4388mm
+    NetQ2_2, Signal Layers Only, 4.8517mm
+    NetQ3_2, Signal Layers Only, 4.8579mm
+    NetQ4_2, Signal Layers Only, 4.155mm
+    NetRfbb_1, Signal Layers Only, 8.8869mm
+    NetRpg_2, Signal Layers Only, 3.8533mm
+    NetRt_1, Signal Layers Only, 3.9735mm
+    PWR_EN, Signal Layers Only, 0mm
+    PWR_EN_J2, Signal Layers Only, 0mm
+    SPI_MISO, Signal Layers Only, 97.0693mm
+    SPI_MOSI, Signal Layers Only, 87.6238mm
+    SPI_SCK, Signal Layers Only, 94.3686mm
+    SPI_SS, Signal Layers Only, 100.124mm
+    UART5_RX, Signal Layers Only, 51.8765mm
+    UART5_TX, Signal Layers Only, 55.3291mm
+    V_BAT_1, Signal Layers Only, 128.1754mm
+    V_BAT_1_JUMP5, Signal Layers Only, 16.0125mm
+count : 81

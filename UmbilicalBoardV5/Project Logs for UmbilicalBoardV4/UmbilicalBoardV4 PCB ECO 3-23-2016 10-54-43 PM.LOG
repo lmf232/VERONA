@@ -1,0 +1,4 @@
+Added Class: Name=U_DCDC_1_Rev3_StructureClass
+Added Class: Name=U_DCDC_2_Rev3_StructureClass
+Added Member To Structure Class: ClassName=TopV4_StructureClass Member=U_DCDC_1_Rev3_StructureClass
+Added Member To Structure Class: ClassName=TopV4_StructureClass Member=U_DCDC_2_Rev3_StructureClass

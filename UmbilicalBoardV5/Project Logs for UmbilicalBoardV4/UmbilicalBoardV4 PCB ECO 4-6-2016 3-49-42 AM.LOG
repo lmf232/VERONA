@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C_Supply NewDesignator=C_Supply_1
+Added Component: Designator=C_Supply_2(1210)
+Added Component: Designator=C_Supply_3(1210)
+Added Component: Designator=C_Supply_4(1210)
+Added Pin To Net: NetName=V_BAT_1 Pin=C_Supply_2-1
+Added Pin To Net: NetName=NetC_Supply_2 Pin=C_Supply_2-2
+Added Pin To Net: NetName=V_BAT_1 Pin=C_Supply_3-1
+Added Pin To Net: NetName=NetC_Supply_2 Pin=C_Supply_3-2
+Added Pin To Net: NetName=V_BAT_1 Pin=C_Supply_4-1
+Added Pin To Net: NetName=NetC_Supply_2 Pin=C_Supply_4-2
+Change Net Name : Old Net Name=NetC_Supply_2 New Net Name=NetC_Supply_1_2
+Added Member To Class: ClassName=U_6Amp_DCDC Member=Component C_Supply_2 C3225X6S1C226M
+Added Member To Class: ClassName=U_6Amp_DCDC Member=Component C_Supply_3 C3225X6S1C226M
+Added Member To Class: ClassName=U_6Amp_DCDC Member=Component C_Supply_4 C3225X6S1C226M

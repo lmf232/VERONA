@@ -1,0 +1,11 @@
+Change Component DesignItemId : Designator=SolenoidConnector Old DesignItemId=SolenoidConnector New DesignItemId=Solenoid
+Change Component Comment : Designator=SolenoidConnector Old Comment=SolenoidConnector New Comment=Solenoid
+Change Component Library : Designator=SolenoidConnector Old Library=UmbilicalBoardV3.IntLib New Library=UmbilicalBoardV2.SCHLIB
+Added Pin To Net: NetName=+12V Pin=SolenoidConnector-1
+Added Pin To Net: NetName=NetD1_1 Pin=SolenoidConnector-2
+Added Pin To Net: NetName=+12V Pin=SolenoidConnector-3
+Added Pin To Net: NetName=NetD2_1 Pin=SolenoidConnector-4
+Added Pin To Net: NetName=+12V Pin=SolenoidConnector-5
+Added Pin To Net: NetName=NetD3_1 Pin=SolenoidConnector-6
+Added Pin To Net: NetName=+12V Pin=SolenoidConnector-7
+Added Pin To Net: NetName=NetD4_1 Pin=SolenoidConnector-8

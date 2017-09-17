@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetDsub_2 Pin=PC-104-H1_17
+Removed Pin From Net: NetName=NetDsub_1 Pin=PC-104-H1_19
+Added Component: Designator=PIKSI_UARTA(Molex Picoblade 5 Pin)
+Change Net Name : Old Net Name=NetCin2_1 New Net Name=BAT_GOM
+Added Pin To Net: NetName=NetPC-104_H1_17 Pin=PC-104-H1_17
+Added Net: Name=NetPC-104_H1_17
+Added Pin To Net: NetName=NetPC-104_H1_19 Pin=PC-104-H1_19
+Added Net: Name=NetPC-104_H1_19
+Added Class: Name=PIKSI_UARTA
+Added Room: Name=PIKSI_UARTA

@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=D1_Nets Member=D1_SOL1
+Removed Member From Class: ClassName=Solenoid_Nets Member=D1_SOL1
+Removed Member From Class: ClassName=D2_Nets Member=D3_SOL3
+Removed Member From Class: ClassName=Solenoid_Nets Member=D3_SOL3
+Removed Member From Class: ClassName=D3_Nets Member=D5_SOL5
+Removed Member From Class: ClassName=Solenoid_Nets Member=D5_SOL5
+Removed Member From Class: ClassName=D4_Nets Member=D7_SOL7
+Removed Member From Class: ClassName=Solenoid_Nets Member=D7_SOL7
+Removed Member From Class: ClassName=Q1_Nets Member=Q1_SOL2
+Removed Member From Class: ClassName=Solenoid_Nets Member=Q1_SOL2
+Added Pin To Net: NetName=GPS-3V3 Pin=CurrentSource-0
+Added Pin To Net: NetName=NetCurrentSource_1 Pin=CurrentSource-1
+Added Pin To Net: NetName=+12V Pin=D1-2
+Added Pin To Net: NetName=Q2_SOL4 Pin=D2-1
+Added Pin To Net: NetName=+12V Pin=D2-2
+Added Pin To Net: NetName=Q3_SOL6 Pin=D3-1
+Added Pin To Net: NetName=+12V Pin=D3-2
+Added Pin To Net: NetName=Q4_SOL8 Pin=D4-1
+Added Pin To Net: NetName=+12V Pin=D4-2
+Added Pin To Net: NetName=SPI_SS Pin=Docking-21
+Added Pin To Net: NetName=I2C_SCL Pin=Docking-23
+Added Pin To Net: NetName=+12V Pin=Q1-1
+Added Pin To Net: NetName=+12V Pin=Solenoid-Sol1_12V
+Added Pin To Net: NetName=+12V Pin=Solenoid-Sol1_NPN
+Added Pin To Net: NetName=+12V Pin=Solenoid-Sol2_12V
+Added Pin To Net: NetName=+12V Pin=Solenoid-Sol3_12V
+Added Pin To Net: NetName=+12V Pin=Solenoid-Sol4_12V
+Added Member To Class: ClassName=Q1_Nets Member=Wire +12V
+Added Member To Class: ClassName=Solenoid_Nets Member=Wire +12V
+Added Member To Class: ClassName=D2_Nets Member=Wire Q2_SOL4
+Added Member To Class: ClassName=D3_Nets Member=Wire Q3_SOL6
+Added Member To Class: ClassName=D4_Nets Member=Wire Q4_SOL8

@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=U_6Amp_DCDC Member=OpAmp
+Removed Member From Class: ClassName=PressureSensor Member=Q4
+Removed Member From Class: ClassName=PressureSensor Member=R4
+Removed Member From Class: ClassName=SolSwitch Member=R5
+Removed Member From Class: ClassName=SolSwitch Member=R6
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q5
+Change Component Designator: OldDesignator=R4 NewDesignator=R7
+Added Member To Class: ClassName=SolSwitch Member=Component Q1 MOSFET
+Added Member To Class: ClassName=PressureSensor Member=Component Q5 2N3906
+Added Member To Class: ClassName=SolSwitch Member=Component R1 100
+Added Member To Class: ClassName=SolSwitch Member=Component R2 100
+Added Member To Class: ClassName=SolSwitch Member=Component R3 100
+Added Member To Class: ClassName=PressureSensor Member=Component R7 1000
+Added Member To Class: ClassName=U_6Amp_DCDC Member=Component U1 TPS43061RTER

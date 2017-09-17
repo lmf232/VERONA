@@ -1,0 +1,229 @@
+Added Component: Designator=D1(SMC)
+Added Component: Designator=D2(SMC)
+Added Component: Designator=D3(SMC)
+Added Component: Designator=D4(SMC)
+Added Component: Designator=D5(SMC)
+Added Component: Designator=D6(SMC)
+Added Component: Designator=D7(SMC)
+Added Component: Designator=D8(SMC)
+Added Component: Designator=Q1(TO-226-AA)
+Added Component: Designator=Q2(TO-226-AA)
+Added Component: Designator=Q3(TO-226-AA)
+Added Component: Designator=Q4(TO-226-AA)
+Added Component: Designator=R1(0402)
+Added Component: Designator=R2(0402)
+Added Component: Designator=R3(0402)
+Added Component: Designator=R4(0402)
+Added Pin To Net: NetName=+12V Pin=Cout-1
+Added Pin To Net: NetName=+12V Pin=Rfbt-1
+Added Pin To Net: NetName=+12V Pin=U1-14
+Added Pin To Net: NetName=+12V Pin=U1-15
+Added Pin To Net: NetName=+12V Pin=U1-16
+Added Net: Name=+12V
+Added Pin To Net: NetName=BAT_GOM Pin=Cin2-1
+Added Pin To Net: NetName=BAT_GOM Pin=Cin-1
+Added Pin To Net: NetName=BAT_GOM Pin=Cin_2-1
+Added Pin To Net: NetName=BAT_GOM Pin=L1-1
+Added Pin To Net: NetName=BAT_GOM Pin=U1-9
+Added Net: Name=BAT_GOM
+Added Pin To Net: NetName=C0 Pin=D5-1
+Added Net: Name=C0
+Added Pin To Net: NetName=C1 Pin=D6-1
+Added Net: Name=C1
+Added Pin To Net: NetName=C2 Pin=D7-1
+Added Net: Name=C2
+Added Pin To Net: NetName=C3 Pin=D8-1
+Added Net: Name=C3
+Added Pin To Net: NetName=D1_SOL1 Pin=D1-1
+Added Pin To Net: NetName=D1_SOL1 Pin=D1-2
+Added Pin To Net: NetName=D1_SOL1 Pin=D2-2
+Added Pin To Net: NetName=D1_SOL1 Pin=D3-2
+Added Pin To Net: NetName=D1_SOL1 Pin=D4-2
+Added Pin To Net: NetName=D1_SOL1 Pin=Q1-1
+Added Net: Name=D1_SOL1
+Added Pin To Net: NetName=DGND Pin=Q1-3
+Added Pin To Net: NetName=DGND Pin=Q2-3
+Added Pin To Net: NetName=DGND Pin=Q3-3
+Added Pin To Net: NetName=DGND Pin=Q4-3
+Added Net: Name=DGND
+Added Pin To Net: NetName=NetCbst_1 Pin=Cbst-1
+Added Pin To Net: NetName=NetCbst_1 Pin=L1-2
+Added Pin To Net: NetName=NetCbst_1 Pin=Rt-1
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-4
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-5
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-6
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-7
+Added Net: Name=NetCbst_1
+Added Pin To Net: NetName=NetCbst_2 Pin=Cbst-2
+Added Pin To Net: NetName=NetCbst_2 Pin=U1-8
+Added Net: Name=NetCbst_2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Ccomp2-2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rcomp-1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=U1-18
+Added Net: Name=NetCcomp2_2
+Added Pin To Net: NetName=NetCcomp_1 Pin=Ccomp-1
+Added Pin To Net: NetName=NetCcomp_1 Pin=Rcomp-2
+Added Net: Name=NetCcomp_1
+Added Pin To Net: NetName=NetCss_2 Pin=Css-2
+Added Pin To Net: NetName=NetCss_2 Pin=U1-10
+Added Net: Name=NetCss_2
+Added Pin To Net: NetName=NetCvcc_2 Pin=Cvcc-2
+Added Pin To Net: NetName=NetCvcc_2 Pin=U1-1
+Added Pin To Net: NetName=NetCvcc_2 Pin=U1-2
+Added Net: Name=NetCvcc_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R1-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R2-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R3-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R4-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R2-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R3-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R4-2
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbb-1
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbt-2
+Added Pin To Net: NetName=NetRfbb_1 Pin=U1-17
+Added Net: Name=NetRfbb_1
+Added Pin To Net: NetName=NetRlim_1 Pin=Rlim-1
+Added Pin To Net: NetName=NetRlim_1 Pin=U1-19
+Added Net: Name=NetRlim_1
+Added Pin To Net: NetName=NetRt_2 Pin=Rt-2
+Added Pin To Net: NetName=NetRt_2 Pin=U1-3
+Added Net: Name=NetRt_2
+Added Pin To Net: NetName=POWER_GND Pin=Ccomp2-1
+Added Pin To Net: NetName=POWER_GND Pin=Ccomp-2
+Added Pin To Net: NetName=POWER_GND Pin=Cin2-2
+Added Pin To Net: NetName=POWER_GND Pin=Cin-2
+Added Pin To Net: NetName=POWER_GND Pin=Cin_2-2
+Added Pin To Net: NetName=POWER_GND Pin=Cout-2
+Added Pin To Net: NetName=POWER_GND Pin=Css-1
+Added Pin To Net: NetName=POWER_GND Pin=Cvcc-1
+Added Pin To Net: NetName=POWER_GND Pin=Rfbb-2
+Added Pin To Net: NetName=POWER_GND Pin=Rlim-2
+Added Pin To Net: NetName=POWER_GND Pin=U1-11
+Added Pin To Net: NetName=POWER_GND Pin=U1-12
+Added Pin To Net: NetName=POWER_GND Pin=U1-13
+Added Pin To Net: NetName=POWER_GND Pin=U1-20
+Added Pin To Net: NetName=POWER_GND Pin=U1-21
+Added Net: Name=POWER_GND
+Added Pin To Net: NetName=Q2_SOL4 Pin=D2-1
+Added Pin To Net: NetName=Q2_SOL4 Pin=Q2-1
+Added Net: Name=Q2_SOL4
+Added Pin To Net: NetName=Q3_SOL6 Pin=D3-1
+Added Pin To Net: NetName=Q3_SOL6 Pin=Q3-1
+Added Net: Name=Q3_SOL6
+Added Pin To Net: NetName=Q4_SOL8 Pin=D4-1
+Added Pin To Net: NetName=Q4_SOL8 Pin=Q4-1
+Added Net: Name=Q4_SOL8
+Added Member To Class: ClassName=SolSwitch Member=Component D1 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D2 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D3 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D4 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D5 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D6 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D7 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component D8 Diode
+Added Member To Class: ClassName=SolSwitch Member=Component Q1 NPN
+Added Member To Class: ClassName=SolSwitch Member=Component Q2 NPN
+Added Member To Class: ClassName=SolSwitch Member=Component Q3 NPN
+Added Member To Class: ClassName=SolSwitch Member=Component Q4 NPN
+Added Member To Class: ClassName=SolSwitch Member=Component R1 CRCW040249K9FKED
+Added Member To Class: ClassName=SolSwitch Member=Component R2 CRCW040249K9FKED
+Added Member To Class: ClassName=SolSwitch Member=Component R3 CRCW040249K9FKED
+Added Member To Class: ClassName=SolSwitch Member=Component R4 CRCW040249K9FKED
+Added Member To Class: ClassName=Cout_Nets Member=Wire +12V
+Added Member To Class: ClassName=Rfbt_Nets Member=Wire +12V
+Added Member To Class: ClassName=U1_Nets Member=Wire +12V
+Added Member To Class: ClassName=Cin2_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=Cin_2_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=Cin_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=L1_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=U1_Nets Member=Wire BAT_GOM
+Added Member To Class: ClassName=D5_Nets Member=Wire C0
+Added Member To Class: ClassName=D6_Nets Member=Wire C1
+Added Member To Class: ClassName=D7_Nets Member=Wire C2
+Added Member To Class: ClassName=D8_Nets Member=Wire C3
+Added Member To Class: ClassName=D1_Nets Member=Wire D1_SOL1
+Added Member To Class: ClassName=D2_Nets Member=Wire D1_SOL1
+Added Member To Class: ClassName=D3_Nets Member=Wire D1_SOL1
+Added Member To Class: ClassName=D4_Nets Member=Wire D1_SOL1
+Added Member To Class: ClassName=Q1_Nets Member=Wire D1_SOL1
+Added Member To Class: ClassName=Solenoid_Nets Member=Wire D1_SOL1
+Added Member To Class: ClassName=Q1_Nets Member=Wire DGND
+Added Member To Class: ClassName=Q2_Nets Member=Wire DGND
+Added Member To Class: ClassName=Q3_Nets Member=Wire DGND
+Added Member To Class: ClassName=Q4_Nets Member=Wire DGND
+Added Member To Class: ClassName=Cbst_Nets Member=Wire NetCbst_1
+Added Member To Class: ClassName=L1_Nets Member=Wire NetCbst_1
+Added Member To Class: ClassName=Rt_Nets Member=Wire NetCbst_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCbst_1
+Added Member To Class: ClassName=Cbst_Nets Member=Wire NetCbst_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCbst_2
+Added Member To Class: ClassName=Ccomp2_Nets Member=Wire NetCcomp2_2
+Added Member To Class: ClassName=Rcomp_Nets Member=Wire NetCcomp2_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCcomp2_2
+Added Member To Class: ClassName=Ccomp_Nets Member=Wire NetCcomp_1
+Added Member To Class: ClassName=Rcomp_Nets Member=Wire NetCcomp_1
+Added Member To Class: ClassName=Css_Nets Member=Wire NetCss_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCss_2
+Added Member To Class: ClassName=Cvcc_Nets Member=Wire NetCvcc_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetCvcc_2
+Added Member To Class: ClassName=D5_Nets Member=Wire NetD5_2
+Added Member To Class: ClassName=R1_Nets Member=Wire NetD5_2
+Added Member To Class: ClassName=D6_Nets Member=Wire NetD6_2
+Added Member To Class: ClassName=R2_Nets Member=Wire NetD6_2
+Added Member To Class: ClassName=D7_Nets Member=Wire NetD7_2
+Added Member To Class: ClassName=R3_Nets Member=Wire NetD7_2
+Added Member To Class: ClassName=D8_Nets Member=Wire NetD8_2
+Added Member To Class: ClassName=R4_Nets Member=Wire NetD8_2
+Added Member To Class: ClassName=Q1_Nets Member=Wire NetQ1_2
+Added Member To Class: ClassName=R1_Nets Member=Wire NetQ1_2
+Added Member To Class: ClassName=Q2_Nets Member=Wire NetQ2_2
+Added Member To Class: ClassName=R2_Nets Member=Wire NetQ2_2
+Added Member To Class: ClassName=Q3_Nets Member=Wire NetQ3_2
+Added Member To Class: ClassName=R3_Nets Member=Wire NetQ3_2
+Added Member To Class: ClassName=Q4_Nets Member=Wire NetQ4_2
+Added Member To Class: ClassName=R4_Nets Member=Wire NetQ4_2
+Added Member To Class: ClassName=Rfbb_Nets Member=Wire NetRfbb_1
+Added Member To Class: ClassName=Rfbt_Nets Member=Wire NetRfbb_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetRfbb_1
+Added Member To Class: ClassName=Rlim_Nets Member=Wire NetRlim_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetRlim_1
+Added Member To Class: ClassName=Rt_Nets Member=Wire NetRt_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetRt_2
+Added Member To Class: ClassName=Ccomp2_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Ccomp_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cin2_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cin_2_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cin_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cout_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Css_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Cvcc_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Rfbb_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=Rlim_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=U1_Nets Member=Wire POWER_GND
+Added Member To Class: ClassName=D2_Nets Member=Wire Q2_SOL4
+Added Member To Class: ClassName=Q2_Nets Member=Wire Q2_SOL4
+Added Member To Class: ClassName=Solenoid_Nets Member=Wire Q2_SOL4
+Added Member To Class: ClassName=D3_Nets Member=Wire Q3_SOL6
+Added Member To Class: ClassName=Q3_Nets Member=Wire Q3_SOL6
+Added Member To Class: ClassName=Solenoid_Nets Member=Wire Q3_SOL6
+Added Member To Class: ClassName=D4_Nets Member=Wire Q4_SOL8
+Added Member To Class: ClassName=Q4_Nets Member=Wire Q4_SOL8
+Added Member To Class: ClassName=Solenoid_Nets Member=Wire Q4_SOL8
+Added Room: Name=SolSwitch

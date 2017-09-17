@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetDocking_22 Pin=Docking-21
+Removed Pin From Net: NetName=NetDocking_22 Pin=Docking-23
+Removed Pin From Net: NetName=NetDocking_22 Pin=Docking-24
+Removed Pin From Net: NetName=NetDocking_22 Pin=Docking-25
+Added Pin To Net: NetName=NetDocking_21 Pin=Docking-21
+Added Pin To Net: NetName=NetDocking_23 Pin=Docking-23
+Added Pin To Net: NetName=NetPC-104_H2_30 Pin=PIKSI_UARTA-0
+Added Pin To Net: NetName=NetPC-104_H1_19 Pin=PIKSI_UARTA-1
+Added Pin To Net: NetName=NetPC-104_H1_17 Pin=PIKSI_UARTA-2

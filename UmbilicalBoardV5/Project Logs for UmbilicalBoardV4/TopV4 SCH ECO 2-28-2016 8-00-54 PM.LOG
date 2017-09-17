@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=Q1 Old Footprint=E3 New Footprint=TO-226-AA
+Change Component Footprint: Designator=Q2 Old Footprint=E3 New Footprint=TO-226-AA
+Change Component Footprint: Designator=Q3 Old Footprint=E3 New Footprint=TO-226-AA
+Change Component Footprint: Designator=Q4 Old Footprint=E3 New Footprint=TO-226-AA
+Change Component Comment: Designator=R1 Old Comment=100 New Comment=CRCW040249K9FKED
+Change Component Comment: Designator=R2 Old Comment=100 New Comment=CRCW040249K9FKED
+Change Component Comment: Designator=R3 Old Comment=100 New Comment=CRCW040249K9FKED
+Change Component Comment: Designator=R4 Old Comment=100 New Comment=CRCW040249K9FKED
+Change Component Comment: Designator=Q1 Old Comment=MOSFET-N New Comment=NPN
+Change Component Comment: Designator=Q2 Old Comment=MOSFET-N New Comment=NPN
+Change Component Comment: Designator=Q3 Old Comment=MOSFET-N New Comment=NPN
+Change Component Comment: Designator=Q4 Old Comment=MOSFET-N New Comment=NPN

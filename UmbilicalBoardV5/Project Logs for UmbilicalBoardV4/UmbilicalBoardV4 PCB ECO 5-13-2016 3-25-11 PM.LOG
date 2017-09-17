@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=+5V_4_JUMP6 New Net Name=+5V_5_JUMP6
+Added Pin To Net: NetName=+5V_5 Pin=JUMP6-1
+Added Pin To Net: NetName=+5V_5 Pin=PC-104-H1_49
+Added Net: Name=+5V_5
+Added Pin To Net: NetName=NetPC-104_H1_48 Pin=PC-104-H1_48
+Added Net: Name=NetPC-104_H1_48
